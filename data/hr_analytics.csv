@@ -1,0 +1,1201 @@
+Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,PromotionGapRatio,RoleStagnationIndex,TrainingIntensityScore,ManagerStabilityIndicator
+43,0,Travel Rarely,704,HR,10,3,Technical Degree,2,Male,96,2,3,HR Manager,2,Single,23810552,10000,2,No,1.41,3,2,1,10,2,2,10.9,0.5,0.3,5.4,0.025,0.042,0.168,0.451
+22,0,Non-Travel,128,Sales,30,5,Medical,3,Male,22,3,2,Regional Director,2,Married,18028223,2214,1,Yes,2.15,3,2,0,7,6,2,6.9,2.1,0.0,6.9,0.002,0.259,0.732,0.874
+24,0,Non-Travel,506,Finance,1,5,Life Sciences,2,Male,70,4,1,Financial Manager,1,Single,22242097,10000,3,Yes,1.17,3,2,2,13,0,3,2.1,2.1,1.6,2.1,0.514,0.676,0.0,0.676
+50,0,Non-Travel,434,Sales,7,3,Medical,3,Male,58,1,2,VP Sales,3,Married,11787597,9035,3,No,2.16,3,2,2,0,5,2,1.0,1.0,0.5,0.9,0.232,0.488,2.559,0.44
+38,0,Travel Rarely,391,HR,3,1,Business,3,Male,57,1,2,HR Specialist,2,Married,20956636,8810,1,No,3.98,3,3,1,10,2,4,2.3,1.6,0.1,0.9,0.019,0.464,0.18,0.263
+22,0,Travel Rarely,1176,R&D,11,3,Technical Degree,3,Female,149,3,4,Research Lead,2,Single,25000000,10000,2,Yes,1.06,4,2,0,12,1,2,7.1,3.4,0.0,2.2,0.002,0.417,0.076,0.264
+34,0,Non-Travel,197,R&D,24,3,Life Sciences,4,Female,29,3,3,Product Manager,4,Single,23269732,4140,2,No,0.0,3,4,3,10,3,3,2.6,2.6,0.7,2.6,0.209,0.72,0.264,0.72
+33,0,Non-Travel,452,HR,8,3,Other,3,Female,62,1,2,HR Director,3,Single,25000000,9318,1,No,3.49,3,4,1,14,4,4,9.5,3.3,1.3,0.8,0.12,0.316,0.263,0.075
+24,0,Non-Travel,419,R&D,4,2,Life Sciences,1,Male,39,3,2,Technical Architect,3,Divorced,25000000,8846,1,No,0.63,2,1,1,23,1,1,7.3,1.1,0.1,0.9,0.017,0.128,0.041,0.107
+39,0,Non-Travel,844,Operations,18,2,Business,2,Male,110,2,2,Operations Manager,3,Single,25000000,10000,1,No,2.32,2,4,3,21,0,2,1.3,1.3,0.8,1.3,0.347,0.565,0.0,0.565
+49,0,Travel Rarely,498,Operations,30,3,Other,1,Male,70,3,1,Operations Manager,1,Single,25000000,10000,3,No,0.11,2,4,1,22,2,2,3.3,3.3,0.0,0.5,0.005,0.765,0.086,0.117
+32,0,Travel Rarely,325,Finance,29,4,Technical Degree,2,Female,40,2,2,Financial Manager,3,Divorced,2500000,6313,4,No,4.04,1,2,1,0,3,2,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+43,0,Travel Rarely,1169,R&D,6,3,Technical Degree,3,Female,150,3,1,Software Engineer,4,Married,25000000,10000,1,No,2.17,4,4,3,11,4,1,7.9,4.5,0.4,7.9,0.047,0.505,0.323,0.888
+50,0,Travel Frequently,1127,Operations,16,4,Other,3,Female,150,1,2,VP Operations,4,Single,12240160,10000,5,Yes,2.49,2,2,0,6,2,3,4.8,1.3,0.1,0.5,0.01,0.224,0.27,0.086
+29,0,Non-Travel,205,HR,13,2,Technical Degree,3,Male,23,2,2,Recruiter,3,Married,16125756,4176,2,Yes,2.3,2,2,1,10,5,2,1.8,1.8,1.3,1.8,0.456,0.637,0.443,0.637
+31,0,Travel Frequently,1196,Finance,25,5,Business,3,Male,150,2,2,Controller,4,Single,14935499,10000,1,Yes,1.91,3,3,1,4,5,3,4.1,2.6,0.1,4.1,0.016,0.515,0.98,0.804
+42,0,Travel Rarely,281,R&D,19,3,Technical Degree,3,Male,42,4,1,Research Lead,3,Single,20475358,6003,2,Yes,3.35,3,4,1,11,2,1,0.5,0.5,0.0,0.5,0.0,0.333,0.162,0.333
+29,0,Non-Travel,669,Operations,1,4,Life Sciences,1,Female,93,3,1,Director of Ops,3,Single,25000000,10000,1,No,3.55,4,3,2,23,4,2,1.4,1.4,0.9,1.4,0.384,0.59,0.161,0.59
+65,0,Non-Travel,364,R&D,12,2,Business,2,Male,52,1,2,Technical Architect,4,Married,14018494,7689,1,No,1.04,3,2,0,3,2,2,3.2,3.2,1.4,0.8,0.335,0.761,0.478,0.182
+61,0,Travel Frequently,216,Finance,10,5,Medical,1,Female,31,3,1,Financial Manager,3,Single,16154473,4438,2,No,0.0,3,3,0,6,1,1,7.0,3.7,2.1,2.2,0.265,0.469,0.125,0.269
+27,0,Travel Frequently,166,Finance,9,3,Life Sciences,3,Male,24,1,2,Controller,4,Married,22806965,2739,1,No,1.51,3,2,2,11,1,1,0.8,0.8,0.3,0.8,0.175,0.45,0.077,0.45
+46,0,Non-Travel,138,R&D,17,2,Technical Degree,2,Female,22,3,4,Technical Architect,3,Divorced,25000000,2788,1,Yes,4.64,3,2,1,14,1,2,3.9,0.6,0.1,1.7,0.02,0.127,0.065,0.34
+48,0,Non-Travel,435,R&D,10,3,Technical Degree,1,Male,57,3,3,Data Scientist,2,Single,10879011,9398,1,Yes,2.97,2,3,1,2,2,3,3.0,0.5,0.3,3.0,0.084,0.126,0.505,0.748
+34,0,Non-Travel,742,R&D,4,3,Life Sciences,3,Male,82,4,1,Product Manager,3,Single,16482657,10000,1,No,0.56,4,2,0,2,5,2,2.3,2.3,0.8,1.2,0.238,0.698,1.508,0.366
+38,0,Travel Frequently,1202,Sales,7,3,Other,4,Female,150,2,3,Regional Director,2,Single,25000000,10000,1,Yes,2.26,4,3,2,32,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.061,0.333
+45,0,Travel Frequently,1107,HR,6,3,Life Sciences,2,Female,148,2,4,HR Specialist,3,Single,19916494,10000,1,No,2.35,3,3,2,4,1,3,4.1,1.2,0.2,0.8,0.035,0.238,0.197,0.152
+43,0,Travel Rarely,855,HR,1,2,Other,4,Female,110,1,1,Chief People Officer,3,Married,9166666,10000,2,No,5.21,3,3,1,0,3,2,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+46,0,Non-Travel,1186,HR,15,1,Other,2,Female,150,3,2,HR Director,3,Married,11573239,10000,2,No,1.57,3,2,3,0,7,3,0.7,0.7,0.2,0.7,0.138,0.425,4.023,0.425
+41,0,Travel Rarely,500,Sales,25,3,Technical Degree,4,Female,80,4,2,Regional Director,2,Married,24793412,10000,1,No,5.23,2,2,2,18,3,3,10.5,5.3,0.4,4.5,0.034,0.465,0.15,0.389
+32,0,Travel Frequently,1188,Sales,12,4,Other,2,Female,150,2,3,Account Manager,2,Divorced,12916666,10000,2,Yes,3.16,3,3,1,0,4,3,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+44,0,Travel Rarely,1214,HR,7,2,Business,1,Female,144,3,1,HR Manager,1,Single,20220079,10000,2,Yes,0.38,3,3,0,11,4,3,5.4,2.7,0.3,4.4,0.054,0.424,0.332,0.688
+35,0,Non-Travel,523,Sales,12,4,Life Sciences,2,Male,56,3,4,Account Manager,3,Single,10833333,10000,2,No,2.43,2,2,1,0,3,1,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+22,0,Travel Rarely,760,R&D,4,3,Other,1,Male,93,3,2,Technical Architect,4,Divorced,25000000,10000,1,No,3.6,4,4,3,22,4,4,8.0,2.9,0.2,0.5,0.019,0.318,0.171,0.055
+22,0,Travel Frequently,206,R&D,4,2,Life Sciences,4,Female,29,3,5,Technical Architect,4,Married,25000000,4170,1,No,1.44,4,3,0,10,4,1,0.8,0.8,0.1,0.8,0.046,0.444,0.362,0.444
+55,0,Non-Travel,611,Operations,2,4,Other,4,Female,84,4,3,VP Operations,1,Single,20350696,10000,1,No,0.4,3,4,0,7,1,3,4.6,0.5,0.4,0.9,0.066,0.089,0.119,0.165
+37,0,Travel Frequently,134,HR,7,3,Medical,2,Female,20,4,2,HR Manager,2,Single,25000000,3026,2,No,1.14,3,2,2,22,3,1,5.0,5.0,0.5,0.5,0.078,0.833,0.127,0.086
+28,0,Non-Travel,457,Finance,4,3,Medical,3,Male,63,1,4,Financial Manager,2,Married,22913189,9971,4,Yes,3.79,3,4,0,7,0,4,0.5,0.5,0.0,0.5,0.0,0.333,0.0,0.333
+22,0,Non-Travel,1107,HR,2,4,Other,4,Female,150,4,2,Recruiter,1,Divorced,24240022,10000,2,Yes,3.85,4,3,2,8,2,2,8.4,0.5,0.1,8.4,0.007,0.055,0.213,0.894
+42,0,Non-Travel,520,R&D,7,3,Business,1,Female,53,3,3,Product Manager,1,Divorced,25000000,10000,1,Yes,1.69,3,4,0,17,1,3,12.2,5.6,1.2,3.0,0.092,0.424,0.054,0.224
+29,0,Travel Rarely,142,Operations,1,2,Technical Degree,3,Female,24,1,1,Director of Ops,3,Single,23230642,2911,3,No,3.06,3,3,0,14,1,2,8.3,8.3,0.3,2.1,0.03,0.892,0.066,0.223
+54,0,Travel Rarely,563,Sales,28,1,Life Sciences,4,Female,73,4,4,Regional Director,1,Single,25000000,10000,5,No,1.26,3,3,2,19,2,2,16.4,4.9,0.2,5.1,0.013,0.279,0.098,0.29
+36,0,Travel Frequently,386,Finance,6,2,Life Sciences,1,Male,51,3,3,Controller,3,Married,25000000,8299,2,No,2.17,4,2,1,21,3,3,5.9,2.1,0.5,2.2,0.069,0.304,0.136,0.312
+40,0,Travel Rarely,448,Operations,1,3,Business,2,Male,49,1,2,Operations Specialist,2,Single,10833333,9142,4,No,2.32,3,4,0,0,2,3,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+43,0,Travel Rarely,602,Operations,10,2,Business,2,Female,78,3,4,Director of Ops,1,Single,25000000,10000,1,No,3.66,3,1,1,17,1,1,3.5,2.3,0.0,3.5,0.008,0.512,0.054,0.78
+22,0,Travel Frequently,719,Finance,5,3,Other,4,Male,93,3,1,Senior Analyst,2,Married,25000000,10000,4,No,3.3,3,2,2,16,0,4,7.3,0.6,0.2,0.5,0.024,0.075,0.0,0.061
+34,0,Non-Travel,107,Sales,9,2,Medical,3,Female,20,3,5,VP Sales,4,Single,25000000,1825,1,No,3.62,4,2,1,0,3,3,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+30,0,Non-Travel,252,Sales,1,3,Medical,1,Female,23,3,2,Account Manager,4,Married,12248614,5344,2,No,2.18,3,2,2,1,4,1,1.4,1.4,0.9,1.4,0.379,0.586,1.656,0.586
+42,0,Non-Travel,860,Operations,10,3,Technical Degree,2,Female,104,3,3,Process Engineer,3,Single,25000000,10000,2,No,4.17,3,4,0,13,3,1,2.2,1.5,1.7,2.2,0.537,0.473,0.208,0.691
+53,0,Non-Travel,529,R&D,2,2,Medical,3,Male,70,2,3,Data Scientist,4,Married,25000000,10000,1,No,1.22,3,2,0,15,3,1,1.6,1.6,1.1,1.6,0.428,0.619,0.183,0.619
+22,0,Travel Rarely,318,R&D,6,3,Life Sciences,2,Female,33,2,4,Technical Architect,2,Divorced,25000000,6711,1,No,3.94,3,2,2,15,0,1,2.5,0.5,0.0,2.5,0.007,0.144,0.0,0.712
+46,0,Travel Frequently,643,Sales,7,1,Business,1,Female,75,4,1,Sales Executive,4,Divorced,25000000,10000,2,Yes,3.54,3,2,0,27,2,2,19.0,0.6,0.0,1.6,0.001,0.028,0.07,0.083
+33,0,Non-Travel,428,Operations,1,1,Medical,2,Female,58,3,3,Operations Manager,4,Married,19282365,9138,1,Yes,2.21,3,4,1,6,3,3,6.4,5.2,0.5,6.4,0.063,0.711,0.407,0.864
+32,0,Travel Rarely,466,Operations,11,4,Life Sciences,2,Female,55,2,4,Operations Specialist,3,Married,13483097,9515,2,No,2.42,1,2,0,7,2,1,7.6,2.8,0.9,0.6,0.108,0.323,0.231,0.067
+36,0,Travel Rarely,957,R&D,1,4,Medical,3,Male,114,3,1,Product Manager,2,Divorced,22356006,10000,1,No,2.1,3,3,1,13,1,1,13.2,0.5,0.1,0.9,0.008,0.035,0.07,0.065
+22,0,Travel Rarely,214,Operations,30,2,Technical Degree,4,Male,26,1,2,Process Engineer,2,Married,12234506,4380,2,Yes,0.41,1,3,0,11,2,1,0.5,0.5,0.0,0.5,0.0,0.333,0.161,0.333
+44,0,Non-Travel,763,R&D,30,1,Life Sciences,2,Female,88,3,2,Technical Architect,3,Single,16250895,10000,2,No,2.04,2,4,0,10,2,4,10.4,5.2,0.6,1.5,0.055,0.458,0.175,0.128
+40,0,Non-Travel,917,HR,29,4,Technical Degree,3,Female,103,2,2,Recruiter,2,Divorced,17687333,10000,1,Yes,4.25,2,3,2,11,4,1,3.2,0.5,0.0,3.2,0.005,0.119,0.311,0.761
+42,0,Travel Rarely,734,Finance,6,3,Business,3,Male,89,2,3,Financial Manager,2,Married,25000000,10000,2,No,2.17,4,3,0,10,2,4,10.2,3.3,0.2,6.3,0.02,0.297,0.178,0.565
+37,0,Travel Rarely,743,HR,6,4,Life Sciences,2,Male,87,4,3,Chief People Officer,3,Single,25000000,10000,2,No,2.91,4,3,0,16,1,3,2.1,0.5,0.3,2.1,0.088,0.16,0.058,0.679
+52,0,Travel Rarely,308,Sales,19,4,Life Sciences,4,Female,41,2,4,Sales Manager,3,Married,25000000,7237,2,No,3.85,3,3,1,18,0,2,8.5,8.5,0.8,1.8,0.087,0.894,0.0,0.189
+62,0,Travel Rarely,337,HR,17,2,Business,3,Female,37,1,1,Chief People Officer,4,Married,25000000,7219,2,No,3.24,3,2,2,21,1,3,4.1,4.1,3.6,0.7,0.708,0.8,0.044,0.138
+25,0,Travel Frequently,1106,R&D,14,5,Other,4,Female,140,2,3,Technical Architect,1,Divorced,25000000,10000,1,No,2.56,3,2,3,14,4,2,1.1,1.1,0.6,1.1,0.28,0.52,0.252,0.52
+26,0,Travel Frequently,826,R&D,4,4,Medical,2,Female,97,3,1,Technical Architect,3,Married,13537829,10000,2,No,2.19,3,2,2,4,2,1,4.4,4.4,0.1,2.9,0.014,0.814,0.372,0.54
+65,1,Travel Rarely,896,R&D,4,4,Business,1,Male,114,3,3,Software Engineer,3,Divorced,20057901,10000,2,No,4.46,3,3,3,7,1,1,0.6,0.6,0.1,0.6,0.037,0.358,0.123,0.358
+54,0,Travel Rarely,432,Finance,1,4,Other,4,Female,58,3,3,Controller,4,Divorced,25000000,8794,1,Yes,2.43,4,2,3,12,0,4,4.7,2.2,0.2,4.7,0.031,0.384,0.0,0.825
+37,0,Travel Rarely,574,Finance,3,3,Business,4,Male,73,2,3,Senior Analyst,2,Divorced,13426960,10000,3,No,3.62,2,4,2,5,1,4,2.2,0.5,0.4,2.2,0.116,0.159,0.154,0.692
+44,0,Non-Travel,497,Sales,30,3,Other,3,Male,54,1,4,Sales Manager,3,Single,25000000,10000,3,Yes,2.3,3,4,1,12,5,3,1.1,0.5,0.0,1.1,0.003,0.254,0.383,0.521
+49,0,Non-Travel,537,Sales,2,2,Medical,3,Male,79,3,3,Regional Director,1,Divorced,15779621,10000,1,No,4.92,3,2,1,2,3,1,2.9,1.9,2.4,2.9,0.612,0.495,0.777,0.741
+46,0,Travel Rarely,573,HR,4,4,Technical Degree,3,Male,68,2,1,HR Director,4,Divorced,25000000,10000,1,No,3.51,4,1,3,17,3,1,4.9,1.4,0.1,1.6,0.011,0.243,0.164,0.269
+49,0,Non-Travel,875,R&D,1,2,Life Sciences,4,Male,97,2,2,Product Manager,4,Single,10833333,10000,2,No,2.14,3,2,0,0,3,4,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+31,0,Non-Travel,197,Finance,1,5,Other,3,Male,35,3,2,Analyst,4,Single,18055106,4426,2,No,2.25,2,4,3,12,3,3,12.2,1.3,0.0,0.6,0.003,0.095,0.227,0.042
+35,1,Travel Rarely,881,HR,30,2,Life Sciences,4,Male,104,3,1,Chief People Officer,4,Married,24782933,10000,2,Yes,1.01,3,2,0,15,1,2,2.0,2.0,1.5,0.5,0.496,0.664,0.06,0.168
+34,0,Travel Rarely,833,HR,27,2,Business,4,Male,100,4,4,Chief People Officer,3,Single,25000000,10000,4,No,2.05,4,3,1,12,1,1,3.2,0.9,0.5,1.1,0.115,0.215,0.072,0.253
+41,0,Non-Travel,433,R&D,14,3,Other,2,Male,37,1,2,Product Manager,3,Divorced,24305217,8963,2,No,2.87,2,4,1,18,0,2,5.5,5.5,1.6,5.5,0.248,0.846,0.0,0.846
+48,0,Travel Frequently,112,Operations,12,3,Technical Degree,3,Female,29,1,2,Process Engineer,3,Single,23131928,2248,1,Yes,3.19,1,4,1,22,1,4,1.9,1.9,0.3,1.5,0.115,0.659,0.043,0.496
+39,0,Non-Travel,429,R&D,5,1,Technical Degree,3,Female,53,1,3,Research Lead,4,Divorced,25000000,9013,2,No,2.63,4,2,0,21,2,1,5.2,0.5,0.6,0.8,0.102,0.089,0.088,0.125
+38,0,Non-Travel,443,Operations,10,2,Life Sciences,4,Male,60,2,3,VP Operations,4,Single,25000000,9592,2,No,0.99,3,3,3,13,0,2,13.2,0.5,0.1,2.3,0.004,0.035,0.0,0.164
+22,0,Travel Frequently,1193,Sales,30,4,Life Sciences,3,Male,150,4,4,VP Sales,4,Single,25000000,10000,3,No,2.16,4,3,2,25,2,1,1.0,1.0,0.3,1.0,0.129,0.49,0.075,0.49
+22,0,Travel Rarely,604,R&D,15,2,Technical Degree,3,Male,69,2,3,Technical Architect,4,Married,23174725,10000,1,No,2.34,4,4,1,5,3,1,2.7,2.7,0.8,2.7,0.207,0.73,0.479,0.73
+35,1,Travel Rarely,193,HR,5,3,Life Sciences,4,Female,21,4,3,HR Specialist,4,Married,15631759,3505,2,No,3.53,2,4,1,7,2,3,0.5,0.5,0.0,0.5,0.0,0.333,0.229,0.333
+29,0,Travel Rarely,174,Sales,3,3,Medical,2,Female,30,3,3,Regional Director,2,Married,25000000,3859,2,Yes,2.01,3,1,2,14,1,3,7.4,6.0,0.7,1.0,0.086,0.708,0.064,0.123
+42,0,Non-Travel,202,Finance,7,2,Other,2,Female,20,3,2,Senior Analyst,3,Married,25000000,3998,1,No,1.89,3,1,2,15,1,1,1.9,0.5,0.3,0.5,0.118,0.172,0.062,0.172
+32,0,Travel Frequently,183,Finance,23,3,Life Sciences,2,Female,25,4,1,Senior Analyst,3,Married,25000000,3131,1,No,5.19,3,2,3,18,3,1,6.7,2.5,1.7,5.6,0.221,0.322,0.15,0.72
+37,0,Non-Travel,372,Operations,1,4,Medical,1,Male,51,4,3,Operations Manager,4,Single,25000000,7861,3,No,2.86,4,2,1,14,1,1,1.4,1.4,0.9,1.4,0.383,0.588,0.064,0.588
+26,0,Non-Travel,350,R&D,3,4,Medical,3,Female,42,1,2,Software Engineer,2,Married,25000000,7275,2,No,1.58,4,4,1,12,2,2,0.8,0.8,0.3,0.8,0.165,0.443,0.145,0.443
+22,0,Travel Rarely,615,Finance,9,3,Other,4,Male,63,4,2,Analyst,2,Married,25000000,10000,3,No,2.66,3,3,1,20,0,3,6.8,2.8,0.2,0.7,0.032,0.36,0.0,0.09
+47,0,Travel Rarely,1304,HR,19,2,Technical Degree,4,Male,150,3,2,HR Director,2,Married,25000000,10000,1,No,1.5,4,2,0,23,0,4,23.6,1.5,0.1,0.9,0.005,0.06,0.0,0.037
+40,0,Travel Rarely,196,HR,7,3,Other,3,Female,29,3,1,HR Specialist,2,Married,19560673,4518,4,No,1.02,3,2,3,10,3,2,1.4,0.5,0.9,1.4,0.377,0.208,0.263,0.585
+50,1,Non-Travel,591,HR,3,3,Life Sciences,4,Female,74,3,3,Chief People Officer,2,Divorced,22374421,10000,5,Yes,1.98,3,2,1,9,2,1,9.5,2.1,0.0,0.5,0.0,0.198,0.191,0.048
+30,0,Travel Frequently,216,HR,5,2,Other,2,Male,29,4,3,Chief People Officer,3,Divorced,24240162,4756,1,No,1.69,3,2,0,11,1,1,1.9,0.9,0.5,1.3,0.167,0.296,0.081,0.454
+57,0,Non-Travel,893,Operations,5,4,Medical,2,Male,107,1,3,Process Engineer,2,Single,25000000,10000,4,No,3.58,3,3,1,12,3,3,3.3,3.3,1.2,0.7,0.282,0.765,0.217,0.161
+52,0,Travel Frequently,279,Operations,8,3,Business,2,Male,30,3,1,Director of Ops,4,Married,14235301,5790,3,Yes,3.27,3,3,2,5,2,3,1.4,0.8,0.0,1.4,0.0,0.332,0.33,0.577
+58,0,Non-Travel,791,Sales,8,3,Technical Degree,3,Male,101,3,3,Sales Manager,4,Divorced,25000000,10000,1,No,2.07,4,2,0,19,2,3,9.1,3.0,0.4,1.3,0.038,0.294,0.096,0.133
+49,0,Travel Frequently,655,Operations,20,3,Business,3,Female,83,2,1,Director of Ops,1,Single,25000000,10000,1,No,3.3,4,4,1,11,3,1,2.9,1.5,0.0,2.9,0.005,0.376,0.232,0.742
+24,0,Travel Frequently,159,Sales,12,4,Technical Degree,2,Female,23,2,4,Account Manager,1,Married,19736574,3192,2,Yes,2.2,3,2,1,3,3,4,3.9,0.9,0.1,0.6,0.013,0.174,0.612,0.127
+22,0,Travel Rarely,488,Operations,16,3,Business,3,Male,56,3,1,VP Operations,4,Divorced,24562451,10000,1,No,2.3,3,2,1,15,0,1,14.8,11.3,0.2,2.4,0.01,0.718,0.0,0.151
+36,0,Non-Travel,406,Sales,10,3,Other,2,Female,46,4,2,Sales Manager,2,Divorced,12048631,8539,4,No,4.5,2,3,1,6,4,4,6.2,3.4,1.1,2.8,0.159,0.469,0.554,0.392
+34,0,Non-Travel,960,Sales,3,3,Life Sciences,1,Male,124,3,3,Sales Executive,3,Married,24728249,10000,1,No,2.29,3,3,0,11,1,3,0.6,0.6,0.1,0.6,0.053,0.368,0.078,0.368
+46,0,Travel Rarely,346,HR,5,2,Medical,1,Male,34,4,2,HR Manager,3,Married,25000000,7102,4,No,2.22,3,2,1,23,3,3,4.1,2.9,1.5,4.0,0.303,0.566,0.12,0.791
+58,0,Travel Rarely,313,Operations,4,3,Life Sciences,3,Female,49,1,2,Director of Ops,1,Divorced,25000000,6682,3,No,0.2,4,4,3,12,6,2,0.5,0.5,0.0,0.5,0.0,0.333,0.454,0.333
+45,0,Travel Rarely,458,R&D,5,3,Life Sciences,4,Male,48,3,2,Product Manager,4,Married,8311944,9813,1,Yes,1.58,1,2,1,7,2,2,0.6,0.6,0.1,0.6,0.091,0.394,0.236,0.394
+42,0,Travel Frequently,458,Sales,6,3,Technical Degree,2,Female,59,3,2,Regional Director,2,Single,16596083,9646,2,No,2.15,3,3,0,5,5,4,1.5,1.1,0.2,0.8,0.065,0.445,0.739,0.334
+42,0,Travel Rarely,412,Sales,2,4,Technical Degree,4,Male,55,3,2,Sales Executive,3,Divorced,25000000,8546,1,No,2.03,4,2,1,11,4,4,4.3,2.8,2.1,3.4,0.4,0.54,0.316,0.639
+52,0,Travel Rarely,454,R&D,4,2,Business,3,Female,51,2,5,Data Scientist,4,Divorced,25000000,9926,1,No,3.06,3,2,1,17,0,2,4.7,1.4,0.8,1.7,0.14,0.246,0.0,0.297
+35,0,Travel Frequently,682,Finance,15,3,Life Sciences,1,Female,94,3,3,CFO,4,Married,24864496,10000,1,No,3.27,3,2,1,11,2,2,8.7,2.2,0.2,3.4,0.02,0.227,0.154,0.349
+51,0,Travel Rarely,182,Finance,3,3,Medical,2,Female,32,2,3,Senior Analyst,4,Divorced,25000000,4016,3,Yes,3.53,3,3,1,19,2,4,4.9,1.4,0.8,3.2,0.144,0.245,0.097,0.548
+26,0,Non-Travel,900,Operations,7,2,Other,4,Female,117,4,4,Director of Ops,4,Single,25000000,10000,1,No,3.89,4,2,2,23,3,4,13.2,0.5,0.1,1.2,0.005,0.035,0.123,0.083
+31,0,Non-Travel,1218,Sales,4,3,Technical Degree,3,Male,150,3,2,Account Manager,3,Married,19579456,10000,5,Yes,3.84,4,4,3,3,2,2,0.9,0.9,0.4,0.9,0.191,0.461,0.421,0.461
+45,0,Travel Rarely,191,HR,1,3,Medical,3,Male,20,1,2,HR Manager,3,Married,25000000,4176,3,Yes,3.64,3,2,0,19,2,3,6.8,0.5,0.1,3.5,0.013,0.071,0.1,0.452
+53,0,Travel Rarely,1214,R&D,6,2,Other,3,Male,150,4,3,Product Manager,1,Married,25000000,10000,1,Yes,2.25,3,4,2,15,4,3,5.3,0.5,0.0,1.7,0.001,0.08,0.249,0.264
+42,0,Non-Travel,318,Finance,1,2,Medical,4,Female,41,4,2,Senior Analyst,1,Single,25000000,6541,1,Yes,1.92,3,4,0,14,2,2,1.1,0.9,0.1,0.5,0.045,0.446,0.129,0.261
+40,0,Non-Travel,1146,Finance,4,1,Technical Degree,4,Male,150,3,3,Financial Manager,3,Divorced,16362893,10000,2,No,2.94,3,2,1,3,1,2,3.4,0.5,0.0,3.4,0.01,0.112,0.225,0.775
+22,0,Travel Rarely,357,R&D,9,3,Business,4,Male,46,3,2,Research Lead,4,Divorced,25000000,7576,1,No,2.78,4,3,1,27,4,2,11.8,1.6,0.2,7.0,0.014,0.126,0.138,0.548
+47,0,Travel Frequently,199,R&D,28,4,Business,3,Female,31,3,5,Software Engineer,3,Divorced,25000000,3944,2,Yes,4.45,3,3,1,16,1,1,2.5,0.9,0.4,2.2,0.106,0.252,0.058,0.638
+43,0,Non-Travel,865,Sales,15,3,Medical,1,Male,111,2,3,VP Sales,2,Single,25000000,10000,1,Yes,2.57,3,2,1,22,3,2,4.3,4.3,0.8,4.3,0.155,0.812,0.125,0.812
+34,0,Travel Rarely,237,HR,2,2,Medical,2,Female,22,2,1,Chief People Officer,2,Divorced,16883985,5495,1,No,2.93,3,3,0,7,2,1,7.7,5.8,2.4,7.7,0.276,0.668,0.229,0.885
+39,0,Travel Rarely,411,Finance,25,2,Other,1,Female,49,2,2,Controller,2,Married,25000000,8150,3,No,1.19,4,3,3,32,2,2,6.8,2.9,3.5,1.1,0.444,0.375,0.06,0.144
+38,1,Travel Rarely,200,HR,24,4,Medical,2,Female,36,1,2,Recruiter,3,Divorced,25000000,4184,1,No,1.16,3,2,1,17,2,2,3.2,3.2,2.7,1.1,0.641,0.761,0.111,0.27
+48,0,Non-Travel,630,Finance,1,3,Other,2,Female,80,1,2,Financial Manager,1,Divorced,23679363,10000,3,Yes,2.89,3,4,2,12,1,1,12.4,1.6,0.2,8.6,0.015,0.119,0.072,0.641
+41,0,Travel Frequently,205,Sales,3,3,Life Sciences,2,Female,28,4,1,Regional Director,3,Single,4166666,4634,1,No,1.47,2,3,1,0,3,3,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+55,0,Travel Rarely,636,Operations,4,2,Business,3,Male,79,2,3,Operations Specialist,2,Single,25000000,10000,1,Yes,4.36,4,3,0,15,1,4,15.5,2.8,0.9,1.1,0.056,0.167,0.061,0.068
+46,0,Non-Travel,100,Finance,23,5,Technical Degree,2,Male,22,3,1,Controller,2,Single,25000000,1901,1,No,1.47,3,3,2,25,2,1,6.4,2.4,0.0,6.4,0.003,0.328,0.074,0.866
+24,0,Travel Rarely,1176,Operations,11,1,Medical,3,Female,150,1,2,Process Engineer,2,Single,2500000,10000,1,No,4.12,1,2,0,0,5,2,0.0,0.0,-0.5,0.0,-0.5,0.0,5.0,0.0
+33,1,Non-Travel,1170,R&D,10,2,Business,3,Male,150,1,3,Data Scientist,1,Married,12294078,10000,1,No,2.09,1,3,2,9,3,1,3.2,0.5,0.1,0.5,0.028,0.118,0.289,0.118
+35,0,Non-Travel,154,Finance,4,1,Business,2,Female,24,1,5,Senior Analyst,4,Divorced,25000000,2817,2,No,1.14,3,3,0,12,1,1,3.0,0.5,0.2,2.5,0.047,0.124,0.075,0.62
+48,0,Travel Rarely,1014,HR,14,3,Business,3,Male,133,1,4,Chief People Officer,3,Single,22624821,10000,2,No,1.74,3,1,2,6,2,2,2.1,0.5,0.1,1.3,0.032,0.161,0.257,0.432
+49,0,Travel Frequently,155,Sales,2,3,Other,3,Female,31,3,5,VP Sales,4,Single,25000000,3328,3,No,3.36,3,3,2,16,3,4,0.5,0.5,0.0,0.5,0.0,0.333,0.175,0.333
+43,0,Travel Rarely,210,Finance,7,3,Life Sciences,2,Female,32,3,2,Financial Manager,4,Divorced,25000000,4639,1,Yes,3.27,3,3,2,17,2,3,5.5,0.5,0.6,3.4,0.091,0.077,0.109,0.514
+41,0,Travel Frequently,484,Sales,1,3,Medical,1,Female,54,2,2,Sales Executive,2,Married,14930346,9671,1,No,2.72,3,3,1,4,3,2,4.1,1.9,0.0,0.5,0.002,0.369,0.589,0.098
+50,0,Non-Travel,883,R&D,8,3,Business,3,Female,109,3,3,Technical Architect,3,Married,25000000,10000,2,No,1.9,3,1,0,18,2,2,5.7,1.0,0.1,3.3,0.01,0.142,0.1,0.484
+27,0,Non-Travel,514,HR,1,3,Other,2,Male,63,1,4,Chief People Officer,3,Married,25000000,10000,2,No,3.78,2,2,3,22,2,2,10.4,0.5,0.1,1.4,0.006,0.044,0.084,0.126
+50,0,Travel Rarely,333,HR,5,3,Other,1,Male,25,2,4,HR Manager,2,Divorced,25000000,6810,1,No,1.31,4,2,3,13,1,3,1.8,1.8,1.3,1.8,0.46,0.64,0.069,0.64
+52,0,Travel Rarely,299,HR,11,4,Medical,3,Female,38,2,2,HR Director,4,Divorced,25000000,5984,3,No,3.35,3,3,0,30,2,3,1.9,1.1,0.7,1.9,0.249,0.38,0.064,0.656
+52,0,Non-Travel,205,Finance,8,4,Medical,3,Male,23,2,2,Analyst,4,Married,15833333,4352,2,No,3.63,4,2,1,0,3,1,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+22,0,Non-Travel,136,HR,12,1,Business,3,Male,24,3,1,Recruiter,4,Single,12974437,3219,2,No,2.23,3,1,1,3,1,4,3.8,3.8,1.4,1.3,0.283,0.792,0.208,0.264
+41,0,Travel Rarely,545,Sales,4,4,Life Sciences,4,Female,71,1,2,Account Manager,3,Married,25000000,10000,1,Yes,0.6,2,4,1,24,2,4,9.7,2.6,1.3,3.3,0.125,0.243,0.079,0.313
+30,0,Non-Travel,314,Sales,18,3,Life Sciences,2,Female,36,1,3,Regional Director,1,Divorced,14298898,6654,1,No,3.02,1,4,2,11,1,2,9.7,8.2,1.0,1.8,0.091,0.772,0.081,0.166
+52,0,Travel Frequently,437,Operations,5,1,Other,4,Female,50,2,1,Director of Ops,3,Single,14166666,9172,3,Yes,2.09,4,2,1,0,5,1,0.0,0.0,-0.5,0.0,-0.5,0.0,5.0,0.0
+51,0,Travel Rarely,788,Sales,27,1,Business,1,Male,99,1,1,Regional Director,3,Married,25000000,10000,1,Yes,2.11,4,2,0,19,3,1,6.7,3.1,0.4,2.0,0.055,0.4,0.147,0.262
+61,0,Travel Rarely,1215,Sales,16,5,Other,4,Male,150,3,2,Sales Manager,2,Divorced,23195115,10000,2,No,2.56,3,2,0,12,0,2,1.5,1.5,1.0,0.5,0.406,0.604,0.0,0.198
+39,0,Travel Rarely,213,Sales,2,2,Other,3,Male,22,2,5,Sales Executive,3,Single,25000000,4171,1,No,1.86,3,4,1,7,1,1,7.6,1.3,0.1,3.9,0.013,0.153,0.116,0.458
+52,0,Travel Rarely,998,Finance,6,2,Other,4,Male,118,3,1,Financial Manager,3,Single,23940346,10000,1,Yes,5.51,3,2,0,14,4,1,2.0,1.0,0.9,0.5,0.29,0.332,0.254,0.164
+39,0,Travel Rarely,1259,Sales,4,2,Medical,2,Male,150,2,3,VP Sales,1,Single,25000000,10000,2,No,4.1,3,3,2,18,1,2,3.4,1.7,0.7,0.5,0.162,0.376,0.051,0.113
+49,0,Travel Rarely,614,R&D,13,2,Technical Degree,4,Female,85,4,4,Software Engineer,2,Single,25000000,10000,1,No,0.86,4,3,1,8,4,2,2.6,2.6,0.5,1.6,0.149,0.726,0.406,0.435
+27,0,Travel Rarely,1221,Finance,8,4,Life Sciences,2,Male,150,3,2,Financial Manager,2,Divorced,25000000,10000,2,No,1.82,3,1,1,18,3,1,9.5,5.6,0.2,9.4,0.021,0.534,0.157,0.893
+52,0,Non-Travel,400,Sales,2,1,Technical Degree,3,Female,52,3,4,Sales Manager,1,Divorced,25000000,8726,2,Yes,1.82,4,3,2,13,1,2,1.6,1.6,0.5,1.6,0.177,0.617,0.067,0.617
+39,0,Non-Travel,284,Finance,7,4,Technical Degree,3,Male,34,2,2,CFO,1,Single,25000000,5591,1,No,2.39,3,2,0,26,4,1,16.3,7.7,0.1,1.1,0.008,0.443,0.146,0.063
+39,0,Non-Travel,163,R&D,1,2,Medical,3,Male,22,2,2,Technical Architect,3,Married,25000000,3039,4,No,2.33,3,3,0,20,4,3,4.5,4.5,0.4,4.5,0.065,0.819,0.185,0.819
+29,0,Travel Frequently,372,R&D,1,3,Life Sciences,1,Female,49,4,2,Technical Architect,3,Divorced,22003572,7853,1,Yes,4.0,2,1,0,16,1,1,7.3,1.3,0.1,2.9,0.017,0.154,0.058,0.349
+62,0,Travel Rarely,154,R&D,17,2,Medical,4,Female,30,4,2,Data Scientist,2,Divorced,20911510,3382,3,No,3.6,3,2,0,10,1,1,10.1,1.3,0.0,1.5,0.0,0.115,0.09,0.14
+22,0,Non-Travel,1123,R&D,30,1,Medical,2,Female,139,3,3,Product Manager,4,Single,25000000,10000,1,No,4.38,4,4,3,11,2,1,2.3,2.3,0.2,0.5,0.056,0.694,0.162,0.153
+27,0,Travel Rarely,441,Operations,13,2,Life Sciences,4,Male,55,2,3,VP Operations,2,Divorced,25000000,9665,2,No,3.72,4,2,2,15,2,4,3.2,1.5,1.2,0.7,0.278,0.369,0.119,0.179
+55,0,Travel Rarely,423,Sales,8,3,Medical,3,Male,42,2,4,VP Sales,1,Single,25000000,8753,1,Yes,3.92,3,4,1,23,1,1,15.5,1.1,0.1,1.3,0.008,0.069,0.042,0.08
+44,0,Travel Rarely,483,R&D,5,3,Medical,4,Male,59,3,1,Software Engineer,1,Single,24772876,10000,1,No,3.35,3,1,2,15,3,1,2.7,0.5,0.0,1.1,0.012,0.136,0.181,0.288
+24,0,Travel Rarely,780,HR,5,5,Business,3,Male,98,4,2,HR Manager,4,Single,11017933,10000,3,Yes,3.88,3,2,1,0,5,2,0.2,0.2,-0.3,0.2,-0.266,0.156,4.221,0.156
+44,0,Non-Travel,461,Operations,6,3,Medical,2,Male,74,3,3,Operations Manager,1,Single,25000000,9828,1,No,1.69,3,2,1,30,4,2,3.9,0.5,0.2,2.0,0.037,0.101,0.129,0.404
+25,0,Travel Rarely,406,Finance,28,3,Medical,2,Female,48,3,2,Controller,1,Divorced,20331606,8691,1,No,3.15,3,4,0,9,3,2,3.3,3.1,0.1,3.3,0.025,0.738,0.286,0.765
+27,0,Travel Rarely,643,Operations,19,3,Medical,3,Male,83,3,4,Director of Ops,1,Single,25000000,10000,1,No,2.4,3,4,0,16,4,1,7.6,0.5,0.1,5.2,0.01,0.058,0.226,0.6
+29,0,Travel Rarely,213,Operations,17,2,Business,4,Female,24,2,2,Process Engineer,4,Married,9494996,4493,2,No,4.47,1,3,1,8,3,3,2.9,1.0,0.4,1.3,0.103,0.248,0.311,0.326
+43,0,Non-Travel,412,HR,7,4,Medical,1,Female,63,2,5,HR Specialist,4,Single,25000000,8890,1,No,1.86,3,1,1,17,1,3,2.8,0.5,0.0,0.5,0.003,0.13,0.053,0.13
+57,0,Non-Travel,475,Sales,10,3,Technical Degree,3,Female,58,1,2,Sales Executive,2,Married,25000000,10000,3,No,2.93,3,2,2,18,1,2,8.5,0.5,0.1,0.5,0.006,0.053,0.052,0.053
+47,0,Non-Travel,931,Operations,15,3,Other,2,Male,113,1,1,Process Engineer,3,Married,25000000,10000,1,No,2.84,3,3,1,17,4,2,5.9,5.6,1.1,3.3,0.154,0.815,0.211,0.484
+38,0,Non-Travel,217,Operations,11,3,Technical Degree,3,Male,33,3,1,Process Engineer,3,Married,21707826,4270,2,No,1.58,4,2,1,7,0,4,7.5,2.0,0.8,0.5,0.092,0.235,0.0,0.059
+22,0,Travel Rarely,340,R&D,8,3,Medical,2,Male,47,2,1,Research Lead,3,Divorced,18785526,7650,2,No,5.59,3,2,1,9,2,1,0.9,0.8,0.1,0.9,0.027,0.418,0.188,0.462
+36,0,Non-Travel,317,Finance,8,4,Life Sciences,4,Female,31,1,2,CFO,2,Divorced,19727388,6728,2,Yes,0.0,3,3,2,8,0,4,2.7,2.7,0.9,1.9,0.242,0.728,0.0,0.526
+53,0,Non-Travel,558,Finance,20,2,Medical,3,Female,70,1,1,Controller,1,Single,25000000,10000,1,No,1.65,3,2,3,19,3,2,3.8,0.5,0.1,3.8,0.02,0.104,0.144,0.793
+37,0,Non-Travel,397,Operations,1,4,Life Sciences,3,Male,45,4,5,Director of Ops,2,Married,25000000,8117,2,No,0.52,3,4,0,17,2,2,9.4,1.5,0.6,6.7,0.059,0.142,0.106,0.646
+39,0,Non-Travel,196,Operations,21,3,Technical Degree,3,Female,25,3,4,Operations Manager,4,Single,25000000,4092,1,No,2.68,4,1,2,18,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.152,0.333
+40,0,Travel Frequently,226,R&D,5,3,Other,4,Male,33,4,1,Product Manager,3,Divorced,9166666,4537,1,Yes,0.0,3,3,2,0,4,1,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+23,0,Travel Rarely,339,Operations,12,2,Business,3,Male,43,3,2,VP Operations,3,Married,10833333,7124,1,Yes,1.03,3,3,2,0,0,3,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+49,0,Travel Frequently,418,HR,4,4,Medical,2,Male,55,2,1,HR Specialist,2,Married,25000000,8943,2,No,2.26,3,2,0,16,5,3,0.5,0.5,0.0,0.5,0.0,0.333,0.285,0.333
+42,0,Travel Frequently,460,Sales,13,1,Business,4,Male,52,3,2,Sales Manager,3,Single,25000000,9126,2,No,1.21,4,2,0,21,2,3,8.7,1.0,0.1,3.9,0.013,0.107,0.088,0.401
+22,0,Travel Rarely,309,R&D,8,2,Medical,4,Male,37,1,2,Technical Architect,4,Divorced,25000000,6175,1,Yes,1.69,4,4,1,11,4,3,4.8,4.8,2.0,0.5,0.349,0.829,0.324,0.086
+39,0,Travel Frequently,218,HR,21,3,Life Sciences,2,Male,36,2,3,Chief People Officer,2,Married,23852491,4962,1,No,3.52,3,2,2,10,2,4,0.8,0.5,0.1,0.5,0.036,0.273,0.168,0.273
+47,0,Non-Travel,444,Sales,30,1,Technical Degree,1,Male,71,4,2,Sales Manager,3,Married,25000000,9422,1,Yes,1.23,3,2,3,16,0,3,12.7,3.2,1.9,7.3,0.136,0.23,0.0,0.532
+22,0,Travel Rarely,545,Sales,12,3,Business,3,Female,75,3,1,VP Sales,4,Married,15075228,10000,2,No,2.05,3,4,1,5,2,2,5.9,0.5,0.2,5.9,0.026,0.072,0.289,0.855
+57,0,Non-Travel,771,Finance,1,4,Other,4,Male,87,2,1,Analyst,3,Single,25000000,10000,1,No,3.4,3,2,1,22,0,3,1.3,1.3,0.0,0.5,0.009,0.556,0.0,0.222
+45,0,Travel Rarely,453,R&D,30,3,Business,3,Male,54,4,3,Data Scientist,2,Divorced,25000000,9356,1,Yes,3.99,3,2,0,26,2,1,9.1,0.5,0.1,5.7,0.013,0.049,0.072,0.564
+30,0,Travel Frequently,478,Finance,10,4,Technical Degree,4,Male,56,2,2,Senior Analyst,1,Married,19164224,9806,2,No,4.79,3,3,0,8,3,4,3.6,0.5,0.9,3.6,0.198,0.11,0.322,0.781
+37,0,Non-Travel,358,Operations,2,3,Technical Degree,2,Male,51,3,2,VP Operations,1,Single,18931690,7745,1,Yes,3.79,3,3,0,8,1,1,6.4,0.7,0.0,0.5,0.002,0.1,0.11,0.068
+41,0,Non-Travel,981,Operations,6,3,Technical Degree,3,Female,134,2,4,Process Engineer,3,Single,25000000,10000,4,No,2.03,3,4,0,14,3,1,8.6,8.5,5.4,0.8,0.559,0.88,0.193,0.085
+40,0,Non-Travel,830,Finance,17,1,Life Sciences,1,Female,105,4,3,CFO,2,Single,18232575,10000,2,No,2.34,2,2,3,10,4,2,8.8,8.8,6.0,0.5,0.61,0.898,0.353,0.055
+52,0,Non-Travel,717,R&D,13,3,Technical Degree,3,Female,86,4,2,Product Manager,3,Married,22740050,10000,3,Yes,2.09,3,3,0,11,2,2,8.4,8.4,1.1,5.1,0.122,0.893,0.155,0.541
+22,0,Travel Rarely,325,Sales,15,1,Technical Degree,4,Male,49,2,3,Regional Director,2,Divorced,25000000,6815,5,No,0.0,3,3,1,20,3,1,1.3,1.3,0.7,1.3,0.286,0.572,0.142,0.572
+65,0,Travel Frequently,364,HR,17,3,Medical,4,Male,32,3,3,HR Specialist,2,Married,15168885,7567,1,Yes,1.41,2,3,2,7,1,2,7.3,1.9,0.1,7.3,0.015,0.227,0.121,0.879
+24,0,Travel Rarely,1156,HR,30,3,Life Sciences,3,Male,149,2,3,Chief People Officer,1,Married,25000000,10000,1,No,1.23,3,1,0,15,4,1,1.7,1.7,0.0,1.6,0.002,0.628,0.238,0.594
+34,0,Non-Travel,1230,Operations,11,3,Life Sciences,2,Male,150,1,2,Operations Specialist,4,Divorced,25000000,10000,1,Yes,1.84,3,3,1,20,2,1,5.8,2.9,0.1,0.5,0.018,0.428,0.093,0.073
+22,0,Non-Travel,595,HR,7,2,Life Sciences,2,Male,71,2,1,Chief People Officer,3,Divorced,25000000,10000,1,No,3.12,4,4,0,13,3,2,10.4,7.0,1.5,5.1,0.135,0.616,0.206,0.449
+45,0,Travel Rarely,984,Finance,12,4,Business,2,Female,120,1,1,Analyst,4,Married,24380976,10000,2,No,3.31,3,3,0,15,3,3,2.1,0.5,0.0,0.9,0.01,0.161,0.185,0.294
+40,1,Non-Travel,263,R&D,8,4,Life Sciences,4,Female,33,2,3,Technical Architect,4,Divorced,13916163,5611,1,No,0.88,3,3,0,0,3,2,1.0,1.0,0.5,1.0,0.25,0.5,1.5,0.5
+43,0,Non-Travel,355,HR,5,3,Medical,3,Female,36,3,2,HR Specialist,1,Married,15833333,7511,1,No,2.16,4,2,0,0,6,2,0.0,0.0,-0.5,0.0,-0.5,0.0,6.0,0.0
+22,0,Travel Rarely,295,Operations,4,1,Medical,4,Male,30,3,2,Process Engineer,2,Single,25000000,5754,1,No,4.04,2,4,2,20,2,3,20.1,2.3,0.0,0.5,0.002,0.107,0.095,0.024
+22,0,Travel Frequently,236,Sales,14,1,Medical,1,Female,34,1,2,Sales Executive,1,Divorced,25000000,4186,1,No,1.24,4,2,1,30,2,3,0.5,0.5,0.0,0.5,0.0,0.333,0.063,0.333
+34,0,Travel Frequently,859,HR,1,4,Medical,4,Male,112,2,3,Chief People Officer,1,Single,21393029,10000,1,No,3.68,2,4,0,13,5,1,2.4,0.7,0.1,2.4,0.015,0.207,0.345,0.707
+28,0,Travel Frequently,390,HR,22,3,Business,3,Female,60,1,1,Recruiter,2,Married,6412390,8063,2,No,4.1,2,3,3,2,1,2,2.2,0.5,0.1,1.4,0.043,0.154,0.308,0.432
+24,0,Travel Frequently,1129,HR,26,1,Medical,2,Male,136,1,1,Recruiter,4,Divorced,18088626,10000,2,No,3.47,1,2,1,18,6,2,5.6,0.5,0.0,2.4,0.002,0.076,0.301,0.37
+44,0,Non-Travel,449,HR,19,3,Other,4,Male,49,1,1,HR Director,3,Divorced,25000000,9904,1,No,1.37,4,3,2,22,4,2,4.3,0.7,0.2,4.3,0.042,0.132,0.171,0.81
+37,0,Travel Frequently,452,Operations,17,2,Business,1,Female,47,2,3,VP Operations,2,Divorced,25000000,9353,1,No,2.32,3,3,0,14,4,3,7.7,0.5,0.1,3.7,0.015,0.057,0.262,0.424
+51,0,Non-Travel,244,Sales,4,5,Life Sciences,3,Female,23,4,1,Regional Director,3,Divorced,25000000,5188,2,No,3.13,3,4,1,16,4,2,7.4,0.5,0.0,4.5,0.002,0.059,0.234,0.533
+46,0,Travel Rarely,515,HR,9,4,Medical,3,Male,63,3,3,HR Manager,3,Single,25000000,10000,1,No,4.13,3,3,2,20,5,1,13.4,13.4,0.6,5.4,0.04,0.93,0.234,0.374
+28,0,Travel Frequently,597,Finance,6,2,Medical,1,Female,74,2,3,Senior Analyst,3,Divorced,25000000,10000,2,Yes,1.53,3,3,1,17,2,3,8.9,6.6,0.2,1.2,0.02,0.659,0.109,0.124
+36,0,Travel Frequently,144,HR,3,1,Medical,2,Female,22,2,3,Recruiter,4,Divorced,16061543,3053,2,Yes,4.86,3,3,2,3,3,1,2.0,2.0,0.8,1.2,0.248,0.671,0.724,0.381
+40,0,Non-Travel,763,Operations,26,3,Business,4,Female,95,2,3,VP Operations,3,Divorced,25000000,10000,3,Yes,2.19,3,2,0,12,2,3,7.8,2.9,0.0,0.7,0.001,0.332,0.147,0.074
+37,0,Travel Rarely,312,Finance,12,1,Life Sciences,2,Male,34,4,1,Analyst,4,Divorced,25000000,6662,1,No,3.69,4,1,0,14,5,1,8.3,0.5,0.0,0.7,0.003,0.055,0.314,0.077
+27,0,Travel Rarely,330,HR,7,1,Business,3,Male,40,2,2,HR Director,2,Single,22746396,7035,2,No,2.4,3,1,1,11,3,4,2.4,1.0,0.2,0.5,0.053,0.304,0.232,0.145
+57,0,Travel Frequently,1183,HR,5,3,Life Sciences,3,Female,136,3,2,HR Specialist,2,Single,25000000,10000,2,No,1.75,4,3,2,14,0,2,3.2,1.0,0.1,1.3,0.034,0.243,0.0,0.317
+47,0,Travel Rarely,244,Operations,3,1,Life Sciences,3,Female,27,2,3,Process Engineer,3,Divorced,20345693,5235,4,No,4.67,3,2,1,7,3,2,0.5,0.5,0.0,0.5,0.0,0.333,0.356,0.333
+62,0,Travel Frequently,582,HR,6,4,Technical Degree,2,Male,85,2,2,HR Director,3,Married,25000000,10000,3,No,2.48,3,3,0,19,1,2,1.9,1.9,0.3,1.9,0.095,0.651,0.048,0.651
+53,0,Non-Travel,436,Finance,11,4,Technical Degree,2,Female,61,2,4,CFO,3,Single,14097795,9405,1,Yes,3.31,1,4,2,8,2,3,0.8,0.8,0.3,0.8,0.188,0.459,0.216,0.459
+52,0,Non-Travel,342,R&D,5,2,Medical,4,Male,47,1,1,Technical Architect,4,Divorced,15975682,7258,4,No,3.5,3,3,2,6,2,2,1.7,0.5,0.1,1.7,0.037,0.186,0.256,0.627
+22,0,Travel Frequently,1226,Operations,5,2,Business,3,Male,150,3,1,Operations Manager,4,Married,19402360,10000,1,No,5.58,3,4,0,10,3,4,10.2,1.7,0.0,4.3,0.004,0.156,0.267,0.386
+32,0,Travel Rarely,223,Sales,1,5,Other,4,Female,38,2,4,Regional Director,3,Married,25000000,4413,4,No,3.42,3,1,2,9,6,2,0.7,0.7,0.2,0.7,0.127,0.418,0.587,0.418
+38,0,Non-Travel,257,Operations,2,2,Technical Degree,1,Male,32,3,3,Operations Specialist,4,Married,12496240,5259,1,No,3.04,2,1,3,4,4,2,3.4,1.7,0.3,1.1,0.07,0.378,0.717,0.259
+44,0,Non-Travel,1205,Sales,8,4,Other,4,Male,150,2,2,Regional Director,1,Divorced,15920773,10000,2,No,2.21,3,2,0,5,0,2,5.1,5.1,0.3,0.5,0.05,0.836,0.0,0.082
+40,0,Travel Frequently,296,R&D,21,4,Medical,1,Female,31,2,3,Software Engineer,3,Married,25000000,6101,1,Yes,1.58,3,3,2,17,1,4,1.3,0.6,0.4,1.3,0.187,0.253,0.053,0.573
+22,0,Non-Travel,1105,Operations,8,3,Technical Degree,3,Female,136,3,4,Process Engineer,3,Divorced,25000000,10000,2,Yes,3.29,4,4,1,10,2,3,4.1,0.5,0.3,2.3,0.063,0.099,0.173,0.447
+35,0,Travel Rarely,282,R&D,1,3,Business,3,Female,32,3,3,Data Scientist,4,Divorced,25000000,5890,3,No,4.32,3,2,0,13,3,2,7.2,0.5,0.1,0.5,0.008,0.061,0.206,0.061
+57,0,Travel Rarely,443,R&D,12,3,Technical Degree,3,Female,58,3,3,Research Lead,3,Divorced,12916666,9565,1,No,3.39,3,2,0,0,5,1,0.0,0.0,-0.5,0.0,-0.5,0.0,5.0,0.0
+35,0,Travel Rarely,201,R&D,6,3,Medical,2,Female,33,1,1,Software Engineer,2,Married,20032606,4155,3,No,2.52,3,3,2,10,2,1,10.3,0.6,0.2,4.4,0.017,0.055,0.169,0.386
+30,0,Travel Frequently,244,Finance,10,3,Technical Degree,4,Male,24,1,3,Senior Analyst,4,Single,24688250,5331,1,No,2.64,3,4,3,11,2,4,1.0,0.9,0.5,1.0,0.247,0.453,0.157,0.498
+34,0,Non-Travel,1146,R&D,7,4,Medical,2,Male,147,2,2,Data Scientist,3,Married,10833333,10000,1,No,3.27,3,2,0,0,0,4,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+50,0,Travel Rarely,261,Sales,1,3,Technical Degree,1,Female,34,4,2,VP Sales,4,Divorced,24628670,5784,1,Yes,3.1,3,2,0,13,0,3,0.8,0.8,0.0,0.8,0.022,0.449,0.0,0.446
+48,0,Non-Travel,622,Operations,1,3,Business,2,Female,75,2,2,Operations Manager,2,Divorced,23134905,10000,2,Yes,3.23,3,4,1,12,1,2,0.8,0.8,0.3,0.5,0.159,0.439,0.075,0.28
+32,0,Non-Travel,306,HR,6,3,Business,3,Female,42,3,2,HR Director,4,Married,15277412,7057,5,No,3.15,2,3,2,9,4,3,9.4,1.0,0.3,0.5,0.025,0.097,0.383,0.048
+36,0,Non-Travel,243,R&D,7,2,Life Sciences,3,Male,30,3,4,Product Manager,4,Divorced,20833333,4944,2,Yes,1.29,4,2,3,0,1,4,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+22,0,Non-Travel,279,HR,8,1,Business,2,Female,36,3,4,HR Specialist,4,Single,25000000,6125,1,No,3.13,3,4,2,25,1,3,16.7,10.9,0.7,2.3,0.04,0.616,0.037,0.132
+38,0,Non-Travel,405,R&D,18,1,Medical,2,Female,49,4,4,Software Engineer,2,Divorced,25000000,8807,1,No,2.16,4,4,0,9,3,4,9.5,5.4,2.7,3.0,0.256,0.509,0.284,0.282
+36,0,Non-Travel,336,R&D,11,3,Other,1,Female,36,1,4,Software Engineer,1,Married,25000000,6869,2,Yes,3.74,3,3,1,12,3,4,10.5,8.9,2.9,3.8,0.251,0.777,0.221,0.336
+30,0,Non-Travel,274,Finance,10,1,Life Sciences,2,Male,41,3,2,CFO,3,Married,21346249,5450,2,No,2.54,3,1,2,10,0,3,4.6,0.7,0.4,4.1,0.076,0.126,0.0,0.733
+35,0,Non-Travel,216,Sales,11,1,Other,2,Male,37,1,3,Account Manager,2,Single,25000000,4339,1,No,1.86,3,3,1,13,1,4,1.2,0.8,0.2,1.2,0.108,0.37,0.068,0.537
+51,0,Travel Frequently,429,Sales,30,3,Medical,4,Female,42,2,1,Sales Manager,1,Married,25000000,9214,2,No,3.31,3,3,1,21,3,1,2.4,1.0,0.3,2.4,0.099,0.301,0.135,0.703
+24,0,Travel Frequently,844,Finance,3,4,Other,2,Male,105,3,1,Senior Analyst,3,Single,4166666,10000,1,No,3.0,2,3,1,0,3,3,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+34,1,Non-Travel,924,R&D,30,4,Other,3,Female,109,2,3,Product Manager,3,Divorced,25000000,10000,1,No,2.66,4,1,2,24,4,4,1.8,0.7,1.0,1.8,0.377,0.235,0.16,0.64
+48,0,Travel Frequently,585,R&D,13,4,Medical,4,Female,66,4,1,Research Lead,4,Married,24950927,10000,2,No,3.77,4,4,0,10,2,4,2.5,0.5,0.4,0.9,0.102,0.142,0.17,0.245
+48,0,Travel Rarely,411,R&D,12,2,Medical,2,Female,44,3,4,Technical Architect,3,Married,22454226,8569,1,No,2.21,3,3,0,6,6,3,6.6,2.0,1.7,4.4,0.229,0.268,0.787,0.578
+40,0,Non-Travel,868,Sales,18,2,Life Sciences,4,Female,103,3,5,Sales Executive,3,Married,25000000,10000,2,Yes,4.23,3,3,1,8,2,2,8.3,4.5,0.3,5.3,0.031,0.489,0.21,0.572
+46,0,Travel Rarely,1040,HR,14,1,Business,2,Female,132,3,2,HR Manager,1,Single,15833333,10000,1,Yes,3.02,4,3,2,0,1,2,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+44,0,Travel Frequently,505,Operations,10,2,Technical Degree,1,Female,63,2,2,Operations Specialist,3,Divorced,11350486,10000,3,Yes,1.8,3,3,0,0,1,3,0.5,0.5,0.0,0.5,0.011,0.341,0.659,0.341
+49,0,Travel Frequently,646,R&D,6,2,Other,3,Male,75,4,1,Software Engineer,4,Single,17260663,10000,1,No,1.91,2,4,0,13,3,1,4.3,3.5,2.0,0.5,0.368,0.65,0.213,0.094
+52,0,Non-Travel,1236,Operations,28,3,Other,2,Female,150,1,3,Operations Manager,2,Married,25000000,10000,1,No,2.33,3,4,0,14,5,4,1.1,0.5,0.6,1.1,0.298,0.234,0.331,0.532
+40,0,Travel Frequently,785,Sales,1,2,Business,3,Male,102,1,5,Sales Manager,1,Single,25000000,10000,2,No,4.52,4,2,1,24,0,3,0.5,0.5,0.0,0.5,0.0,0.333,0.0,0.333
+24,0,Travel Frequently,505,HR,2,3,Medical,4,Female,63,3,3,Recruiter,4,Married,25000000,10000,2,Yes,1.47,4,3,0,30,2,3,1.1,1.1,0.1,1.1,0.069,0.53,0.063,0.53
+51,0,Non-Travel,276,Operations,5,1,Technical Degree,2,Male,31,2,4,VP Operations,3,Single,25000000,5515,2,Yes,2.64,3,2,3,11,2,4,9.8,8.1,1.5,1.0,0.14,0.752,0.164,0.095
+44,0,Non-Travel,180,Finance,2,3,Medical,4,Male,24,3,3,Senior Analyst,2,Single,21223607,3402,1,Yes,3.23,3,4,1,8,5,2,3.2,1.7,0.2,2.2,0.05,0.402,0.537,0.516
+57,0,Non-Travel,230,Operations,21,3,Medical,1,Male,31,3,2,VP Operations,1,Married,25000000,4672,3,No,2.14,3,2,0,19,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.15,0.333
+24,0,Travel Rarely,452,Sales,10,4,Other,4,Male,49,2,2,Account Manager,1,Divorced,11081851,9503,1,No,2.09,3,2,2,0,1,2,0.2,0.2,-0.3,0.2,-0.201,0.199,0.801,0.199
+22,0,Travel Frequently,239,Operations,17,1,Technical Degree,1,Male,24,2,3,Director of Ops,3,Divorced,23067652,4850,2,Yes,4.1,2,1,0,15,1,3,0.8,0.8,0.3,0.8,0.184,0.456,0.062,0.456
+43,0,Travel Rarely,814,Operations,2,3,Other,4,Female,96,3,3,Operations Specialist,4,Single,21826086,10000,5,No,0.0,3,4,1,8,0,2,2.7,0.7,0.1,2.7,0.016,0.19,0.0,0.731
+48,0,Travel Frequently,1157,HR,3,1,Other,4,Male,142,3,2,Chief People Officer,2,Married,25000000,10000,1,No,1.44,3,3,1,24,3,2,14.2,1.3,0.1,0.5,0.006,0.086,0.116,0.033
+62,0,Travel Rarely,266,R&D,13,3,Other,4,Female,40,3,3,Technical Architect,3,Single,25000000,6270,1,No,3.43,3,2,0,13,3,2,2.7,0.5,0.3,0.5,0.081,0.135,0.214,0.135
+22,0,Travel Rarely,355,Sales,21,4,Technical Degree,3,Male,40,1,4,Sales Manager,1,Single,25000000,7423,1,No,3.67,1,3,1,23,2,3,1.9,1.9,1.4,0.9,0.479,0.653,0.082,0.325
+22,0,Travel Rarely,639,R&D,30,1,Technical Degree,3,Male,77,2,1,Software Engineer,2,Single,17072246,10000,3,No,3.18,3,3,0,7,1,2,1.7,1.7,1.2,1.7,0.435,0.623,0.112,0.623
+63,0,Travel Frequently,299,Sales,8,4,Business,4,Female,38,4,2,Sales Executive,2,Married,11750058,6392,2,Yes,0.02,3,4,2,0,2,2,0.9,0.9,0.4,0.9,0.217,0.445,1.043,0.478
+52,0,Travel Rarely,1118,Sales,5,1,Technical Degree,3,Female,146,1,2,Regional Director,4,Single,25000000,10000,1,Yes,3.47,3,2,0,33,2,3,4.9,3.4,0.1,1.5,0.013,0.578,0.058,0.255
+31,0,Non-Travel,154,Operations,5,3,Technical Degree,3,Female,24,1,2,Operations Specialist,1,Married,25000000,3023,2,Yes,3.44,4,3,0,16,3,3,3.9,2.0,0.4,1.4,0.077,0.399,0.176,0.275
+32,0,Travel Frequently,1215,R&D,6,2,Medical,3,Female,150,2,3,Product Manager,1,Married,25000000,10000,1,No,1.63,3,4,1,21,7,4,5.2,3.5,0.0,5.2,0.001,0.553,0.305,0.84
+41,0,Travel Frequently,365,Operations,15,3,Business,3,Male,34,1,2,VP Operations,2,Divorced,13245399,7687,1,No,0.98,3,3,2,2,3,2,2.4,2.4,1.9,2.4,0.56,0.707,0.879,0.707
+40,0,Travel Rarely,216,Finance,17,1,Business,3,Female,23,2,4,Financial Manager,3,Divorced,25000000,4539,1,No,2.4,3,3,0,22,5,1,0.5,0.5,0.0,0.5,0.0,0.333,0.21,0.333
+42,0,Non-Travel,462,R&D,1,4,Medical,3,Female,54,3,1,Technical Architect,2,Married,19794112,9828,1,No,2.97,1,3,2,20,2,2,4.3,0.5,0.0,0.6,0.008,0.094,0.092,0.111
+29,0,Travel Frequently,1198,Operations,20,3,Other,2,Female,150,1,4,Operations Manager,2,Single,25000000,10000,1,Yes,2.09,1,1,1,23,2,4,3.7,1.2,0.5,2.6,0.103,0.259,0.082,0.545
+64,0,Non-Travel,321,Operations,5,1,Other,3,Male,29,3,3,Operations Specialist,2,Single,12916666,7033,4,No,0.38,3,2,1,0,1,3,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+43,0,Travel Frequently,493,HR,30,4,Technical Degree,4,Male,57,2,3,HR Manager,2,Divorced,25000000,10000,1,Yes,3.32,4,4,0,19,1,3,7.3,1.0,0.4,1.4,0.046,0.116,0.049,0.165
+29,0,Travel Frequently,296,Sales,10,4,Technical Degree,1,Female,35,3,1,VP Sales,3,Married,25000000,5975,2,No,0.5,3,2,1,23,3,2,2.2,0.5,0.6,0.5,0.198,0.155,0.124,0.155
+26,0,Non-Travel,419,Operations,11,2,Life Sciences,1,Female,53,4,2,Operations Manager,1,Divorced,25000000,8532,1,No,1.74,3,1,1,18,2,3,18.7,2.8,1.0,0.5,0.049,0.144,0.102,0.025
+33,0,Travel Rarely,227,Finance,2,1,Technical Degree,2,Female,35,4,3,Senior Analyst,1,Single,25000000,4461,2,Yes,2.18,3,4,1,17,1,4,4.8,3.3,1.3,4.6,0.225,0.561,0.054,0.793
+32,0,Non-Travel,1171,R&D,8,2,Other,4,Female,150,4,2,Technical Architect,3,Single,25000000,10000,2,Yes,2.84,3,2,3,23,3,3,4.7,1.0,1.1,4.0,0.195,0.178,0.123,0.7
+26,0,Travel Frequently,275,Finance,6,5,Life Sciences,3,Male,38,1,2,Senior Analyst,4,Single,20868301,5668,2,Yes,1.34,4,2,0,5,2,2,4.0,2.0,0.3,0.7,0.061,0.403,0.331,0.136
+41,0,Non-Travel,1260,HR,14,3,Other,3,Female,150,2,1,Chief People Officer,3,Divorced,24702471,10000,1,No,1.78,4,3,0,10,3,3,3.1,3.1,2.6,0.5,0.633,0.756,0.26,0.123
+49,0,Travel Rarely,1020,HR,3,1,Other,3,Male,133,3,4,Recruiter,2,Married,18776140,10000,1,Yes,2.32,3,3,1,2,6,2,2.9,2.1,2.3,1.3,0.592,0.535,1.522,0.337
+36,0,Travel Frequently,140,HR,9,3,Medical,4,Male,21,4,2,Recruiter,4,Married,10869001,2890,2,No,2.49,3,4,1,0,3,2,0.0,0.0,-0.5,0.0,-0.448,0.034,2.897,0.034
+53,0,Non-Travel,909,Operations,14,4,Technical Degree,1,Male,102,4,2,Process Engineer,1,Married,25000000,10000,1,No,1.44,3,2,0,16,6,3,9.8,5.4,1.3,5.6,0.124,0.495,0.343,0.519
+38,0,Non-Travel,303,Operations,4,2,Medical,3,Male,34,2,1,Operations Manager,2,Single,25000000,5928,1,No,6.73,3,4,2,20,3,1,1.0,1.0,0.5,1.0,0.239,0.493,0.142,0.493
+31,0,Non-Travel,741,R&D,13,2,Other,3,Female,92,1,3,Data Scientist,3,Divorced,19825195,10000,3,No,0.0,2,1,0,11,4,1,2.0,2.0,0.5,0.5,0.172,0.662,0.31,0.181
+36,0,Non-Travel,196,HR,8,2,Other,2,Female,20,3,1,HR Director,3,Single,22002586,4470,3,No,2.02,3,4,1,12,4,1,2.1,1.1,0.5,0.8,0.146,0.366,0.289,0.262
+22,0,Travel Frequently,759,Sales,1,1,Business,2,Female,96,2,2,Sales Executive,3,Married,14934847,10000,2,No,0.62,3,4,2,4,1,4,1.2,1.2,0.1,1.2,0.031,0.552,0.196,0.552
+47,0,Travel Rarely,213,Operations,13,2,Medical,3,Female,29,1,3,VP Operations,4,Divorced,25000000,4725,1,No,3.48,3,2,1,12,1,1,1.0,1.0,0.5,1.0,0.251,0.501,0.072,0.501
+22,0,Non-Travel,207,HR,5,1,Medical,3,Female,28,2,4,Chief People Officer,3,Single,25000000,4833,5,No,2.63,3,4,2,14,4,1,4.5,3.0,0.9,4.5,0.156,0.536,0.258,0.82
+57,0,Non-Travel,313,Finance,2,3,Medical,4,Female,32,3,2,Financial Manager,2,Divorced,10833333,6391,2,No,1.38,3,4,1,0,4,2,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+45,0,Non-Travel,915,Finance,3,3,Life Sciences,3,Male,105,3,2,CFO,3,Divorced,25000000,10000,2,No,1.38,3,2,3,16,1,3,5.4,1.7,0.4,1.2,0.066,0.261,0.056,0.186
+44,0,Travel Frequently,576,Finance,2,5,Other,3,Female,65,3,3,Analyst,1,Single,25000000,10000,2,No,2.74,4,4,1,26,1,3,3.4,2.3,0.5,0.5,0.119,0.514,0.037,0.119
+38,0,Travel Frequently,1235,Finance,5,1,Medical,3,Female,150,4,2,Analyst,3,Married,25000000,10000,1,Yes,0.0,3,3,3,20,3,1,7.4,0.5,0.1,1.5,0.01,0.059,0.138,0.177
+33,0,Travel Rarely,688,Operations,13,2,Technical Degree,2,Female,81,1,1,Process Engineer,4,Married,25000000,10000,2,No,3.42,4,3,3,16,2,3,8.0,1.0,0.6,1.4,0.064,0.108,0.113,0.151
+42,0,Travel Rarely,217,Sales,5,1,Other,3,Male,33,1,2,Sales Executive,3,Single,25000000,4598,2,No,3.59,3,3,2,15,4,1,7.3,1.8,1.1,5.1,0.127,0.218,0.246,0.611
+32,0,Non-Travel,574,R&D,6,3,Other,2,Male,70,3,3,Research Lead,3,Married,25000000,10000,3,Yes,3.18,4,3,0,14,4,2,5.3,0.9,0.2,3.5,0.034,0.137,0.258,0.559
+51,0,Non-Travel,541,R&D,4,3,Other,3,Female,59,3,2,Software Engineer,2,Single,21615350,10000,1,No,3.21,2,2,1,15,2,2,6.5,0.5,0.4,1.2,0.049,0.067,0.119,0.163
+39,0,Travel Rarely,713,Operations,12,3,Technical Degree,2,Female,99,3,3,Director of Ops,4,Single,25000000,10000,3,No,2.98,3,4,1,15,3,2,0.6,0.5,0.1,0.6,0.055,0.315,0.182,0.37
+22,0,Travel Rarely,292,Finance,7,3,Technical Degree,2,Male,31,1,1,Financial Manager,3,Married,25000000,6087,1,No,2.47,3,1,1,17,4,2,1.8,0.5,0.9,1.8,0.342,0.18,0.214,0.64
+37,0,Travel Frequently,162,Finance,3,2,Life Sciences,2,Male,21,3,3,Analyst,1,Married,25000000,3171,1,Yes,0.0,3,2,1,15,2,3,7.0,0.5,0.0,1.0,0.006,0.063,0.12,0.124
+46,0,Travel Frequently,377,Sales,10,4,Other,1,Female,41,2,2,Sales Executive,1,Married,25000000,8071,2,No,2.2,2,4,0,23,2,2,5.1,3.0,0.0,2.3,0.003,0.488,0.081,0.382
+59,0,Travel Frequently,920,Sales,5,2,Technical Degree,3,Female,112,3,5,Sales Manager,3,Divorced,25000000,10000,1,No,2.83,3,3,1,11,4,2,0.5,0.5,0.0,0.5,0.0,0.333,0.312,0.333
+44,0,Non-Travel,836,HR,20,3,Technical Degree,3,Female,103,3,3,HR Director,2,Married,23569465,10000,2,No,1.89,2,3,2,15,5,4,4.7,0.5,0.3,4.7,0.049,0.087,0.3,0.826
+53,1,Travel Frequently,319,Finance,4,4,Life Sciences,2,Female,38,3,2,Controller,1,Married,24406787,6946,3,No,2.49,4,1,0,8,0,1,7.0,0.5,0.0,0.5,0.006,0.063,0.0,0.063
+44,0,Non-Travel,295,HR,30,1,Business,2,Female,33,2,3,HR Director,3,Single,14645755,6062,2,Yes,1.51,3,2,0,1,0,3,1.7,1.7,1.2,0.6,0.45,0.634,0.0,0.23
+22,0,Non-Travel,224,Finance,6,3,Technical Degree,3,Female,31,4,2,Analyst,3,Single,25000000,4627,2,No,1.87,4,4,2,13,3,4,10.5,1.3,0.3,0.5,0.022,0.109,0.204,0.044
+41,0,Travel Rarely,513,Finance,3,1,Business,4,Male,59,3,2,Controller,3,Married,25000000,10000,1,No,0.66,3,2,0,18,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.154,0.333
+38,0,Non-Travel,569,Operations,8,2,Medical,3,Female,75,1,1,Director of Ops,2,Married,25000000,10000,1,No,2.68,3,4,1,16,0,1,6.7,1.9,1.9,0.6,0.245,0.244,0.0,0.074
+22,0,Non-Travel,298,HR,18,1,Life Sciences,3,Female,38,4,2,Recruiter,3,Married,10833333,6467,1,Yes,3.92,3,4,1,0,2,3,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+25,0,Travel Frequently,241,R&D,30,3,Technical Degree,2,Male,29,3,2,Technical Architect,2,Married,17138458,4954,2,Yes,2.34,3,2,2,6,1,2,4.3,2.1,0.1,4.0,0.021,0.405,0.137,0.762
+48,0,Non-Travel,186,Sales,24,1,Life Sciences,2,Female,25,2,3,Account Manager,1,Single,25000000,3543,1,Yes,1.2,3,3,1,20,1,2,11.8,3.8,0.1,1.8,0.01,0.3,0.047,0.137
+49,0,Non-Travel,606,Sales,7,3,Medical,4,Female,65,3,3,Sales Executive,3,Divorced,22350695,10000,2,No,1.35,3,3,1,9,5,4,6.7,6.7,0.7,2.3,0.087,0.87,0.479,0.296
+26,0,Non-Travel,478,Sales,30,1,Business,2,Female,57,2,3,Regional Director,3,Married,25000000,10000,3,Yes,0.67,4,2,2,26,3,3,2.4,1.1,1.1,2.4,0.341,0.335,0.107,0.703
+45,0,Travel Rarely,234,Sales,29,4,Other,3,Female,26,3,1,Account Manager,2,Married,25000000,4739,2,Yes,1.07,4,4,0,16,3,3,3.3,2.1,0.2,1.0,0.055,0.484,0.167,0.222
+50,0,Non-Travel,686,Operations,1,4,Life Sciences,3,Female,84,4,3,VP Operations,2,Married,8645313,10000,1,Yes,3.15,2,3,0,0,0,1,0.7,0.7,0.2,0.7,0.132,0.422,0.0,0.422
+48,0,Travel Frequently,586,R&D,7,4,Medical,3,Male,56,3,2,Research Lead,2,Divorced,22346835,10000,1,No,1.32,2,4,0,16,2,3,4.6,1.5,0.5,1.4,0.094,0.274,0.114,0.245
+30,0,Non-Travel,1256,HR,12,3,Medical,1,Female,150,4,3,HR Director,1,Married,19712272,10000,1,No,2.41,1,2,3,16,3,3,8.1,0.5,0.0,3.2,0.004,0.055,0.169,0.359
+49,0,Travel Frequently,495,Operations,10,4,Business,3,Female,57,1,4,Operations Manager,3,Single,15509801,10000,2,Yes,3.03,1,4,3,9,0,3,7.8,4.6,0.6,5.2,0.062,0.525,0.0,0.588
+34,0,Non-Travel,310,R&D,9,3,Medical,3,Male,29,2,2,Technical Architect,3,Single,14007272,6086,3,Yes,1.46,3,2,0,3,6,2,3.2,1.0,0.7,0.7,0.171,0.244,1.437,0.165
+41,0,Travel Rarely,420,R&D,13,3,Business,2,Female,48,1,4,Product Manager,1,Single,19705656,8712,2,No,2.06,3,4,0,3,2,3,3.9,3.9,0.0,0.6,0.0,0.795,0.41,0.114
+30,0,Travel Frequently,1231,R&D,12,4,Other,4,Female,150,3,1,Research Lead,1,Single,18553486,10000,1,No,3.53,3,3,2,9,3,4,1.3,0.5,0.0,1.3,0.018,0.215,0.289,0.571
+46,0,Travel Frequently,324,HR,2,2,Medical,2,Female,39,3,3,HR Director,3,Divorced,25000000,6573,4,No,2.8,4,3,1,21,2,2,16.2,1.9,0.1,1.5,0.006,0.111,0.088,0.087
+43,0,Travel Rarely,475,Sales,3,3,Business,1,Male,48,3,3,Sales Manager,2,Single,18758353,10000,2,Yes,1.04,3,4,1,5,0,3,1.2,1.2,0.4,1.2,0.19,0.538,0.0,0.538
+43,0,Travel Frequently,151,HR,13,2,Business,2,Male,20,1,5,Recruiter,4,Divorced,21782990,3592,2,No,1.49,2,3,0,6,3,4,4.2,4.2,1.7,1.3,0.334,0.808,0.385,0.243
+55,0,Travel Rarely,510,Operations,4,2,Business,4,Female,64,4,3,VP Operations,3,Divorced,22639662,10000,2,No,1.7,3,4,3,9,2,3,5.6,3.2,1.1,4.2,0.166,0.48,0.187,0.631
+46,0,Travel Rarely,101,Finance,2,3,Business,3,Female,21,2,2,Analyst,3,Divorced,25000000,2334,4,Yes,2.49,3,3,0,15,4,2,15.3,1.1,0.0,2.3,0.003,0.066,0.245,0.14
+50,0,Travel Rarely,245,R&D,20,1,Medical,4,Male,29,1,5,Software Engineer,3,Divorced,25000000,4907,1,No,2.67,3,3,1,23,3,2,6.9,1.7,0.1,2.0,0.007,0.221,0.125,0.254
+22,0,Travel Frequently,289,Sales,2,3,Other,1,Male,46,3,1,Regional Director,3,Single,14166666,6165,1,No,1.82,4,2,1,0,3,2,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+37,0,Travel Rarely,1089,Finance,1,3,Medical,3,Male,130,4,4,CFO,3,Married,25000000,10000,1,No,3.03,4,2,2,10,4,2,1.5,1.5,1.0,0.8,0.41,0.607,0.361,0.331
+38,0,Non-Travel,317,R&D,21,3,Medical,3,Male,35,2,2,Technical Architect,4,Single,25000000,6614,2,No,4.44,3,4,0,20,2,3,3.2,1.2,1.1,1.9,0.266,0.285,0.095,0.456
+40,0,Non-Travel,196,HR,13,4,Business,4,Male,25,4,4,Recruiter,3,Single,23271307,4072,1,No,3.3,3,1,2,7,3,2,7.4,1.1,0.2,1.5,0.019,0.132,0.356,0.172
+26,0,Travel Frequently,342,Operations,4,3,Medical,1,Female,47,3,4,Operations Manager,1,Divorced,24433847,7220,3,No,2.34,3,1,3,8,2,2,8.6,1.4,0.0,3.7,0.002,0.143,0.208,0.391
+54,0,Travel Rarely,237,Finance,1,4,Life Sciences,4,Female,31,3,3,Senior Analyst,1,Divorced,21899621,5268,2,No,2.5,3,4,1,8,6,2,9.0,1.3,0.1,0.5,0.011,0.131,0.601,0.05
+28,0,Non-Travel,493,HR,2,3,Technical Degree,2,Female,73,3,3,HR Director,2,Married,25000000,10000,1,Yes,1.98,3,3,2,21,1,1,2.7,0.5,0.9,2.4,0.253,0.134,0.045,0.65
+22,0,Travel Rarely,328,Finance,17,3,Business,2,Male,37,1,2,Analyst,2,Single,25000000,6742,1,No,3.25,3,2,0,15,3,4,11.3,3.1,0.4,2.0,0.029,0.255,0.183,0.165
+40,0,Non-Travel,336,Finance,4,4,Other,2,Female,52,3,2,Financial Manager,4,Married,25000000,6990,2,No,3.06,3,2,1,17,6,2,2.8,0.5,0.3,1.9,0.07,0.13,0.329,0.5
+43,0,Non-Travel,302,HR,12,4,Life Sciences,1,Male,34,2,3,HR Specialist,2,Married,25000000,6446,2,No,2.71,3,3,0,12,2,2,4.5,0.5,0.2,1.7,0.042,0.092,0.152,0.314
+25,0,Travel Frequently,701,R&D,1,1,Life Sciences,2,Male,92,3,2,Technical Architect,3,Married,25000000,10000,2,No,1.74,3,3,1,20,6,2,3.4,3.4,0.5,0.5,0.112,0.772,0.283,0.114
+22,0,Non-Travel,665,Finance,1,3,Other,3,Male,81,2,3,Controller,3,Single,25000000,10000,1,No,1.78,3,3,1,27,1,2,0.7,0.6,0.2,0.7,0.098,0.338,0.035,0.399
+33,0,Travel Rarely,827,Sales,30,3,Other,3,Female,101,3,1,Sales Manager,4,Single,16943688,10000,1,No,0.03,3,4,2,7,1,3,1.3,1.3,0.8,0.5,0.342,0.561,0.114,0.219
+43,0,Travel Frequently,287,Sales,1,3,Medical,3,Female,37,3,2,Account Manager,4,Married,25000000,6272,3,No,2.28,2,4,1,26,2,3,17.8,1.6,0.0,3.1,0.002,0.082,0.072,0.167
+40,0,Non-Travel,1187,Operations,9,3,Other,2,Female,132,2,4,Operations Specialist,3,Married,25000000,10000,1,No,3.05,3,3,0,18,3,3,7.1,4.3,0.2,1.6,0.024,0.536,0.15,0.202
+44,1,Travel Frequently,184,R&D,8,3,Technical Degree,1,Male,25,3,2,Software Engineer,3,Single,25000000,3473,5,No,1.37,4,2,3,18,3,2,6.3,1.6,0.3,0.9,0.037,0.219,0.154,0.121
+31,0,Travel Rarely,191,Operations,3,4,Other,3,Female,30,3,1,Operations Manager,3,Married,16438341,4249,2,Yes,2.97,3,3,0,7,4,1,0.9,0.5,0.4,0.5,0.192,0.293,0.484,0.269
+28,0,Travel Rarely,300,Sales,11,2,Other,3,Male,35,3,3,Sales Executive,1,Single,17916666,6030,3,No,2.05,4,2,1,0,0,1,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+52,0,Non-Travel,209,Operations,7,1,Other,1,Male,38,2,1,Process Engineer,4,Married,19383253,4350,2,No,1.45,4,4,1,5,1,3,5.2,0.8,1.9,2.1,0.313,0.123,0.161,0.33
+22,0,Travel Rarely,1084,R&D,13,3,Medical,1,Female,130,4,2,Research Lead,4,Single,25000000,10000,1,No,3.12,3,4,1,15,5,1,6.7,4.3,0.1,1.3,0.015,0.564,0.311,0.169
+45,0,Travel Frequently,609,R&D,12,3,Business,2,Female,76,1,2,Technical Architect,3,Single,15833333,10000,1,No,2.67,4,4,0,0,2,2,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+41,0,Travel Rarely,154,Finance,9,3,Life Sciences,4,Female,31,3,2,Controller,3,Divorced,24825789,3677,2,No,4.6,4,3,1,8,4,4,0.7,0.7,0.2,0.7,0.105,0.407,0.4,0.407
+44,0,Non-Travel,373,R&D,12,4,Business,3,Male,31,3,5,Product Manager,3,Married,25000000,7814,2,Yes,0.19,4,3,1,11,1,2,0.8,0.8,0.3,0.8,0.189,0.459,0.079,0.459
+44,0,Travel Frequently,100,Finance,9,4,Other,4,Female,21,1,1,Financial Manager,3,Single,17441043,2005,1,No,2.89,3,3,0,8,7,1,2.8,1.6,2.3,0.5,0.604,0.433,0.755,0.132
+24,0,Travel Rarely,232,Sales,27,2,Medical,4,Female,21,3,2,Sales Manager,3,Divorced,25000000,5269,2,Yes,3.58,3,3,0,26,3,3,1.3,0.8,0.8,1.3,0.347,0.37,0.108,0.565
+45,1,Travel Frequently,539,R&D,3,3,Technical Degree,2,Male,61,3,3,Product Manager,3,Single,23279207,10000,1,No,2.46,3,3,1,10,7,4,0.9,0.9,0.4,0.9,0.206,0.471,0.616,0.471
+23,0,Non-Travel,344,Finance,14,4,Business,2,Male,47,3,3,Senior Analyst,4,Married,25000000,6824,1,No,3.3,4,4,1,25,1,2,15.5,1.9,0.1,2.0,0.005,0.113,0.037,0.123
+39,0,Travel Frequently,564,HR,1,2,Medical,3,Female,61,1,2,HR Director,3,Single,24475191,10000,1,Yes,1.6,4,2,3,8,2,3,4.8,1.4,0.0,1.1,0.004,0.237,0.207,0.184
+29,0,Travel Rarely,545,HR,4,3,Other,3,Male,70,1,3,Chief People Officer,3,Divorced,25000000,10000,3,Yes,3.06,3,2,1,14,6,2,2.7,2.7,1.1,1.0,0.3,0.73,0.383,0.28
+52,0,Non-Travel,587,Sales,2,2,Medical,3,Female,74,4,1,Regional Director,3,Divorced,2500000,10000,3,Yes,2.92,1,2,0,2,3,4,2.7,0.7,0.6,0.5,0.159,0.198,0.815,0.136
+47,0,Travel Frequently,1220,R&D,1,2,Medical,2,Female,145,3,4,Research Lead,2,Married,25000000,10000,1,No,2.61,3,2,1,13,1,3,7.1,1.4,0.1,1.0,0.014,0.173,0.069,0.119
+41,0,Non-Travel,634,Finance,16,2,Medical,2,Male,75,2,4,Analyst,4,Divorced,22357633,10000,3,No,1.9,4,1,1,1,1,1,1.5,1.5,1.0,1.5,0.406,0.604,0.396,0.604
+22,0,Non-Travel,645,Operations,6,3,Technical Degree,4,Female,94,2,3,VP Operations,3,Divorced,19795106,10000,2,Yes,4.45,4,3,0,1,1,1,1.9,1.9,0.3,1.9,0.094,0.653,0.347,0.653
+42,1,Non-Travel,492,HR,5,4,Other,2,Male,66,2,2,HR Manager,3,Single,16806147,10000,4,No,1.99,2,4,0,10,1,1,10.3,1.7,0.4,6.8,0.035,0.153,0.084,0.597
+46,0,Travel Rarely,1270,Finance,1,3,Medical,2,Female,150,2,3,Financial Manager,4,Married,20491138,10000,1,No,4.48,1,3,3,17,3,1,2.3,2.3,0.4,1.1,0.124,0.697,0.162,0.333
+44,0,Travel Rarely,1098,R&D,2,3,Medical,3,Female,144,4,1,Technical Architect,1,Divorced,25000000,10000,2,Yes,2.86,3,1,2,17,3,2,5.2,0.5,0.2,3.0,0.032,0.081,0.159,0.489
+52,0,Travel Rarely,382,R&D,19,3,Other,3,Female,48,2,1,Product Manager,4,Married,25000000,8271,1,No,1.22,4,4,2,25,5,1,0.5,0.5,0.0,0.5,0.0,0.333,0.187,0.333
+56,0,Travel Rarely,885,Finance,12,2,Other,3,Female,111,3,2,Senior Analyst,3,Married,19273762,10000,1,No,3.72,3,2,1,8,1,3,5.5,0.5,0.0,3.2,0.004,0.077,0.106,0.49
+42,0,Travel Frequently,221,Operations,1,1,Life Sciences,3,Female,26,3,3,VP Operations,3,Married,25000000,4757,1,No,2.24,3,1,2,15,2,3,2.8,0.9,0.7,0.9,0.183,0.243,0.119,0.233
+48,0,Travel Rarely,900,Sales,6,4,Other,2,Male,117,4,3,Sales Executive,3,Single,25000000,10000,1,Yes,2.98,2,4,0,28,3,1,1.1,1.1,0.6,0.5,0.302,0.535,0.102,0.233
+44,0,Non-Travel,831,HR,9,3,Business,3,Male,111,1,4,Recruiter,4,Divorced,18647818,10000,3,No,3.47,3,3,1,2,4,2,2.8,2.8,0.5,1.6,0.135,0.738,1.049,0.423
+46,0,Non-Travel,637,Sales,2,3,Life Sciences,3,Male,88,2,1,Account Manager,2,Divorced,25000000,10000,2,No,4.08,2,4,1,23,2,1,6.9,3.7,0.4,1.2,0.054,0.471,0.083,0.155
+22,0,Non-Travel,909,R&D,30,3,Life Sciences,2,Male,102,1,3,Data Scientist,2,Single,24480555,10000,4,No,3.69,2,2,2,16,2,1,5.6,1.2,0.3,1.1,0.038,0.187,0.114,0.173
+39,0,Travel Rarely,258,Operations,7,3,Medical,4,Female,26,3,3,Director of Ops,3,Married,25000000,5324,2,Yes,1.24,4,2,3,16,1,3,6.1,1.2,0.7,2.2,0.096,0.172,0.056,0.314
+36,0,Travel Frequently,426,Sales,1,4,Business,1,Male,68,3,1,Sales Executive,1,Divorced,19797231,8818,1,Yes,2.42,3,4,1,10,5,2,10.6,1.0,0.0,0.5,0.001,0.083,0.43,0.043
+32,0,Non-Travel,137,R&D,6,1,Technical Degree,3,Male,24,2,3,Data Scientist,2,Married,25000000,2456,2,No,3.81,4,4,3,9,2,2,2.7,2.7,0.8,0.5,0.222,0.728,0.186,0.136
+22,0,Non-Travel,515,Operations,22,2,Business,4,Male,65,1,3,Director of Ops,4,Married,24494625,10000,2,No,3.28,3,1,1,11,6,1,0.5,0.5,0.0,0.5,0.0,0.333,0.477,0.333
+22,0,Non-Travel,485,Finance,2,3,Other,2,Male,68,1,3,Controller,3,Divorced,24092249,10000,1,No,0.0,4,3,2,6,1,1,1.1,1.1,0.6,1.1,0.278,0.519,0.139,0.519
+48,0,Non-Travel,149,R&D,1,2,Medical,3,Male,20,1,1,Software Engineer,4,Single,25000000,3022,1,Yes,2.63,3,3,0,21,2,3,8.0,2.1,0.8,5.5,0.087,0.236,0.09,0.609
+51,0,Non-Travel,327,Finance,4,3,Business,4,Female,43,4,1,Controller,3,Divorced,22320440,6985,1,No,1.08,3,1,1,13,3,1,7.5,6.1,1.3,1.7,0.148,0.723,0.212,0.199
+31,0,Travel Frequently,764,Operations,3,2,Medical,2,Male,95,4,2,Director of Ops,4,Married,2500000,10000,5,No,2.93,1,2,1,0,5,1,0.4,0.4,-0.1,0.4,-0.045,0.304,3.482,0.304
+45,0,Non-Travel,1002,Finance,15,3,Other,3,Female,117,1,2,Analyst,4,Single,20178414,10000,2,No,2.11,3,2,1,9,4,1,9.3,7.2,0.0,5.0,0.002,0.7,0.387,0.48
+37,1,Travel Rarely,966,HR,9,2,Other,3,Male,117,1,2,HR Manager,3,Single,25000000,10000,1,No,1.22,4,3,1,11,3,2,2.5,2.0,0.9,2.5,0.269,0.567,0.231,0.711
+22,0,Non-Travel,1168,Operations,12,2,Business,2,Female,149,3,1,Process Engineer,2,Single,19378132,10000,2,No,2.07,2,2,2,15,1,2,12.3,3.5,0.4,0.5,0.033,0.264,0.062,0.038
+49,0,Travel Rarely,334,HR,1,3,Medical,4,Male,43,3,2,Recruiter,3,Divorced,25000000,7383,2,No,3.57,3,4,2,15,2,2,15.7,0.5,0.0,0.5,0.001,0.03,0.12,0.03
+26,0,Non-Travel,674,HR,2,2,Business,3,Male,83,4,3,HR Director,3,Divorced,25000000,10000,3,Yes,3.66,3,1,1,15,0,4,1.2,0.5,0.5,1.2,0.248,0.232,0.0,0.536
+39,0,Non-Travel,738,Operations,4,2,Technical Degree,3,Female,97,4,5,Operations Manager,2,Single,25000000,10000,2,No,0.27,4,2,0,23,1,1,11.6,2.1,0.4,0.5,0.03,0.17,0.041,0.04
+38,0,Travel Frequently,125,Sales,30,4,Other,2,Male,28,4,4,Regional Director,3,Single,25000000,2608,2,No,2.01,3,3,1,9,5,3,4.4,4.2,1.1,4.4,0.2,0.763,0.471,0.816
+44,0,Non-Travel,697,Sales,9,3,Medical,2,Female,91,3,3,Sales Manager,2,Married,24095249,10000,2,No,1.61,3,4,2,11,3,3,1.7,0.5,0.7,1.7,0.251,0.182,0.246,0.636
+37,0,Travel Rarely,994,Operations,16,4,Technical Degree,3,Male,115,2,5,Process Engineer,3,Married,20527418,10000,2,No,3.19,2,3,0,5,1,2,5.4,5.4,0.5,5.4,0.083,0.844,0.153,0.844
+39,0,Non-Travel,385,Operations,16,3,Life Sciences,2,Female,41,3,2,Process Engineer,4,Single,8136306,8215,1,No,3.25,1,4,0,7,2,2,2.3,2.3,1.2,1.5,0.367,0.701,0.241,0.462
+40,0,Travel Rarely,594,R&D,8,3,Other,2,Male,68,4,4,Software Engineer,2,Married,25000000,10000,1,No,3.38,4,1,0,22,5,4,10.4,5.2,0.1,7.1,0.005,0.453,0.211,0.623
+38,0,Travel Frequently,158,R&D,5,2,Medical,2,Female,24,1,2,Software Engineer,2,Single,25000000,3449,1,No,2.41,3,2,3,23,3,1,4.0,0.9,0.7,1.3,0.136,0.179,0.12,0.264
+24,0,Travel Rarely,634,Finance,1,3,Business,2,Male,71,3,3,Senior Analyst,1,Single,25000000,10000,1,Yes,3.03,3,4,3,16,2,3,16.9,1.7,0.3,1.8,0.015,0.096,0.112,0.099
+27,0,Non-Travel,812,HR,5,2,Life Sciences,2,Female,105,2,1,Recruiter,4,Single,25000000,10000,2,No,0.93,3,2,0,25,4,2,13.2,3.6,0.4,1.7,0.025,0.256,0.15,0.119
+30,0,Travel Frequently,197,Operations,9,3,Other,3,Female,22,2,5,Process Engineer,4,Married,25000000,4231,1,No,1.5,3,3,0,13,3,4,5.7,0.5,0.0,3.5,0.004,0.075,0.206,0.523
+22,0,Travel Rarely,444,R&D,7,4,Technical Degree,1,Female,57,2,2,Data Scientist,4,Single,21334472,9533,2,No,1.11,4,2,2,5,1,2,0.5,0.5,0.0,0.5,0.0,0.333,0.154,0.333
+45,1,Non-Travel,248,Sales,12,4,Life Sciences,3,Female,26,3,4,VP Sales,2,Single,21810090,4730,1,No,4.62,3,3,0,5,1,2,6.0,2.6,1.0,0.5,0.145,0.379,0.143,0.072
+43,0,Travel Rarely,274,Operations,16,2,Life Sciences,3,Female,38,1,3,Operations Specialist,4,Single,5738214,5645,2,No,2.24,1,2,3,2,2,2,2.8,1.8,0.7,2.2,0.195,0.458,0.523,0.572
+52,0,Travel Rarely,329,Finance,6,3,Business,4,Male,31,3,2,Controller,4,Divorced,25000000,7047,1,No,2.16,4,4,0,14,3,3,10.2,1.3,0.0,3.9,0.002,0.119,0.196,0.351
+48,0,Non-Travel,617,Sales,16,2,Medical,3,Female,75,3,2,Sales Manager,3,Divorced,23483137,10000,1,No,2.32,3,1,0,12,4,4,1.4,1.4,0.9,1.2,0.382,0.588,0.293,0.483
+22,0,Travel Rarely,383,Operations,4,2,Technical Degree,2,Male,45,4,4,Director of Ops,4,Single,17392120,7679,1,Yes,2.35,3,4,1,1,1,4,0.5,0.5,0.0,0.5,0.0,0.333,0.391,0.333
+32,0,Non-Travel,682,Operations,10,3,Medical,3,Male,84,3,1,Director of Ops,3,Single,16111130,10000,3,Yes,3.67,3,3,2,6,4,4,3.8,0.5,0.1,3.3,0.015,0.104,0.503,0.677
+40,0,Travel Rarely,534,Sales,1,3,Technical Degree,3,Male,52,3,4,Sales Executive,1,Divorced,20090409,10000,2,No,2.39,3,3,0,4,2,3,0.6,0.6,0.1,0.6,0.085,0.39,0.38,0.39
+45,0,Travel Rarely,345,R&D,5,3,Life Sciences,2,Female,42,3,3,Research Lead,1,Married,25000000,7491,1,No,2.12,4,3,0,9,1,4,0.6,0.6,0.1,0.5,0.083,0.389,0.094,0.306
+59,0,Travel Frequently,673,R&D,13,4,Other,2,Female,86,3,5,Research Lead,3,Married,25000000,10000,2,No,0.34,3,2,0,14,1,4,5.0,4.3,4.5,1.3,0.751,0.718,0.065,0.211
+35,0,Travel Rarely,594,HR,6,2,Other,3,Female,71,2,1,HR Specialist,2,Divorced,19964055,10000,2,No,3.85,4,3,3,5,2,3,0.7,0.5,0.2,0.7,0.092,0.303,0.294,0.395
+45,0,Non-Travel,852,Finance,2,4,Medical,3,Male,110,1,2,Financial Manager,4,Divorced,25000000,10000,2,No,2.55,3,3,0,18,3,3,0.9,0.9,0.0,0.7,0.023,0.469,0.152,0.359
+42,0,Non-Travel,222,HR,3,2,Technical Degree,3,Female,29,3,4,HR Manager,3,Married,25000000,4653,1,No,3.22,4,3,2,26,1,1,19.9,0.8,0.1,7.7,0.003,0.038,0.036,0.368
+33,0,Travel Rarely,211,Finance,3,2,Other,2,Female,31,4,2,CFO,2,Single,25000000,4419,1,No,3.26,3,2,1,20,2,3,5.8,1.7,0.2,5.8,0.024,0.25,0.093,0.853
+35,0,Non-Travel,206,R&D,30,2,Other,1,Female,22,4,2,Research Lead,3,Married,25000000,3519,1,No,1.6,3,4,0,16,3,1,1.9,1.7,1.0,0.5,0.326,0.584,0.167,0.17
+27,0,Non-Travel,760,Finance,1,3,Business,4,Male,75,3,4,Senior Analyst,2,Single,25000000,10000,1,No,1.69,4,4,2,9,1,2,6.4,6.4,1.1,2.2,0.143,0.865,0.092,0.3
+27,0,Non-Travel,779,Operations,20,4,Other,4,Male,101,1,2,VP Operations,3,Divorced,19050135,10000,1,No,2.94,3,2,2,8,3,4,8.2,0.6,0.1,3.3,0.012,0.064,0.325,0.356
+40,0,Travel Frequently,599,Sales,7,3,Business,4,Male,67,3,2,Regional Director,1,Married,25000000,10000,1,No,2.5,4,4,1,28,5,3,12.3,0.5,0.2,1.0,0.012,0.038,0.167,0.071
+29,0,Travel Rarely,570,Finance,6,3,Technical Degree,1,Male,79,4,2,Senior Analyst,3,Married,25000000,10000,1,No,4.17,4,3,2,10,2,3,10.2,0.5,0.0,1.4,0.003,0.045,0.178,0.122
+25,0,Non-Travel,206,Operations,23,2,Life Sciences,4,Male,22,4,4,Process Engineer,3,Single,25000000,4475,1,No,1.57,4,4,1,10,1,1,0.5,0.5,0.0,0.5,0.0,0.333,0.085,0.333
+35,0,Non-Travel,886,Finance,5,4,Life Sciences,3,Male,113,3,2,Senior Analyst,3,Married,16410411,10000,4,Yes,2.54,3,3,0,5,5,3,0.7,0.5,0.0,0.7,0.012,0.298,0.76,0.412
+42,0,Travel Rarely,388,Sales,14,3,Business,2,Male,47,1,2,Account Manager,2,Married,10833333,7842,2,Yes,3.02,3,3,2,0,4,1,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+43,0,Travel Rarely,1257,Finance,4,1,Technical Degree,3,Male,150,3,3,Senior Analyst,2,Divorced,18114856,10000,4,Yes,4.32,3,3,1,5,2,4,1.7,1.0,0.2,1.7,0.061,0.378,0.323,0.629
+37,0,Travel Frequently,646,Sales,3,1,Technical Degree,4,Male,92,3,3,Sales Executive,4,Married,19642380,10000,3,No,1.4,4,2,2,1,0,1,1.7,1.0,0.2,1.7,0.076,0.353,0.0,0.633
+22,0,Travel Frequently,599,Sales,1,2,Life Sciences,3,Male,81,1,5,Sales Manager,4,Single,20000000,10000,2,No,2.82,3,2,0,0,4,4,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+42,0,Travel Rarely,236,R&D,8,3,Medical,1,Male,30,1,3,Product Manager,2,Divorced,18896501,5516,1,No,2.1,2,2,1,10,3,4,2.8,0.5,0.0,1.3,0.0,0.132,0.25,0.342
+44,0,Travel Rarely,508,Operations,14,4,Technical Degree,4,Female,55,2,4,VP Operations,4,Single,25000000,10000,2,Yes,0.23,3,4,0,19,5,1,12.1,5.7,0.2,8.2,0.018,0.432,0.245,0.624
+38,0,Travel Rarely,200,Sales,2,2,Business,2,Female,27,4,2,Regional Director,3,Divorced,22727068,3945,1,No,3.51,3,2,1,11,2,1,0.5,0.5,0.0,0.5,0.0,0.333,0.155,0.333
+46,0,Non-Travel,217,Sales,28,3,Life Sciences,3,Female,30,4,1,Sales Executive,4,Divorced,18491897,4305,1,No,3.92,1,4,1,19,2,3,2.5,1.0,0.4,1.1,0.113,0.276,0.098,0.329
+37,0,Travel Rarely,900,HR,2,3,Technical Degree,3,Female,111,4,3,Chief People Officer,2,Single,17040048,10000,3,No,3.31,1,4,1,14,6,3,4.7,4.7,0.3,1.3,0.056,0.823,0.397,0.231
+22,0,Non-Travel,311,HR,13,2,Other,3,Female,37,2,1,Recruiter,4,Married,25000000,6522,2,No,3.49,3,3,1,21,1,3,0.7,0.5,0.1,0.7,0.073,0.288,0.045,0.424
+56,0,Travel Rarely,292,HR,26,2,Medical,2,Female,42,3,1,HR Specialist,3,Single,16954807,5704,3,No,1.25,3,3,1,7,2,4,2.9,2.9,1.2,1.7,0.317,0.744,0.228,0.44
+25,0,Travel Frequently,1219,Sales,20,2,Life Sciences,1,Male,150,2,1,VP Sales,3,Divorced,22927902,10000,2,No,3.15,4,3,1,8,4,4,8.8,8.5,0.7,2.3,0.073,0.867,0.41,0.232
+47,0,Non-Travel,401,R&D,7,3,Medical,2,Female,44,3,1,Software Engineer,3,Divorced,14166666,8276,2,No,1.39,4,1,2,0,2,2,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+42,0,Travel Rarely,401,Operations,4,3,Life Sciences,3,Male,54,4,2,Operations Manager,1,Single,25000000,8476,2,No,1.69,4,3,0,21,1,2,11.6,3.9,0.1,1.4,0.011,0.311,0.045,0.113
+33,0,Travel Frequently,300,Sales,14,2,Life Sciences,2,Female,36,3,4,Sales Executive,4,Divorced,25000000,6310,2,No,1.37,4,2,0,12,3,1,4.5,1.1,0.3,1.9,0.053,0.194,0.221,0.34
+22,0,Non-Travel,405,Operations,1,3,Medical,3,Male,51,3,2,Operations Manager,3,Single,25000000,8579,1,No,3.01,4,2,1,13,2,2,1.7,0.5,0.0,1.7,0.018,0.186,0.137,0.628
+40,0,Non-Travel,694,HR,18,2,Business,4,Female,83,2,4,HR Director,2,Divorced,25000000,10000,2,Yes,2.77,1,2,2,20,1,2,0.5,0.5,0.0,0.5,0.014,0.329,0.046,0.343
+46,0,Non-Travel,1154,Finance,2,3,Technical Degree,3,Male,150,4,3,CFO,2,Divorced,14178238,10000,3,No,2.0,1,4,1,11,4,1,5.3,2.4,0.4,1.7,0.064,0.389,0.326,0.268
+28,0,Travel Rarely,465,HR,1,2,Business,3,Female,53,1,2,Recruiter,3,Married,16740171,9629,1,No,2.11,3,1,0,5,2,2,5.6,5.6,0.4,0.7,0.053,0.848,0.29,0.101
+41,0,Travel Rarely,351,Finance,19,3,Medical,3,Male,36,2,3,Senior Analyst,1,Married,25000000,8043,1,Yes,4.0,3,3,2,22,4,1,11.3,0.9,0.0,3.4,0.003,0.075,0.174,0.273
+33,0,Travel Rarely,1225,HR,1,2,Medical,1,Female,150,4,2,HR Specialist,1,Single,25000000,10000,3,No,1.82,3,2,1,16,6,3,4.6,4.6,3.3,0.5,0.577,0.823,0.352,0.095
+30,0,Non-Travel,241,Operations,1,4,Life Sciences,4,Female,32,3,3,Operations Specialist,2,Married,11238735,5384,1,No,2.09,1,4,0,8,3,4,8.3,1.7,0.3,4.2,0.034,0.181,0.322,0.456
+48,0,Travel Frequently,646,R&D,4,5,Technical Degree,3,Male,92,3,1,Research Lead,3,Single,25000000,10000,1,No,3.46,3,3,1,23,3,4,7.7,0.5,0.1,0.5,0.007,0.057,0.124,0.057
+32,0,Travel Frequently,281,R&D,15,4,Medical,2,Male,37,2,2,Technical Architect,4,Single,6289641,6345,4,Yes,1.51,2,2,0,0,3,2,0.5,0.5,-0.0,0.5,-0.03,0.313,2.06,0.313
+41,0,Travel Frequently,126,Sales,4,3,Medical,2,Male,26,4,4,Regional Director,2,Married,20257485,2492,2,No,2.4,3,2,1,4,2,1,4.4,4.4,0.2,1.5,0.041,0.816,0.369,0.279
+29,0,Non-Travel,544,R&D,1,1,Business,3,Female,63,1,2,Product Manager,1,Divorced,25000000,10000,2,Yes,3.45,2,2,0,34,3,2,6.7,5.3,0.9,4.0,0.113,0.695,0.085,0.522
+24,1,Non-Travel,584,Operations,22,3,Other,3,Female,74,2,2,Director of Ops,3,Married,19451133,10000,1,No,1.23,4,3,1,3,1,1,3.6,0.5,0.1,2.5,0.018,0.108,0.217,0.547
+49,0,Travel Frequently,1119,Finance,3,3,Life Sciences,4,Female,129,2,1,Senior Analyst,3,Married,25000000,10000,4,Yes,3.09,1,3,1,26,3,4,5.4,0.5,0.0,5.0,0.007,0.078,0.109,0.782
+30,0,Travel Frequently,1239,Finance,3,1,Other,4,Female,150,3,3,Senior Analyst,2,Married,25000000,10000,1,Yes,4.02,4,2,0,8,3,2,8.6,3.2,0.2,3.6,0.016,0.328,0.312,0.372
+31,0,Travel Frequently,277,Operations,1,4,Technical Degree,4,Male,40,3,2,Director of Ops,3,Single,13401754,5533,1,No,0.8,3,4,1,2,4,2,2.6,2.6,0.1,2.6,0.014,0.72,1.121,0.72
+39,0,Non-Travel,480,Operations,5,4,Business,2,Male,49,1,1,Director of Ops,3,Divorced,20225393,10000,2,No,4.65,4,1,3,6,6,4,4.8,4.8,1.2,0.9,0.199,0.829,0.85,0.161
+59,0,Travel Rarely,266,R&D,2,3,Business,3,Female,40,1,1,Software Engineer,3,Divorced,9166666,6055,1,No,0.0,3,2,0,0,0,1,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+53,1,Travel Rarely,204,Operations,19,1,Business,2,Male,30,1,2,VP Operations,4,Married,25000000,4108,1,Yes,2.07,4,3,1,11,2,2,3.6,3.6,3.1,1.2,0.673,0.782,0.157,0.257
+31,0,Non-Travel,154,Finance,30,2,Medical,2,Male,30,2,5,Analyst,2,Single,25000000,3340,1,No,0.35,3,4,1,34,2,3,7.3,6.8,2.0,4.0,0.238,0.818,0.056,0.482
+38,0,Non-Travel,436,Sales,11,2,Business,3,Female,73,2,1,VP Sales,3,Divorced,14786256,8948,3,No,3.87,2,3,1,10,4,2,3.7,1.0,0.0,1.6,0.003,0.21,0.344,0.343
+32,0,Non-Travel,879,HR,15,4,Technical Degree,2,Male,104,1,3,Chief People Officer,3,Divorced,25000000,10000,1,No,3.98,4,4,1,21,0,2,7.2,3.7,0.1,2.1,0.008,0.455,0.0,0.25
+33,0,Travel Rarely,328,Operations,6,3,Business,3,Female,45,2,1,Operations Specialist,1,Divorced,25000000,6563,3,No,0.94,3,3,0,18,3,2,12.1,2.1,0.2,3.7,0.015,0.157,0.152,0.282
+38,0,Non-Travel,294,R&D,6,3,Technical Degree,3,Male,25,1,3,Product Manager,2,Divorced,25000000,5992,1,No,3.52,4,3,0,25,3,3,7.0,2.6,0.6,1.1,0.073,0.322,0.115,0.142
+52,0,Travel Rarely,133,Sales,4,2,Business,4,Female,21,3,1,Sales Manager,2,Divorced,9166666,2865,1,No,1.54,3,2,3,0,6,1,0.0,0.0,-0.5,0.0,-0.5,0.0,6.0,0.0
+24,0,Non-Travel,636,R&D,15,1,Medical,3,Male,78,3,1,Software Engineer,1,Divorced,25000000,10000,3,No,3.43,4,3,0,17,6,4,10.1,4.5,0.0,1.7,0.003,0.403,0.321,0.151
+50,1,Travel Rarely,830,HR,2,4,Medical,1,Female,98,4,3,HR Specialist,3,Married,25000000,10000,1,No,3.07,4,3,2,8,5,1,6.5,6.5,2.9,4.6,0.382,0.867,0.51,0.613
+47,0,Non-Travel,909,R&D,10,3,Medical,4,Male,110,3,2,Technical Architect,4,Divorced,19707284,10000,1,No,1.53,1,4,2,18,3,2,9.0,3.7,1.1,2.2,0.106,0.369,0.151,0.223
+40,0,Non-Travel,579,Finance,8,4,Other,2,Male,59,1,1,Controller,2,Single,15371757,10000,2,No,1.2,3,3,0,6,2,1,6.2,1.1,0.7,2.7,0.096,0.151,0.278,0.375
+62,0,Non-Travel,1223,Operations,1,2,Business,2,Male,150,2,2,Operations Specialist,3,Single,15833333,10000,1,No,2.38,4,2,1,0,3,1,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+48,0,Non-Travel,332,HR,1,4,Medical,4,Female,46,4,4,Chief People Officer,4,Married,25000000,6927,1,Yes,2.64,3,1,0,18,3,2,10.2,7.1,1.1,0.7,0.1,0.635,0.157,0.065
+29,0,Travel Rarely,359,Operations,3,1,Life Sciences,3,Female,45,2,2,Process Engineer,1,Married,25000000,7162,1,Yes,1.82,3,4,0,23,2,4,3.5,3.5,0.1,2.2,0.018,0.78,0.083,0.491
+37,0,Non-Travel,474,HR,9,3,Technical Degree,3,Female,65,4,2,HR Specialist,2,Single,11076324,10000,3,No,0.32,3,2,1,0,2,2,0.2,0.2,-0.3,0.2,-0.207,0.195,1.609,0.195
+47,0,Non-Travel,222,Operations,6,3,Life Sciences,2,Female,28,4,2,Process Engineer,3,Married,25000000,4594,2,No,3.22,3,4,0,15,1,3,5.5,1.3,0.4,0.9,0.069,0.197,0.06,0.14
+51,0,Non-Travel,512,Finance,19,3,Medical,2,Female,58,1,3,Controller,4,Married,25000000,10000,2,Yes,3.07,4,2,1,10,5,2,6.8,6.8,6.3,1.5,0.807,0.871,0.449,0.195
+43,0,Travel Rarely,345,Sales,5,4,Other,2,Female,43,2,3,Sales Executive,3,Single,12916666,7795,1,No,2.74,3,3,0,0,2,4,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+34,0,Travel Frequently,265,Finance,19,3,Business,3,Female,30,3,2,Analyst,1,Single,16384179,5429,1,No,1.86,3,2,0,5,2,3,4.0,4.0,0.6,2.3,0.129,0.799,0.305,0.463
+55,0,Non-Travel,278,Finance,16,2,Technical Degree,2,Female,35,3,1,Controller,1,Married,19758853,5674,1,No,3.29,1,2,1,20,4,4,19.0,3.2,0.1,1.1,0.003,0.161,0.185,0.054
+51,0,Travel Frequently,1157,Finance,5,3,Other,3,Female,149,2,2,Senior Analyst,4,Married,10833333,10000,4,Yes,0.25,3,2,1,0,1,3,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+32,0,Travel Frequently,1285,HR,6,3,Business,3,Female,150,4,3,HR Specialist,1,Divorced,25000000,10000,2,Yes,2.1,3,2,1,23,2,2,4.4,2.1,0.2,3.4,0.046,0.385,0.08,0.633
+39,0,Travel Rarely,826,Sales,5,4,Other,2,Male,108,2,2,Sales Executive,3,Divorced,25000000,10000,2,No,2.62,3,4,0,14,4,1,4.4,1.8,0.3,3.0,0.055,0.335,0.256,0.547
+22,0,Non-Travel,603,R&D,1,3,Business,3,Female,77,2,2,Data Scientist,3,Married,16983859,10000,1,No,0.68,3,2,1,6,6,3,0.8,0.8,0.3,0.8,0.175,0.459,0.839,0.459
+26,0,Travel Rarely,438,R&D,7,3,Other,3,Female,51,1,1,Technical Architect,1,Married,25000000,9479,4,No,1.9,3,3,1,22,4,2,11.9,0.5,0.1,3.9,0.007,0.039,0.168,0.306
+35,0,Non-Travel,506,HR,7,1,Life Sciences,3,Male,59,3,3,HR Director,2,Married,10451374,10000,3,No,1.26,1,4,0,7,0,2,3.0,0.5,0.0,0.5,0.011,0.124,0.0,0.124
+39,0,Travel Rarely,1157,Operations,24,4,Business,2,Female,150,4,2,Director of Ops,3,Married,25000000,10000,2,No,2.08,4,1,0,25,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.112,0.333
+30,0,Travel Rarely,416,HR,5,3,Other,2,Male,60,3,2,HR Manager,3,Single,25000000,8805,1,Yes,3.72,3,3,0,16,1,4,1.7,0.5,0.2,1.7,0.069,0.188,0.057,0.624
+34,0,Non-Travel,687,R&D,15,3,Life Sciences,1,Female,75,2,3,Product Manager,3,Divorced,25000000,10000,3,Yes,2.88,4,4,0,24,2,1,16.8,0.7,0.1,16.8,0.003,0.037,0.078,0.944
+37,0,Non-Travel,601,Sales,12,2,Life Sciences,1,Male,71,3,2,Regional Director,4,Single,20481698,10000,1,No,2.74,3,4,0,9,4,3,9.6,2.0,0.2,3.1,0.016,0.188,0.376,0.292
+42,0,Non-Travel,460,Finance,23,3,Medical,2,Male,57,3,3,Senior Analyst,1,Divorced,25000000,9625,2,No,2.1,3,2,3,15,3,1,0.9,0.9,0.0,0.5,0.008,0.475,0.181,0.262
+33,1,Travel Frequently,322,HR,3,1,Business,3,Female,47,1,3,Recruiter,2,Married,7916666,6841,4,Yes,3.74,2,3,0,0,3,2,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+44,0,Travel Rarely,300,Operations,23,1,Other,3,Male,35,2,1,Process Engineer,3,Single,22187710,6557,2,Yes,2.05,4,4,0,8,1,2,3.1,2.8,0.3,1.0,0.07,0.68,0.111,0.231
+31,0,Non-Travel,763,Sales,13,4,Medical,3,Male,89,3,5,Account Manager,3,Single,25000000,10000,5,No,1.72,4,4,1,14,1,2,11.4,4.1,0.4,1.7,0.036,0.328,0.064,0.136
+44,0,Travel Rarely,309,Finance,1,2,Other,3,Female,43,2,1,Controller,3,Divorced,25000000,6566,1,No,1.34,4,3,0,16,0,3,4.9,4.5,1.1,0.5,0.184,0.755,0.0,0.084
+22,0,Travel Frequently,275,HR,10,5,Technical Degree,1,Male,27,2,2,HR Specialist,4,Single,19637124,5640,2,No,2.65,4,2,0,3,2,4,3.8,0.5,0.2,2.3,0.032,0.104,0.416,0.484
+26,0,Travel Frequently,205,Operations,5,3,Other,4,Female,26,2,2,Operations Manager,1,Divorced,22137524,4976,1,Yes,3.19,3,4,1,11,4,1,11.3,7.3,1.5,1.6,0.12,0.593,0.325,0.134
+37,0,Non-Travel,328,Finance,14,4,Medical,4,Female,39,4,2,Analyst,4,Married,10833333,6936,1,No,4.02,3,4,1,0,7,2,0.0,0.0,-0.5,0.0,-0.5,0.0,7.0,0.0
+22,0,Non-Travel,270,Sales,11,1,Other,2,Male,36,1,2,VP Sales,2,Single,21865076,6042,2,Yes,2.54,3,3,0,11,3,2,3.4,2.3,0.2,2.3,0.051,0.531,0.249,0.523
+22,0,Travel Rarely,1026,Finance,1,3,Other,2,Male,129,1,1,Senior Analyst,3,Divorced,11151169,10000,2,No,1.01,3,3,0,1,5,2,0.5,0.5,0.0,0.5,0.0,0.333,1.675,0.333
+31,0,Non-Travel,385,Finance,19,3,Technical Degree,4,Male,45,1,4,Controller,4,Single,25000000,8073,2,No,0.39,3,3,0,11,2,2,1.3,1.3,0.8,1.3,0.36,0.573,0.155,0.573
+55,0,Travel Frequently,242,HR,3,3,Medical,1,Male,28,1,3,Chief People Officer,2,Divorced,20667647,4923,1,No,1.17,4,3,1,2,2,2,2.8,2.4,0.0,0.5,0.007,0.649,0.533,0.133
+22,0,Travel Frequently,745,Finance,13,1,Business,2,Male,93,3,4,Analyst,1,Divorced,17498747,10000,4,Yes,2.5,3,4,2,1,2,3,1.7,1.2,1.2,1.7,0.437,0.444,0.75,0.625
+35,0,Travel Rarely,555,Sales,25,4,Other,3,Male,78,3,1,Sales Manager,2,Single,25000000,10000,1,No,1.77,4,2,0,13,2,3,4.5,4.0,1.2,4.5,0.21,0.728,0.136,0.818
+33,0,Travel Rarely,508,HR,20,5,Life Sciences,2,Male,66,3,4,HR Specialist,3,Single,25000000,10000,3,No,2.31,4,2,1,11,1,4,5.3,5.3,2.4,1.4,0.386,0.842,0.081,0.226
+33,0,Non-Travel,334,Finance,20,4,Life Sciences,3,Male,41,3,2,Senior Analyst,3,Married,10850396,7295,1,Yes,1.99,1,3,0,10,3,1,10.0,1.6,0.1,0.5,0.009,0.146,0.272,0.045
+39,0,Non-Travel,347,HR,2,3,Other,2,Male,43,2,1,HR Specialist,3,Divorced,14166666,6994,2,No,2.52,4,4,0,0,3,3,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+35,1,Travel Frequently,935,Sales,2,1,Medical,3,Male,124,4,3,Sales Executive,2,Married,25000000,10000,1,No,3.89,3,3,1,21,4,2,4.8,0.9,0.1,4.8,0.024,0.162,0.181,0.828
+27,0,Travel Frequently,383,R&D,14,3,Business,2,Female,53,2,2,Software Engineer,2,Single,23978012,8498,1,No,0.72,3,1,0,13,2,3,1.4,1.4,0.9,1.4,0.368,0.579,0.141,0.579
+26,0,Non-Travel,538,R&D,10,3,Life Sciences,3,Male,66,2,2,Product Manager,3,Married,25000000,10000,2,No,0.48,3,2,1,17,3,3,14.8,2.7,0.1,12.8,0.004,0.17,0.158,0.809
+37,0,Non-Travel,535,HR,2,4,Technical Degree,1,Female,62,1,1,HR Specialist,3,Divorced,25000000,10000,1,No,1.97,3,3,2,17,3,4,4.8,0.5,0.3,2.7,0.047,0.086,0.161,0.47
+31,0,Travel Rarely,675,Operations,9,1,Medical,1,Female,79,3,3,VP Operations,2,Divorced,21422766,10000,3,No,1.9,4,3,2,3,3,3,3.5,0.5,0.4,1.7,0.089,0.111,0.666,0.369
+52,0,Non-Travel,276,R&D,5,1,Life Sciences,3,Female,36,3,5,Software Engineer,4,Married,25000000,5868,3,No,3.15,3,2,1,18,3,3,13.7,0.5,0.0,2.5,0.001,0.034,0.155,0.169
+42,0,Travel Rarely,604,HR,11,3,Life Sciences,3,Male,72,3,4,HR Specialist,2,Single,20107990,10000,1,Yes,2.31,3,4,1,4,2,3,0.9,0.9,0.4,0.9,0.216,0.477,0.379,0.477
+37,0,Non-Travel,135,R&D,17,3,Technical Degree,2,Male,26,1,4,Product Manager,3,Divorced,25000000,2983,3,No,1.79,3,2,0,21,3,1,4.1,0.5,0.0,1.9,0.009,0.098,0.136,0.365
+35,0,Travel Frequently,1200,Sales,30,3,Other,2,Female,150,3,4,Regional Director,1,Married,25000000,10000,1,No,3.78,3,1,1,11,3,2,1.1,1.1,0.2,0.5,0.092,0.517,0.249,0.242
+46,0,Non-Travel,1230,Finance,2,5,Medical,2,Female,150,3,2,CFO,2,Single,20428261,10000,1,Yes,3.13,2,4,2,14,3,3,5.9,0.5,0.4,0.5,0.057,0.072,0.192,0.072
+22,1,Travel Frequently,175,Finance,5,1,Business,1,Male,27,2,1,Analyst,2,Single,7828543,3489,1,No,2.4,1,2,0,8,2,1,2.8,2.8,2.0,2.8,0.527,0.736,0.207,0.736
+31,0,Non-Travel,693,R&D,3,3,Business,3,Female,82,2,2,Product Manager,1,Married,25000000,10000,3,No,0.36,2,4,0,25,3,2,4.0,0.8,0.3,1.5,0.057,0.162,0.114,0.293
+65,0,Non-Travel,275,HR,9,3,Other,3,Female,25,2,1,Recruiter,4,Divorced,25000000,5218,2,No,1.41,3,3,2,17,3,2,4.5,0.5,0.3,1.2,0.052,0.09,0.158,0.213
+31,0,Travel Frequently,591,Finance,30,1,Business,4,Female,69,4,4,Controller,1,Married,22274254,10000,5,No,3.42,3,1,1,6,2,2,6.4,5.0,1.2,1.5,0.158,0.669,0.269,0.2
+43,0,Travel Rarely,306,Sales,5,4,Medical,4,Female,34,1,4,Regional Director,4,Single,25000000,6580,2,Yes,0.17,2,4,1,26,1,2,5.9,0.5,0.0,2.5,0.006,0.072,0.037,0.367
+46,0,Non-Travel,455,R&D,5,4,Technical Degree,3,Female,43,3,2,Research Lead,1,Married,15833333,9537,3,Yes,1.97,4,2,1,0,4,2,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+39,0,Travel Frequently,678,Operations,8,4,Life Sciences,3,Male,79,1,2,VP Operations,3,Divorced,18870568,10000,2,No,1.99,3,4,2,8,3,2,6.3,0.5,0.0,1.9,0.004,0.068,0.332,0.265
+22,0,Non-Travel,1132,Finance,1,2,Life Sciences,3,Male,140,1,3,Senior Analyst,4,Single,25000000,10000,1,No,1.08,4,3,2,28,4,3,5.5,1.6,0.9,1.9,0.139,0.252,0.136,0.297
+33,0,Non-Travel,211,Operations,11,3,Life Sciences,3,Male,25,3,1,Operations Manager,1,Single,22689253,4306,4,No,2.83,3,2,2,13,3,2,4.7,2.6,1.9,0.9,0.336,0.465,0.207,0.166
+52,0,Non-Travel,287,HR,5,5,Medical,3,Male,44,1,4,HR Director,2,Married,25000000,6403,1,No,2.74,3,3,1,27,3,4,3.8,0.5,0.0,3.8,0.002,0.104,0.106,0.79
+51,0,Travel Frequently,1128,Operations,1,5,Life Sciences,1,Male,127,4,4,Operations Specialist,3,Married,24040039,10000,2,Yes,4.55,3,4,1,8,3,2,8.2,2.8,0.3,1.4,0.035,0.301,0.326,0.152
+52,0,Travel Rarely,505,Sales,16,3,Medical,3,Female,69,2,3,Regional Director,4,Married,25000000,10000,2,No,2.05,3,3,1,16,3,3,8.0,0.9,0.1,0.8,0.009,0.1,0.175,0.09
+30,0,Travel Rarely,678,Sales,25,5,Life Sciences,4,Male,89,4,4,VP Sales,3,Married,25000000,10000,1,No,1.83,3,3,2,22,2,2,3.6,3.6,0.3,3.0,0.071,0.78,0.087,0.668
+38,0,Travel Rarely,441,Finance,1,3,Medical,3,Female,57,3,4,Senior Analyst,2,Married,25000000,9466,1,Yes,1.95,3,1,1,16,1,3,1.8,0.5,0.2,1.8,0.063,0.178,0.057,0.644
+65,0,Non-Travel,313,Operations,5,1,Medical,1,Female,34,2,5,VP Operations,3,Divorced,22035354,6119,2,No,2.39,3,2,0,2,2,4,0.8,0.8,0.3,0.8,0.16,0.44,0.659,0.44
+31,0,Non-Travel,279,Sales,30,3,Business,3,Male,39,3,4,Sales Manager,3,Divorced,25000000,5495,1,Yes,2.5,3,4,2,23,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.164,0.333
+35,0,Travel Rarely,280,Finance,1,5,Medical,4,Female,29,3,1,Financial Manager,4,Single,19644128,5943,1,Yes,3.48,4,3,2,5,1,3,5.5,2.7,0.4,1.2,0.061,0.411,0.154,0.187
+54,0,Travel Rarely,544,Sales,30,2,Other,3,Female,62,3,2,Sales Executive,2,Divorced,17104190,10000,2,No,2.62,3,2,3,6,0,3,3.0,3.0,1.6,3.0,0.393,0.751,0.0,0.751
+29,0,Travel Rarely,338,Sales,4,3,Life Sciences,1,Male,51,4,5,Regional Director,4,Married,22704916,6637,1,No,1.39,3,3,3,2,0,3,2.7,2.4,2.2,2.7,0.595,0.652,0.0,0.73
+43,0,Non-Travel,370,HR,8,2,Life Sciences,3,Female,45,4,5,Chief People Officer,1,Single,10000000,7622,1,Yes,2.89,1,2,0,0,1,1,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+32,0,Non-Travel,228,R&D,18,1,Other,3,Female,31,2,2,Software Engineer,3,Married,25000000,4366,1,No,2.05,4,3,0,20,1,4,1.1,1.1,0.6,1.1,0.274,0.516,0.047,0.516
+49,0,Non-Travel,1137,Sales,6,3,Technical Degree,2,Female,150,2,1,Sales Executive,4,Single,15577253,10000,3,Yes,1.73,2,2,0,11,3,3,2.5,2.5,1.6,0.9,0.461,0.711,0.242,0.255
+33,0,Non-Travel,240,R&D,2,3,Life Sciences,4,Female,27,3,1,Technical Architect,2,Divorced,19511511,5319,2,No,2.83,1,4,2,20,1,3,1.5,1.2,0.0,0.5,0.012,0.481,0.047,0.203
+27,0,Travel Rarely,294,HR,4,5,Business,3,Female,29,4,2,Recruiter,4,Divorced,25000000,6380,2,No,1.34,3,1,2,22,3,2,10.1,1.3,0.0,1.5,0.001,0.113,0.128,0.136
+51,0,Travel Rarely,1201,R&D,1,1,Other,3,Female,147,4,5,Data Scientist,4,Single,25000000,10000,2,Yes,2.69,3,2,1,9,4,2,9.7,2.1,0.1,3.9,0.008,0.195,0.373,0.367
+45,0,Travel Rarely,355,Operations,7,2,Business,1,Male,33,2,1,Process Engineer,1,Divorced,25000000,7415,1,No,2.41,4,4,0,14,3,1,9.0,1.7,1.8,0.7,0.178,0.168,0.195,0.066
+59,1,Travel Frequently,536,Operations,8,2,Life Sciences,3,Male,66,2,3,Process Engineer,1,Married,25000000,10000,2,No,2.74,4,4,0,20,1,2,13.5,10.6,5.6,0.5,0.388,0.729,0.046,0.034
+27,0,Travel Rarely,532,Sales,4,2,Business,4,Female,46,1,2,Sales Manager,3,Single,25000000,10000,1,Yes,3.42,4,2,2,11,5,3,11.1,0.5,0.1,2.0,0.007,0.041,0.413,0.166
+35,0,Travel Frequently,390,HR,2,3,Business,4,Female,37,2,3,Chief People Officer,1,Married,25000000,8068,3,No,3.42,4,1,3,16,2,1,0.8,0.7,0.3,0.8,0.148,0.368,0.117,0.458
+26,0,Non-Travel,745,Sales,5,4,Medical,2,Female,92,4,3,Sales Manager,1,Divorced,25000000,10000,2,No,3.06,4,3,3,22,2,3,2.9,2.9,0.1,2.4,0.018,0.741,0.085,0.634
+43,0,Travel Rarely,596,R&D,10,3,Medical,2,Male,74,4,2,Technical Architect,3,Married,25000000,10000,4,No,4.02,2,3,3,20,1,2,0.5,0.5,0.0,0.5,0.0,0.333,0.048,0.333
+26,0,Travel Frequently,594,HR,13,3,Business,3,Male,65,2,1,HR Manager,3,Married,24895200,10000,2,Yes,3.21,3,2,2,15,3,1,15.7,1.3,0.0,1.0,0.002,0.075,0.179,0.06
+42,0,Non-Travel,258,Operations,20,3,Technical Degree,3,Male,25,4,3,Process Engineer,3,Single,25000000,5614,3,Yes,3.17,4,2,3,23,2,3,8.1,3.5,0.6,0.8,0.064,0.382,0.083,0.089
+45,0,Travel Rarely,281,Operations,1,3,Medical,3,Male,39,2,4,Process Engineer,4,Single,25000000,5997,1,No,2.08,4,4,3,9,6,4,0.6,0.6,0.1,0.5,0.035,0.357,0.578,0.322
+31,0,Non-Travel,206,Operations,16,2,Other,2,Female,31,3,2,Director of Ops,1,Married,25000000,4509,1,No,3.8,3,3,2,16,1,4,2.4,1.1,1.2,2.4,0.343,0.322,0.057,0.702
+32,0,Non-Travel,352,Operations,9,1,Medical,4,Male,41,2,3,Operations Specialist,3,Married,25000000,7446,1,No,2.96,2,2,2,35,0,1,1.5,0.5,1.0,0.5,0.406,0.198,0.0,0.198
+53,0,Travel Frequently,690,Finance,14,3,Life Sciences,3,Female,84,2,1,Financial Manager,4,Single,25000000,10000,2,Yes,0.49,4,2,2,13,3,1,13.6,9.8,0.5,5.9,0.033,0.673,0.205,0.406
+41,0,Travel Rarely,672,HR,1,2,Technical Degree,2,Female,80,4,2,HR Director,1,Single,25000000,10000,2,Yes,3.64,3,3,2,17,4,3,1.5,1.5,0.8,1.5,0.318,0.6,0.212,0.6
+43,0,Travel Frequently,154,Finance,5,1,Technical Degree,4,Male,30,3,3,Analyst,4,Single,24765690,3039,4,Yes,3.83,4,4,0,6,2,4,6.8,2.4,0.6,2.7,0.078,0.304,0.255,0.34
+22,0,Travel Rarely,387,R&D,4,2,Medical,3,Female,43,1,2,Technical Architect,1,Divorced,24852835,8423,1,No,5.05,4,2,3,9,1,4,2.4,0.5,0.1,1.1,0.03,0.147,0.1,0.309
+41,1,Non-Travel,662,Sales,14,2,Medical,2,Male,94,3,2,Regional Director,4,Divorced,16562407,10000,2,No,3.76,2,3,1,10,6,2,1.6,1.6,1.1,1.6,0.431,0.621,0.512,0.621
+45,0,Travel Rarely,338,HR,2,3,Medical,3,Female,42,4,1,Recruiter,2,Divorced,25000000,6954,1,Yes,3.9,3,2,1,16,2,1,1.3,1.3,0.8,1.3,0.355,0.57,0.116,0.57
+22,0,Travel Frequently,512,Finance,5,2,Business,3,Male,65,1,3,Senior Analyst,2,Married,25000000,10000,3,No,2.54,2,2,2,30,2,3,1.6,1.6,0.3,1.6,0.13,0.613,0.063,0.613
+40,0,Non-Travel,237,Sales,6,3,Life Sciences,3,Female,35,4,4,Sales Manager,1,Divorced,25000000,4766,2,No,4.07,3,4,0,12,2,3,5.6,0.5,0.0,2.9,0.0,0.075,0.143,0.444
+44,0,Non-Travel,133,R&D,3,3,Other,4,Female,22,3,1,Research Lead,3,Single,25000000,3048,1,Yes,1.84,1,4,0,26,3,3,6.0,2.3,0.4,1.9,0.057,0.332,0.109,0.264
+22,1,Travel Rarely,513,R&D,30,2,Business,2,Female,65,1,2,Software Engineer,3,Single,25000000,10000,2,No,1.35,2,3,0,21,1,2,4.2,0.7,0.5,0.6,0.088,0.143,0.044,0.122
+42,0,Non-Travel,149,Operations,22,3,Business,4,Female,21,2,1,Operations Manager,3,Divorced,9721500,3169,1,No,0.65,3,2,0,0,0,4,0.6,0.6,0.1,0.6,0.035,0.357,0.0,0.357
+46,0,Travel Frequently,390,Sales,12,4,Life Sciences,3,Female,39,4,3,Sales Executive,3,Single,25000000,8115,1,No,1.48,4,3,3,11,3,1,9.1,0.5,0.0,2.3,0.0,0.049,0.246,0.223
+30,0,Non-Travel,288,R&D,9,2,Technical Degree,4,Female,33,4,5,Data Scientist,4,Single,25000000,6006,2,No,3.79,3,1,3,12,3,1,2.4,1.8,0.8,2.4,0.233,0.532,0.23,0.707
+27,0,Travel Rarely,1059,Operations,2,3,Other,3,Male,132,2,3,Process Engineer,3,Married,25000000,10000,2,Yes,3.58,3,3,3,16,6,3,2.0,2.0,1.0,2.0,0.348,0.663,0.347,0.663
+43,0,Travel Frequently,564,R&D,13,4,Other,2,Male,66,4,1,Data Scientist,2,Married,22342753,10000,4,Yes,3.86,3,3,2,13,1,3,3.2,3.2,2.7,0.9,0.641,0.761,0.071,0.208
+26,1,Travel Rarely,213,Sales,16,1,Medical,2,Male,30,3,3,Account Manager,2,Married,25000000,4283,2,No,3.03,3,3,2,13,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.138,0.333
+51,0,Non-Travel,1176,HR,1,3,Business,2,Female,150,4,3,Chief People Officer,2,Single,25000000,10000,2,No,2.41,4,3,2,7,2,1,2.7,0.5,0.3,2.7,0.069,0.135,0.241,0.729
+24,0,Travel Frequently,366,HR,2,3,Medical,1,Male,45,4,2,Chief People Officer,4,Married,25000000,7613,3,No,2.76,4,1,0,12,1,2,2.0,1.3,0.1,0.5,0.048,0.454,0.076,0.169
+41,0,Non-Travel,345,R&D,8,4,Other,3,Male,42,3,4,Data Scientist,4,Single,25000000,7069,2,Yes,3.61,3,2,3,9,4,4,5.3,3.0,0.3,2.1,0.048,0.465,0.375,0.334
+34,0,Travel Rarely,464,Operations,15,3,Technical Degree,3,Female,71,2,1,Operations Specialist,2,Married,18018816,9644,3,No,2.73,2,4,2,13,2,1,12.7,5.5,0.5,1.7,0.037,0.398,0.135,0.125
+33,0,Non-Travel,629,Finance,8,3,Business,2,Male,84,3,3,Financial Manager,2,Divorced,18855026,10000,3,No,0.5,3,2,0,5,1,2,0.5,0.5,0.0,0.5,0.0,0.333,0.144,0.333
+23,0,Travel Rarely,171,Operations,30,2,Technical Degree,2,Male,31,2,4,Operations Manager,4,Married,25000000,3485,1,Yes,2.42,3,3,2,14,6,2,7.4,2.9,0.2,2.4,0.021,0.341,0.381,0.29
+33,0,Non-Travel,402,Sales,10,1,Medical,2,Male,48,1,1,Account Manager,1,Married,25000000,8267,1,No,4.7,3,3,1,19,3,2,0.9,0.9,0.4,0.5,0.213,0.475,0.147,0.279
+29,0,Travel Frequently,356,R&D,7,3,Life Sciences,1,Female,54,3,3,Data Scientist,4,Single,25000000,7775,2,No,2.78,4,1,0,7,2,3,7.5,1.5,0.3,7.5,0.035,0.175,0.235,0.882
+42,0,Travel Rarely,733,Operations,11,3,Business,3,Male,95,4,1,Operations Manager,3,Single,16825984,10000,2,Yes,0.0,3,2,1,7,2,2,0.7,0.7,0.2,0.7,0.092,0.395,0.231,0.395
+29,0,Non-Travel,396,Finance,8,2,Business,2,Female,56,4,4,Senior Analyst,4,Married,25000000,8098,2,No,3.63,3,2,1,14,0,2,7.6,1.2,0.1,7.2,0.017,0.144,0.0,0.843
+48,0,Travel Frequently,453,Sales,2,4,Other,3,Male,57,2,3,Regional Director,2,Single,21046420,9351,1,Yes,2.53,3,3,2,8,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.219,0.333
+22,0,Non-Travel,245,Finance,1,2,Business,2,Female,28,3,1,Financial Manager,3,Married,3825738,4967,1,No,1.44,1,3,1,4,0,1,1.0,0.5,0.5,1.0,0.236,0.255,0.0,0.49
+34,0,Non-Travel,318,Sales,10,4,Other,3,Female,40,3,3,Regional Director,4,Single,25000000,6463,4,Yes,5.57,4,2,2,14,3,4,0.5,0.5,0.0,0.5,0.0,0.333,0.198,0.333
+36,0,Non-Travel,1120,Finance,19,3,Business,3,Female,141,2,3,Analyst,4,Married,25000000,10000,2,Yes,3.01,3,3,2,19,3,3,5.9,2.7,0.0,2.0,0.004,0.39,0.143,0.287
+65,0,Travel Rarely,505,HR,9,3,Other,4,Male,66,4,4,HR Director,3,Single,25000000,10000,2,No,1.77,4,4,2,6,0,4,1.5,1.5,0.3,1.5,0.109,0.599,0.0,0.599
+22,0,Non-Travel,355,Finance,5,1,Other,1,Female,55,1,2,Analyst,1,Divorced,15190118,6971,4,No,1.58,3,3,0,4,1,1,2.6,0.5,0.8,1.0,0.231,0.138,0.187,0.268
+39,0,Non-Travel,664,Sales,9,3,Business,3,Male,84,2,1,VP Sales,3,Married,25000000,10000,1,Yes,2.85,4,3,0,11,3,3,4.4,1.9,0.9,2.1,0.169,0.352,0.239,0.382
+52,0,Travel Frequently,459,R&D,6,2,Other,1,Male,61,3,1,Data Scientist,3,Single,25000000,10000,1,Yes,2.37,4,3,1,18,2,4,7.5,3.6,0.5,4.2,0.055,0.426,0.101,0.492
+34,0,Travel Frequently,519,Operations,1,3,Technical Degree,3,Female,62,3,1,Operations Manager,3,Married,25000000,10000,1,No,1.15,4,4,0,23,0,4,1.5,1.5,1.0,1.5,0.408,0.605,0.0,0.605
+59,0,Travel Frequently,210,Operations,10,1,Business,3,Male,20,1,2,Director of Ops,2,Divorced,25000000,4316,1,No,1.18,3,2,0,17,2,2,7.3,1.5,0.0,1.5,0.004,0.176,0.108,0.185
+48,0,Travel Rarely,509,HR,17,3,Business,2,Female,59,2,3,HR Manager,1,Single,22934108,10000,2,No,0.83,3,4,3,10,0,2,10.0,1.9,0.6,0.5,0.055,0.17,0.0,0.045
+59,0,Travel Rarely,481,HR,12,3,Life Sciences,4,Female,73,1,1,Recruiter,3,Divorced,16595241,10000,1,No,1.7,4,3,2,2,2,4,2.4,2.4,0.4,0.5,0.127,0.708,0.583,0.146
+30,0,Non-Travel,680,Operations,11,3,Medical,3,Male,86,2,4,VP Operations,2,Divorced,15833333,10000,2,No,2.28,3,4,0,0,1,3,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+57,0,Non-Travel,245,HR,30,2,Medical,3,Male,28,2,3,HR Specialist,4,Divorced,25000000,4727,1,No,1.3,4,4,1,14,2,2,0.7,0.7,0.2,0.7,0.12,0.414,0.128,0.414
+53,0,Non-Travel,675,Finance,5,4,Life Sciences,1,Male,85,4,2,Controller,3,Divorced,15325850,10000,1,No,2.92,3,2,2,4,2,2,3.9,3.9,1.4,3.3,0.291,0.794,0.364,0.672
+41,0,Non-Travel,403,HR,9,1,Business,4,Female,45,4,2,HR Manager,4,Single,25000000,7968,4,No,4.48,4,4,0,22,3,1,2.2,2.2,0.9,2.2,0.289,0.688,0.126,0.688
+53,0,Travel Rarely,275,Operations,8,1,Life Sciences,2,Male,30,1,3,Operations Specialist,1,Single,25000000,5446,1,No,2.35,3,3,2,21,2,2,1.9,1.9,0.4,1.9,0.125,0.654,0.088,0.654
+26,0,Non-Travel,254,R&D,26,5,Life Sciences,4,Male,26,3,3,Product Manager,2,Divorced,25000000,4979,1,No,1.78,3,2,0,14,4,2,0.9,0.9,0.4,0.9,0.202,0.468,0.258,0.468
+48,0,Travel Frequently,166,Operations,30,3,Technical Degree,3,Female,23,4,3,Director of Ops,3,Married,19939646,2883,4,No,4.34,3,4,0,7,2,3,5.9,2.3,0.1,1.6,0.009,0.336,0.249,0.229
+39,0,Travel Frequently,668,Operations,1,2,Technical Degree,4,Female,85,3,2,Director of Ops,2,Divorced,11777384,10000,1,No,2.17,3,2,0,0,2,3,0.9,0.9,0.4,0.9,0.228,0.486,1.029,0.486
+29,0,Travel Frequently,281,Operations,13,3,Business,2,Male,39,1,2,VP Operations,2,Single,25000000,6008,1,Yes,2.53,3,3,0,22,1,3,10.9,3.2,0.4,0.5,0.032,0.267,0.042,0.042
+52,0,Non-Travel,615,HR,2,2,Other,3,Female,66,3,1,Chief People Officer,2,Single,25000000,10000,2,No,0.68,3,2,2,18,3,2,2.4,0.5,0.4,1.0,0.106,0.149,0.154,0.292
+37,0,Non-Travel,464,R&D,7,5,Technical Degree,3,Female,55,3,3,Product Manager,2,Divorced,25000000,9517,4,No,2.15,4,3,0,10,5,3,10.3,1.1,0.3,3.8,0.023,0.096,0.443,0.332
+44,0,Non-Travel,773,Sales,6,2,Technical Degree,3,Female,87,4,2,Sales Manager,2,Single,25000000,10000,3,Yes,2.08,3,4,2,22,2,2,3.1,2.8,0.5,2.6,0.133,0.684,0.087,0.625
+35,0,Travel Frequently,190,HR,4,3,Technical Degree,3,Female,24,4,2,Chief People Officer,3,Single,24167682,3842,1,Yes,4.88,3,3,2,13,3,2,3.7,0.5,0.2,0.8,0.036,0.105,0.209,0.172
+22,0,Non-Travel,753,HR,6,4,Other,4,Male,90,2,2,Chief People Officer,1,Divorced,13105189,10000,4,No,3.97,3,3,1,2,1,3,0.5,0.5,0.0,0.5,0.0,0.333,0.306,0.333
+40,0,Travel Rarely,623,R&D,7,1,Business,1,Female,89,2,4,Research Lead,3,Married,25000000,10000,3,No,3.12,4,2,2,13,5,2,0.7,0.7,0.2,0.7,0.095,0.397,0.357,0.397
+36,0,Travel Rarely,127,HR,2,3,Medical,3,Male,24,3,4,HR Manager,1,Single,25000000,2751,1,Yes,3.54,2,1,0,22,1,1,0.9,0.5,0.3,0.9,0.132,0.259,0.043,0.483
+35,0,Non-Travel,500,HR,7,3,Business,4,Female,58,3,2,HR Specialist,3,Married,15833333,10000,4,Yes,0.41,4,3,2,0,4,3,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+61,0,Non-Travel,298,Finance,15,3,Other,1,Female,37,2,5,Financial Manager,4,Single,25000000,6831,2,No,3.02,3,3,2,18,0,4,6.9,3.4,0.2,2.7,0.03,0.425,0.0,0.342
+55,0,Travel Rarely,526,R&D,15,3,Other,3,Male,71,1,2,Technical Architect,2,Single,18820159,10000,2,No,2.21,3,4,1,7,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.223,0.333
+34,0,Non-Travel,340,Operations,18,4,Medical,2,Male,41,3,3,Operations Specialist,3,Single,24810355,7133,1,No,2.16,3,4,0,11,0,4,3.4,3.4,1.6,3.4,0.364,0.772,0.0,0.772
+58,0,Non-Travel,376,HR,3,4,Medical,3,Female,44,3,1,HR Specialist,1,Married,15714617,8199,1,No,1.9,2,3,2,11,4,4,6.8,6.8,1.0,6.8,0.128,0.872,0.319,0.872
+40,0,Travel Frequently,1181,HR,7,2,Technical Degree,2,Female,147,2,4,HR Manager,3,Single,16132261,10000,2,Yes,1.47,3,2,0,0,2,2,0.3,0.3,-0.2,0.3,-0.155,0.23,1.54,0.23
+49,1,Travel Rarely,502,HR,3,1,Life Sciences,1,Female,64,1,3,HR Manager,1,Single,22276244,10000,2,No,4.37,3,2,2,9,1,1,7.8,4.2,1.2,1.4,0.14,0.482,0.097,0.162
+47,0,Travel Rarely,1246,Operations,4,3,Business,4,Female,150,4,4,VP Operations,2,Divorced,25000000,10000,1,No,1.44,4,3,2,12,1,4,5.0,5.0,2.5,5.0,0.412,0.833,0.073,0.833
+31,0,Travel Frequently,1261,Finance,11,3,Business,2,Female,146,2,3,Senior Analyst,3,Divorced,25000000,10000,1,No,5.07,3,4,1,13,2,3,1.9,1.9,0.1,1.9,0.044,0.656,0.136,0.656
+36,0,Travel Frequently,221,HR,4,2,Business,2,Female,22,2,3,HR Director,3,Single,25000000,4803,3,Yes,3.54,3,4,1,12,5,1,0.7,0.7,0.2,0.7,0.111,0.407,0.36,0.407
+49,0,Non-Travel,426,Operations,7,2,Technical Degree,3,Male,56,3,2,VP Operations,4,Divorced,25000000,9048,1,Yes,2.35,3,3,3,17,2,1,4.4,0.5,0.5,4.4,0.085,0.093,0.111,0.814
+34,0,Travel Rarely,362,HR,1,3,Life Sciences,3,Female,45,2,3,HR Director,1,Divorced,25000000,8043,2,No,3.65,4,3,1,9,3,3,9.7,5.2,1.0,9.0,0.092,0.482,0.276,0.837
+45,0,Non-Travel,1046,Operations,9,3,Other,4,Male,122,2,1,VP Operations,4,Single,14961730,10000,5,No,0.13,1,4,0,15,3,4,1.1,1.1,0.0,1.1,0.022,0.528,0.179,0.528
+38,1,Non-Travel,394,Sales,10,4,Life Sciences,4,Female,46,3,4,VP Sales,1,Married,17725456,8164,3,No,2.65,3,4,2,1,4,1,1.9,1.9,0.9,1.9,0.298,0.654,1.383,0.654
+22,0,Travel Rarely,380,Operations,2,3,Life Sciences,4,Male,46,2,4,Director of Ops,3,Divorced,25000000,8112,3,Yes,2.19,3,1,1,9,2,2,9.8,4.2,0.8,4.4,0.077,0.389,0.186,0.407
+43,0,Non-Travel,519,HR,14,5,Medical,3,Female,59,2,1,HR Specialist,4,Divorced,18413053,10000,1,Yes,2.75,3,4,2,9,1,3,9.2,2.6,0.2,5.5,0.02,0.254,0.098,0.535
+24,0,Non-Travel,528,HR,19,3,Business,4,Male,66,1,1,HR Specialist,3,Married,14841872,10000,1,No,2.6,3,2,0,5,0,2,2.0,2.0,1.5,0.8,0.504,0.669,0.0,0.276
+47,0,Travel Rarely,755,Finance,3,4,Medical,3,Male,87,2,4,CFO,4,Single,25000000,10000,3,No,1.63,4,3,0,13,0,2,2.1,1.2,0.1,0.5,0.023,0.382,0.0,0.163
+26,1,Travel Rarely,427,Sales,14,3,Business,1,Male,52,3,2,Sales Executive,3,Single,25000000,8947,1,Yes,0.0,3,1,1,15,2,2,3.2,3.2,2.5,3.2,0.598,0.763,0.123,0.763
+65,0,Non-Travel,565,HR,2,4,Medical,3,Male,72,2,2,Recruiter,4,Single,20836735,10000,3,Yes,3.21,4,2,1,5,1,2,0.5,0.5,0.0,0.5,0.0,0.333,0.167,0.333
+32,0,Travel Rarely,343,Sales,17,3,Technical Degree,3,Female,43,4,1,Regional Director,3,Single,14166666,7056,2,Yes,2.96,4,3,3,0,2,3,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+29,0,Non-Travel,287,HR,12,5,Business,4,Male,42,2,1,Chief People Officer,4,Divorced,25000000,6162,2,Yes,4.88,3,4,1,19,4,2,1.3,0.6,0.4,0.8,0.164,0.26,0.192,0.361
+58,0,Travel Rarely,182,Finance,19,1,Other,3,Female,28,4,2,Controller,3,Married,18634131,3780,1,No,2.86,1,4,0,17,3,1,6.9,0.7,0.0,2.9,0.001,0.085,0.16,0.363
+31,0,Travel Rarely,659,Sales,3,3,Technical Degree,1,Male,84,2,3,Regional Director,3,Married,18735931,10000,3,Yes,3.37,2,3,1,10,1,2,0.9,0.9,0.4,0.9,0.191,0.461,0.085,0.461
+28,0,Travel Rarely,479,R&D,4,2,Medical,2,Female,62,3,3,Software Engineer,3,Married,25000000,9929,4,Yes,1.38,4,2,2,17,2,2,4.0,4.0,0.6,0.6,0.129,0.802,0.106,0.127
+22,0,Travel Frequently,482,HR,30,3,Technical Degree,4,Male,61,2,1,Recruiter,3,Single,21495483,10000,1,No,0.87,3,3,3,12,3,1,0.5,0.5,0.0,0.5,0.0,0.333,0.225,0.333
+54,0,Non-Travel,322,Sales,4,5,Technical Degree,3,Male,43,2,2,Sales Executive,3,Divorced,17778051,7109,2,Yes,2.13,3,3,2,6,2,4,6.9,6.9,0.9,4.9,0.115,0.871,0.252,0.621
+22,0,Non-Travel,1175,Finance,1,2,Medical,1,Female,150,4,3,Analyst,2,Married,25000000,10000,1,No,3.75,3,2,1,16,1,3,6.5,0.5,0.0,1.1,0.001,0.066,0.059,0.148
+37,0,Non-Travel,435,Finance,4,3,Other,3,Female,48,1,1,CFO,1,Divorced,14166666,8827,3,No,0.94,4,2,1,0,2,3,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+22,0,Non-Travel,499,Operations,6,2,Technical Degree,3,Female,64,1,3,VP Operations,1,Single,18705763,9891,1,No,1.73,2,4,1,10,1,1,4.5,0.9,0.1,1.5,0.01,0.157,0.085,0.277
+37,0,Non-Travel,369,Operations,4,2,Medical,3,Male,49,3,1,Process Engineer,4,Single,15157323,7911,2,No,0.33,3,3,2,5,2,1,6.0,0.8,0.2,3.5,0.03,0.119,0.286,0.497
+27,0,Travel Frequently,590,R&D,3,2,Business,1,Male,70,1,2,Software Engineer,3,Divorced,25000000,10000,1,No,1.99,3,4,1,20,2,3,8.2,2.4,0.2,5.4,0.025,0.264,0.094,0.589
+37,0,Travel Rarely,161,R&D,3,3,Technical Degree,2,Female,22,3,1,Product Manager,4,Single,25000000,3130,2,No,3.27,3,3,1,18,4,1,17.2,1.0,0.1,2.9,0.003,0.057,0.2,0.162
+22,0,Non-Travel,488,R&D,25,4,Medical,2,Female,57,1,3,Data Scientist,3,Single,25000000,10000,2,No,1.58,3,2,1,25,0,2,4.7,3.7,0.1,1.3,0.019,0.639,0.0,0.23
+40,0,Non-Travel,100,Operations,3,1,Other,2,Male,24,2,1,Operations Specialist,2,Single,7741619,2215,2,No,1.68,2,2,0,3,1,4,0.7,0.7,0.2,0.7,0.105,0.403,0.219,0.403
+57,0,Travel Rarely,392,HR,6,4,Other,4,Female,56,1,4,HR Manager,3,Single,15833333,8280,5,No,2.42,3,2,1,0,4,1,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+44,0,Travel Frequently,788,Sales,6,3,Other,3,Female,90,4,4,Sales Manager,2,Single,15833333,10000,1,No,2.95,3,4,0,0,2,1,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+31,0,Non-Travel,1038,HR,1,1,Life Sciences,3,Male,134,4,2,HR Director,3,Divorced,25000000,10000,1,No,2.01,4,3,0,16,2,1,16.2,3.9,0.1,1.3,0.005,0.228,0.116,0.074
+44,0,Travel Frequently,314,R&D,7,1,Medical,2,Male,38,1,2,Technical Architect,3,Married,25000000,6178,3,No,1.11,4,4,2,17,2,1,4.3,1.5,0.0,4.3,0.008,0.277,0.107,0.811
+56,0,Travel Frequently,616,Operations,3,1,Business,3,Male,79,2,1,Director of Ops,3,Married,17333809,10000,2,No,4.15,3,3,1,8,3,1,7.4,7.4,1.0,1.0,0.116,0.881,0.327,0.124
+38,0,Travel Rarely,1199,Finance,7,3,Business,4,Female,150,2,3,Financial Manager,2,Single,25000000,10000,2,No,3.61,3,1,1,18,3,2,3.2,1.6,0.7,3.2,0.172,0.395,0.151,0.76
+28,1,Non-Travel,1082,Operations,12,5,Business,4,Male,131,2,1,VP Operations,4,Married,25000000,10000,3,Yes,1.02,4,2,0,11,9,2,5.6,2.3,0.7,5.6,0.099,0.342,0.725,0.848
+46,0,Travel Frequently,251,HR,5,3,Medical,1,Female,30,1,3,Chief People Officer,4,Divorced,10255628,5439,2,Yes,4.46,2,1,0,2,1,2,2.3,2.3,0.9,2.3,0.256,0.701,0.299,0.701
+30,0,Non-Travel,392,Finance,1,1,Life Sciences,4,Male,47,3,3,Financial Manager,4,Single,19729348,8665,2,No,1.55,3,3,0,6,4,4,6.2,5.8,2.4,0.8,0.333,0.813,0.512,0.116
+32,0,Travel Rarely,693,Finance,25,1,Business,2,Male,95,1,1,Controller,4,Single,17563576,10000,3,No,3.13,4,1,3,3,2,4,3.4,3.4,0.6,3.4,0.139,0.773,0.455,0.773
+33,0,Travel Rarely,109,HR,6,3,Other,1,Male,21,2,2,Recruiter,1,Single,25000000,2391,1,No,1.48,3,3,2,20,5,2,4.3,4.3,1.2,4.3,0.227,0.811,0.229,0.811
+35,1,Non-Travel,818,Finance,3,3,Other,1,Male,109,2,4,Analyst,4,Single,23070841,10000,1,Yes,3.18,1,4,1,17,3,3,4.4,0.5,0.2,2.3,0.044,0.095,0.164,0.432
+46,1,Travel Rarely,464,Sales,30,3,Business,3,Male,61,3,1,VP Sales,2,Single,25000000,9657,1,No,3.77,3,4,1,19,0,3,13.7,2.2,0.1,1.0,0.009,0.15,0.0,0.07
+40,0,Non-Travel,492,Operations,18,1,Life Sciences,4,Female,50,2,2,Operations Manager,4,Married,25000000,10000,1,No,2.31,3,2,0,22,2,1,3.3,3.3,2.3,0.5,0.543,0.767,0.086,0.116
+28,0,Travel Rarely,643,HR,4,2,Business,3,Female,81,2,1,HR Manager,1,Single,19014016,10000,2,No,3.45,3,2,1,9,4,3,9.8,0.5,0.0,5.9,0.003,0.046,0.369,0.548
+32,1,Travel Rarely,199,Sales,5,3,Other,1,Male,30,2,2,Sales Manager,1,Married,25000000,3887,2,No,2.04,4,4,0,22,4,2,5.4,2.3,0.5,0.5,0.081,0.359,0.173,0.078
+38,0,Travel Rarely,947,HR,20,5,Medical,2,Female,112,4,3,HR Specialist,3,Single,15475533,10000,1,Yes,4.42,3,3,0,2,1,4,2.6,1.8,0.4,2.6,0.112,0.516,0.281,0.719
+49,0,Non-Travel,428,Finance,16,3,Business,3,Female,47,3,4,Senior Analyst,4,Single,25000000,9397,1,No,2.83,3,1,1,15,1,2,15.0,0.5,0.1,3.8,0.004,0.031,0.062,0.24
+51,0,Travel Rarely,539,HR,4,4,Life Sciences,3,Female,81,3,2,HR Manager,1,Single,25000000,10000,1,No,1.52,2,4,1,25,2,2,4.1,4.1,1.2,4.1,0.236,0.805,0.077,0.805
+45,0,Travel Rarely,688,Sales,1,1,Life Sciences,2,Female,82,3,1,Regional Director,1,Divorced,24107005,10000,2,Yes,2.66,3,1,0,14,3,3,1.7,1.6,1.2,0.5,0.446,0.573,0.188,0.185
+47,0,Non-Travel,257,HR,5,2,Technical Degree,2,Male,30,3,2,HR Specialist,4,Divorced,25000000,5267,3,No,3.3,4,4,1,16,3,3,2.5,2.0,1.5,0.6,0.428,0.559,0.172,0.181
+30,0,Non-Travel,399,R&D,19,4,Business,4,Female,54,2,3,Data Scientist,4,Married,12916666,8685,2,No,3.39,3,1,1,0,1,4,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+55,0,Travel Rarely,849,Operations,1,2,Technical Degree,3,Male,104,1,1,Operations Specialist,3,Single,12448269,10000,1,No,4.94,2,4,0,8,3,1,2.8,1.8,0.0,0.6,0.005,0.484,0.323,0.149
+43,0,Non-Travel,1130,R&D,3,2,Medical,3,Male,146,4,2,Technical Architect,2,Married,25000000,10000,1,Yes,0.86,4,3,1,33,0,3,1.9,1.9,1.3,0.5,0.45,0.659,0.0,0.185
+35,0,Travel Rarely,581,Operations,3,1,Technical Degree,3,Male,59,3,2,VP Operations,3,Divorced,14188991,10000,4,No,1.19,3,1,1,3,1,4,1.8,1.8,0.5,1.1,0.172,0.639,0.23,0.401
+30,0,Travel Frequently,346,Operations,7,1,Medical,4,Female,43,2,3,Operations Specialist,3,Married,25000000,7009,1,No,3.14,3,3,1,23,3,3,18.9,1.1,0.0,1.5,0.001,0.056,0.123,0.078
+43,0,Non-Travel,215,Finance,2,1,Business,4,Female,22,1,1,Analyst,4,Divorced,25000000,4688,3,Yes,1.69,3,1,2,20,1,3,20.8,1.4,0.1,3.7,0.003,0.063,0.046,0.171
+53,0,Non-Travel,1315,HR,12,3,Medical,3,Male,149,2,2,HR Director,3,Married,25000000,10000,1,Yes,3.21,3,1,0,19,2,1,0.8,0.8,0.3,0.8,0.17,0.447,0.099,0.447
+41,0,Non-Travel,359,Operations,3,3,Other,4,Male,40,1,3,Process Engineer,3,Married,25000000,7963,3,No,2.36,4,4,3,12,4,1,8.6,0.7,0.3,3.2,0.036,0.071,0.304,0.333
+51,0,Travel Frequently,352,Finance,12,2,Medical,3,Male,43,1,4,CFO,2,Divorced,25000000,7334,2,Yes,2.54,4,4,2,10,0,2,2.4,1.1,0.7,1.7,0.222,0.318,0.0,0.493
+49,0,Travel Rarely,288,HR,10,2,Business,3,Female,36,3,2,Chief People Officer,3,Single,22393233,6418,1,Yes,1.93,4,3,0,6,2,1,1.2,1.2,0.0,1.2,0.008,0.545,0.265,0.545
+59,0,Travel Frequently,225,Operations,1,5,Technical Degree,4,Male,28,3,3,Process Engineer,2,Single,25000000,4938,2,No,3.19,3,4,2,17,4,3,6.6,6.6,0.4,0.7,0.046,0.868,0.214,0.096
+38,0,Travel Frequently,303,Finance,12,2,Medical,2,Female,38,4,3,CFO,4,Divorced,25000000,5691,3,No,1.09,4,4,2,30,4,1,0.9,0.9,0.3,0.9,0.15,0.478,0.126,0.478
+22,0,Travel Frequently,259,Operations,9,4,Other,4,Male,26,4,3,Operations Specialist,4,Divorced,12992836,5109,3,Yes,2.98,1,3,2,10,3,1,8.7,2.0,0.3,1.1,0.028,0.203,0.271,0.113
+28,0,Travel Rarely,458,Sales,7,3,Life Sciences,4,Male,51,3,5,Sales Manager,4,Married,25000000,9389,2,No,1.95,3,1,1,14,4,1,0.5,0.5,0.0,0.5,0.0,0.333,0.257,0.333
+22,0,Travel Rarely,525,Finance,10,1,Other,4,Female,51,1,5,CFO,2,Divorced,25000000,10000,1,No,4.02,4,2,0,16,3,4,0.6,0.6,0.1,0.6,0.07,0.38,0.168,0.38
+41,0,Non-Travel,629,Finance,8,4,Life Sciences,3,Female,80,2,5,Controller,2,Married,25000000,10000,1,Yes,2.46,4,3,1,28,4,2,0.5,0.5,0.0,0.5,0.0,0.333,0.135,0.333
+42,0,Travel Rarely,426,Finance,10,3,Life Sciences,3,Male,50,1,3,Controller,3,Single,19889875,8849,2,Yes,1.71,2,4,0,11,2,1,2.4,2.4,0.4,2.3,0.105,0.708,0.154,0.671
+29,0,Travel Rarely,495,HR,13,3,Life Sciences,2,Female,63,3,4,HR Manager,4,Single,25000000,10000,1,Yes,2.57,4,2,2,25,4,3,1.8,1.8,0.0,1.1,0.005,0.638,0.152,0.389
+37,1,Travel Rarely,239,Sales,9,3,Business,3,Male,24,4,5,Regional Director,4,Married,16691105,5228,2,No,0.8,2,2,1,1,1,2,1.4,1.4,0.4,1.4,0.175,0.585,0.372,0.585
+27,0,Travel Frequently,608,R&D,5,1,Technical Degree,3,Male,71,3,2,Data Scientist,2,Married,15833333,10000,1,No,2.47,4,3,1,0,3,1,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+38,0,Travel Frequently,257,Operations,8,1,Other,4,Female,38,4,1,Operations Manager,3,Married,20906894,5229,1,No,1.72,3,2,3,11,1,3,11.7,0.7,0.0,3.7,0.003,0.055,0.078,0.293
+22,0,Travel Frequently,525,Operations,2,4,Technical Degree,4,Female,63,4,1,VP Operations,4,Married,14403625,10000,1,No,2.37,4,3,3,0,2,3,0.2,0.2,-0.3,0.2,-0.213,0.192,1.617,0.192
+31,0,Non-Travel,194,Operations,10,2,Medical,3,Male,28,4,2,Operations Manager,2,Divorced,13176761,4540,2,Yes,2.71,3,4,0,2,3,3,2.0,2.0,1.1,2.0,0.357,0.666,0.897,0.666
+22,0,Non-Travel,1009,R&D,12,5,Medical,3,Female,113,3,1,Software Engineer,3,Single,18476654,10000,1,Yes,4.5,4,2,1,4,2,3,0.6,0.6,0.1,0.5,0.032,0.356,0.377,0.322
+35,0,Travel Rarely,681,Sales,18,2,Technical Degree,4,Male,87,2,1,Regional Director,4,Divorced,23144293,10000,1,No,4.62,3,2,0,13,4,1,7.9,3.5,2.4,2.5,0.269,0.395,0.267,0.28
+41,0,Travel Rarely,621,HR,21,3,Technical Degree,3,Male,82,2,2,HR Director,4,Married,25000000,10000,4,No,1.77,3,4,0,19,2,2,9.8,5.2,0.2,2.6,0.016,0.482,0.095,0.238
+30,0,Travel Rarely,638,Finance,7,4,Medical,3,Male,83,2,3,Controller,4,Married,17459474,10000,2,No,2.15,1,3,0,14,2,2,1.4,0.5,0.0,1.4,0.011,0.205,0.129,0.59
+48,0,Non-Travel,1225,R&D,26,2,Technical Degree,2,Male,150,2,1,Technical Architect,3,Single,25000000,10000,2,No,2.71,3,4,0,20,1,3,2.2,2.2,0.2,2.0,0.051,0.692,0.046,0.63
+31,0,Non-Travel,1152,Finance,10,4,Business,4,Female,150,2,4,Controller,4,Divorced,25000000,10000,1,Yes,2.56,4,4,2,7,2,2,3.7,0.8,0.3,3.7,0.06,0.16,0.233,0.789
+51,0,Travel Rarely,304,HR,4,3,Medical,4,Male,30,1,2,Chief People Officer,1,Divorced,5833333,6219,2,No,4.24,2,3,1,0,0,3,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+39,0,Non-Travel,1135,HR,30,5,Business,4,Female,141,3,4,HR Director,3,Married,25000000,10000,2,Yes,2.72,3,1,2,9,0,2,0.5,0.5,0.0,0.5,0.0,0.333,0.0,0.333
+52,0,Travel Rarely,377,R&D,6,3,Technical Degree,4,Female,63,4,1,Product Manager,3,Divorced,25000000,8182,1,No,1.18,3,2,1,15,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.119,0.333
+34,0,Travel Frequently,261,Sales,5,2,Technical Degree,3,Male,40,3,1,Regional Director,3,Divorced,22176768,5785,1,Yes,3.96,3,1,0,13,0,3,7.4,1.3,0.7,0.5,0.082,0.155,0.0,0.06
+49,0,Travel Rarely,620,Sales,20,1,Technical Degree,3,Male,66,1,3,Regional Director,3,Married,25000000,10000,3,Yes,2.11,3,3,1,12,5,2,2.7,2.7,0.4,2.0,0.096,0.73,0.375,0.535
+46,0,Non-Travel,913,Finance,1,2,Other,2,Male,111,1,1,CFO,4,Married,25000000,10000,1,No,2.13,1,3,0,27,3,2,3.0,1.5,0.6,1.0,0.148,0.373,0.106,0.257
+32,0,Non-Travel,900,Finance,5,3,Other,2,Female,110,4,1,CFO,1,Married,25000000,10000,2,Yes,1.55,4,4,0,23,4,4,6.0,6.0,1.3,0.6,0.181,0.858,0.166,0.086
+48,0,Travel Frequently,367,R&D,6,3,Medical,3,Male,35,1,1,Product Manager,3,Single,17945320,7480,1,No,1.89,3,3,3,8,4,1,0.5,0.5,0.0,0.5,0.0,0.333,0.409,0.333
+30,0,Travel Frequently,670,Operations,5,3,Other,1,Female,72,1,3,Operations Manager,3,Divorced,25000000,10000,5,No,2.64,3,3,0,13,3,1,9.5,4.5,1.6,1.6,0.158,0.428,0.208,0.156
+65,0,Non-Travel,300,Finance,6,2,Other,3,Female,21,3,1,Controller,3,Single,3781713,6440,1,Yes,2.41,1,1,1,4,3,2,3.8,3.8,0.9,3.8,0.183,0.791,0.534,0.791
+38,0,Travel Frequently,736,Sales,3,3,Technical Degree,1,Male,83,2,1,Regional Director,4,Married,25000000,10000,1,No,2.29,4,3,0,21,2,3,1.2,1.2,0.7,0.9,0.313,0.542,0.088,0.402
+37,0,Travel Rarely,523,R&D,25,3,Other,1,Male,75,2,2,Technical Architect,2,Divorced,22615380,10000,1,No,0.64,3,2,1,11,0,4,5.7,0.7,0.1,3.4,0.01,0.11,0.0,0.498
+62,0,Travel Frequently,465,HR,6,4,Other,4,Female,66,3,3,HR Specialist,3,Divorced,25000000,9909,1,No,2.1,3,4,1,16,2,4,13.2,7.5,1.2,0.8,0.085,0.525,0.113,0.059
+35,0,Non-Travel,452,Finance,5,3,Business,3,Male,48,4,3,Controller,1,Married,22941803,9820,2,Yes,0.63,3,4,0,10,3,2,7.0,1.9,0.3,6.9,0.036,0.238,0.272,0.868
+43,0,Travel Rarely,176,Finance,6,2,Technical Degree,3,Male,23,1,5,Controller,4,Divorced,25000000,3516,2,Yes,2.13,3,3,2,23,5,2,9.6,2.7,0.6,9.6,0.055,0.254,0.2,0.905
+46,0,Travel Frequently,212,Finance,26,3,Other,4,Male,24,3,3,Financial Manager,3,Married,19523499,4758,1,No,1.82,4,2,1,1,0,4,1.6,1.6,1.1,0.5,0.425,0.616,0.0,0.192
+25,0,Travel Rarely,198,Sales,18,2,Other,2,Male,29,4,4,Regional Director,3,Divorced,25000000,4362,4,Yes,2.54,4,1,1,8,1,1,1.7,1.7,1.1,1.7,0.416,0.634,0.106,0.634
+35,0,Non-Travel,640,Sales,4,5,Life Sciences,2,Male,83,4,1,Sales Manager,3,Married,19488886,10000,2,No,4.33,3,2,0,10,3,1,1.4,0.5,0.1,1.4,0.039,0.222,0.265,0.578
+39,0,Travel Rarely,252,Finance,13,5,Life Sciences,3,Female,30,1,2,Controller,4,Single,16463149,5874,4,No,4.17,3,2,0,5,3,2,5.6,0.5,0.1,0.5,0.008,0.075,0.453,0.075
+37,0,Non-Travel,168,HR,23,2,Life Sciences,2,Female,24,2,4,Chief People Officer,2,Single,25000000,3587,2,No,2.84,2,2,0,16,2,3,1.7,1.7,1.2,0.9,0.452,0.635,0.116,0.312
+22,0,Travel Frequently,1005,R&D,6,3,Life Sciences,3,Male,132,3,1,Product Manager,1,Divorced,19557804,10000,3,Yes,0.31,3,2,0,10,1,4,0.5,0.5,0.0,0.5,0.0,0.333,0.088,0.333
+26,0,Travel Frequently,744,Operations,4,4,Life Sciences,1,Female,80,3,4,Operations Specialist,3,Married,24111874,10000,1,No,1.54,2,1,0,13,3,2,10.3,8.4,0.1,2.9,0.006,0.741,0.21,0.252
+64,0,Travel Rarely,270,R&D,16,2,Life Sciences,4,Male,26,4,5,Technical Architect,3,Married,25000000,5826,3,No,2.49,4,4,0,18,1,3,4.3,2.5,0.5,4.3,0.093,0.461,0.05,0.813
+30,0,Non-Travel,630,HR,7,3,Business,1,Male,83,2,2,Chief People Officer,3,Married,25000000,10000,2,No,1.76,3,3,0,17,1,3,3.0,3.0,0.4,3.0,0.098,0.75,0.053,0.75
+47,0,Travel Frequently,231,R&D,4,2,Business,1,Male,27,2,1,Technical Architect,2,Married,24940249,5278,2,Yes,1.91,4,2,1,10,3,2,6.7,1.5,0.2,3.2,0.032,0.197,0.255,0.419
+43,0,Travel Rarely,271,R&D,1,4,Life Sciences,4,Male,33,2,1,Product Manager,4,Divorced,18280590,5634,2,No,1.28,4,3,1,4,1,1,1.6,1.6,0.1,0.9,0.03,0.616,0.196,0.327
+38,0,Travel Rarely,1183,Operations,1,3,Technical Degree,3,Female,150,4,1,Operations Manager,1,Divorced,23101986,10000,4,Yes,0.79,3,3,1,13,3,3,2.2,2.2,1.5,2.2,0.49,0.683,0.201,0.683
+46,0,Travel Frequently,587,R&D,4,2,Business,3,Female,72,3,3,Software Engineer,2,Married,25000000,10000,1,Yes,0.24,3,4,3,25,4,2,7.3,4.0,2.3,0.8,0.275,0.486,0.149,0.097
+37,0,Non-Travel,290,Sales,9,4,Other,1,Male,34,1,4,Sales Executive,3,Divorced,25000000,6289,1,Yes,2.69,3,3,1,13,4,3,5.5,2.0,0.7,5.0,0.102,0.302,0.27,0.766
+42,0,Non-Travel,781,Operations,2,2,Other,3,Female,100,2,1,Operations Manager,2,Married,25000000,10000,2,No,3.83,3,2,1,24,2,3,9.1,1.5,0.0,1.2,0.004,0.148,0.079,0.114
+49,0,Travel Rarely,162,R&D,8,3,Business,3,Female,20,1,2,Software Engineer,2,Single,10833333,3388,3,No,3.29,3,3,2,0,6,4,0.0,0.0,-0.5,0.0,-0.5,0.0,6.0,0.0
+52,0,Travel Rarely,879,Operations,5,3,Business,2,Female,105,3,2,VP Operations,3,Divorced,13527857,10000,1,Yes,3.37,3,4,3,2,2,4,2.7,2.5,1.5,1.2,0.403,0.673,0.541,0.322
+42,0,Travel Rarely,233,R&D,30,3,Business,3,Male,32,3,3,Data Scientist,4,Single,25000000,5044,1,Yes,2.65,3,2,0,12,0,3,4.2,3.5,1.1,1.5,0.215,0.669,0.0,0.292
+25,0,Travel Rarely,212,HR,4,1,Life Sciences,4,Male,31,4,3,HR Specialist,4,Divorced,13422728,4225,2,No,2.81,3,4,1,0,2,2,0.5,0.5,0.0,0.5,0.0,0.333,1.328,0.333
+31,0,Travel Frequently,211,R&D,15,1,Technical Degree,3,Female,26,2,3,Product Manager,2,Divorced,25000000,3823,1,No,3.22,4,2,2,15,4,4,2.0,2.0,0.4,2.0,0.141,0.666,0.242,0.666
+54,0,Non-Travel,317,Sales,13,3,Technical Degree,2,Female,41,1,1,Sales Manager,1,Single,11791299,6517,1,No,1.88,3,2,2,2,3,2,1.7,1.7,1.2,0.5,0.447,0.632,0.828,0.184
+46,0,Non-Travel,1205,Sales,9,2,Other,2,Female,150,4,5,Account Manager,3,Married,25000000,10000,1,Yes,5.17,4,2,1,5,2,4,5.2,1.6,0.2,0.5,0.034,0.26,0.32,0.08
+22,0,Travel Frequently,1224,HR,12,3,Medical,3,Male,150,1,4,Recruiter,4,Married,10833333,10000,1,Yes,0.0,2,2,1,0,1,2,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+35,0,Travel Rarely,723,R&D,4,1,Medical,2,Female,97,1,3,Technical Architect,1,Divorced,24735246,10000,1,Yes,5.53,3,2,0,11,3,4,11.7,8.2,0.2,2.3,0.018,0.642,0.234,0.185
+22,0,Travel Rarely,596,Operations,1,3,Other,4,Male,66,2,5,Operations Specialist,2,Divorced,25000000,10000,1,No,1.24,4,2,0,16,0,3,0.6,0.6,0.1,0.6,0.075,0.383,0.0,0.383
+22,0,Non-Travel,739,Finance,4,1,Business,3,Male,94,3,3,Financial Manager,3,Divorced,23416814,10000,1,Yes,2.74,3,3,2,10,8,1,8.7,0.5,0.1,2.8,0.006,0.052,0.696,0.292
+27,0,Travel Rarely,139,R&D,1,3,Technical Degree,4,Female,27,2,1,Software Engineer,3,Divorced,25000000,3137,1,No,2.76,4,2,0,16,2,3,16.6,2.7,0.2,1.9,0.014,0.153,0.113,0.107
+22,0,Non-Travel,445,Operations,3,2,Medical,3,Male,58,3,2,Operations Manager,1,Married,23546391,8950,1,No,3.61,3,2,1,12,3,2,3.3,3.3,0.2,3.3,0.051,0.765,0.219,0.765
+53,0,Non-Travel,208,R&D,4,2,Medical,4,Female,25,3,1,Technical Architect,3,Divorced,25000000,4315,1,No,3.01,4,1,3,22,5,3,0.5,0.5,0.0,0.5,0.0,0.333,0.209,0.333
+42,0,Non-Travel,990,Operations,19,2,Other,3,Male,116,3,1,Operations Manager,4,Married,19734562,10000,1,No,5.02,4,4,3,5,2,1,5.6,2.9,0.5,2.1,0.073,0.444,0.305,0.32
+29,0,Non-Travel,370,R&D,5,2,Life Sciences,3,Male,45,4,3,Product Manager,4,Divorced,25000000,7828,2,No,4.64,3,1,1,17,4,4,7.4,1.6,0.0,4.2,0.004,0.189,0.215,0.495
+46,1,Non-Travel,252,Operations,8,3,Medical,2,Male,24,1,2,VP Operations,4,Married,25000000,5562,4,No,1.03,4,2,1,9,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.274,0.333
+22,0,Travel Frequently,518,Finance,11,1,Life Sciences,2,Female,71,4,2,Senior Analyst,3,Single,9332643,10000,2,No,2.2,1,1,1,8,3,1,4.6,0.6,0.4,4.6,0.065,0.099,0.316,0.821
+26,0,Non-Travel,525,Finance,6,3,Technical Degree,4,Female,65,2,3,Controller,3,Single,23184689,10000,1,No,1.25,4,2,1,5,3,3,2.3,1.4,0.0,2.3,0.012,0.412,0.479,0.699
+34,0,Travel Rarely,299,HR,13,4,Business,3,Male,38,4,4,HR Director,2,Single,10833333,6521,1,No,2.2,2,2,0,0,1,3,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+41,0,Travel Rarely,606,HR,19,1,Life Sciences,2,Male,76,3,3,HR Manager,2,Divorced,24513497,10000,2,No,2.78,3,3,1,11,4,1,3.7,1.0,0.1,1.5,0.023,0.204,0.318,0.327
+30,0,Travel Rarely,1181,HR,17,1,Other,2,Female,150,3,1,HR Specialist,3,Single,25000000,10000,1,No,2.22,3,3,3,16,5,3,1.3,0.5,0.7,1.3,0.315,0.221,0.286,0.558
+34,0,Travel Rarely,1226,Sales,30,1,Business,4,Male,150,4,3,Sales Manager,3,Married,25000000,10000,2,No,0.9,3,3,1,16,3,1,1.2,1.1,0.7,1.2,0.317,0.48,0.171,0.544
+23,0,Travel Rarely,651,Sales,16,1,Technical Degree,3,Female,87,4,2,Account Manager,3,Divorced,25000000,10000,1,No,4.33,4,3,0,14,3,4,7.2,1.2,0.3,0.8,0.034,0.147,0.197,0.094
+65,0,Travel Rarely,285,HR,8,2,Life Sciences,4,Female,31,2,4,HR Director,1,Divorced,22186277,5794,2,Yes,3.58,3,4,1,6,3,1,6.4,2.4,1.1,0.5,0.15,0.333,0.408,0.068
+36,0,Non-Travel,216,Finance,1,2,Other,2,Male,24,1,3,CFO,3,Single,11421890,4986,2,Yes,2.06,1,1,1,8,3,3,6.4,0.8,0.7,5.0,0.1,0.104,0.316,0.67
+37,0,Travel Rarely,1139,Sales,30,4,Medical,3,Female,139,3,3,Regional Director,2,Divorced,25000000,10000,4,Yes,1.35,3,3,0,14,3,3,9.4,1.5,0.2,2.0,0.015,0.149,0.193,0.196
+47,0,Travel Rarely,1206,Operations,6,1,Technical Degree,3,Male,150,2,1,Process Engineer,3,Divorced,19442044,10000,1,No,2.05,2,1,1,15,1,3,11.0,0.5,0.0,6.9,0.002,0.042,0.061,0.577
+52,0,Non-Travel,498,Finance,3,4,Medical,2,Female,64,3,1,CFO,4,Married,12736340,10000,1,No,4.24,3,3,0,3,3,4,3.6,0.5,0.3,1.4,0.062,0.109,0.657,0.314
+39,0,Travel Frequently,1073,R&D,11,4,Business,3,Male,130,4,3,Software Engineer,3,Single,25000000,10000,1,No,2.45,4,3,2,14,3,3,1.5,1.1,1.0,0.5,0.39,0.435,0.196,0.203
+27,1,Travel Rarely,369,Finance,27,1,Other,2,Female,44,1,3,Controller,4,Divorced,25000000,7446,1,No,2.45,3,4,3,23,3,2,3.9,3.9,2.0,3.9,0.403,0.795,0.121,0.795
+64,0,Travel Frequently,1235,Finance,5,2,Technical Degree,2,Female,150,4,2,Senior Analyst,4,Married,24013282,10000,1,No,5.08,3,3,1,13,1,2,1.6,1.6,1.1,1.5,0.418,0.612,0.071,0.572
+26,1,Non-Travel,349,Operations,14,3,Medical,2,Female,44,4,3,Operations Specialist,1,Single,25000000,7017,1,No,2.61,3,2,1,12,2,2,5.0,2.2,0.6,1.6,0.095,0.357,0.15,0.266
+48,0,Travel Frequently,932,HR,7,4,Life Sciences,3,Male,109,3,4,Chief People Officer,2,Married,5833333,10000,3,No,0.0,1,3,0,0,4,2,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+43,0,Travel Rarely,743,HR,14,2,Technical Degree,3,Male,79,3,2,HR Specialist,3,Married,23911161,10000,2,No,2.38,3,1,2,13,3,4,5.3,0.8,0.1,4.7,0.019,0.125,0.213,0.745
+41,0,Non-Travel,216,Operations,30,5,Other,2,Male,27,4,1,Director of Ops,3,Married,17167640,4803,2,Yes,1.68,4,3,1,3,1,1,1.9,1.5,0.5,1.9,0.175,0.513,0.25,0.66
+22,0,Travel Frequently,229,HR,14,3,Other,3,Male,39,2,5,HR Manager,1,Divorced,25000000,5203,4,Yes,1.09,3,2,2,8,2,4,8.6,4.6,0.2,1.1,0.025,0.476,0.207,0.112
+31,0,Travel Frequently,1214,Operations,18,3,Medical,3,Female,142,2,1,Director of Ops,4,Single,18056316,10000,1,No,1.63,4,2,1,3,3,1,0.9,0.9,0.4,0.9,0.227,0.485,0.614,0.485
+46,0,Travel Rarely,396,Finance,1,3,Technical Degree,4,Female,53,3,2,Financial Manager,4,Single,21163097,8278,3,No,1.29,4,4,1,5,2,3,2.6,2.4,2.1,1.4,0.579,0.679,0.316,0.379
+28,0,Travel Rarely,322,Sales,1,3,Business,2,Female,38,3,3,VP Sales,2,Divorced,25000000,7095,1,No,0.41,3,2,1,19,2,3,7.9,0.5,0.0,4.4,0.0,0.056,0.096,0.49
+25,0,Travel Rarely,848,HR,13,5,Technical Degree,1,Male,103,1,1,HR Manager,2,Divorced,25000000,10000,1,Yes,0.68,3,2,1,22,1,1,0.5,0.5,0.0,0.5,0.0,0.333,0.042,0.333
+52,0,Travel Frequently,282,HR,4,2,Business,1,Male,31,2,1,Recruiter,2,Divorced,9166666,5827,2,Yes,1.48,3,2,2,0,3,3,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+37,1,Travel Frequently,362,R&D,4,5,Technical Degree,1,Female,48,1,5,Product Manager,2,Divorced,25000000,7938,1,Yes,3.28,3,2,1,10,0,2,8.2,0.5,0.4,0.7,0.042,0.057,0.0,0.074
+49,0,Travel Rarely,563,Operations,20,1,Medical,1,Male,67,3,2,Director of Ops,1,Single,21430659,10000,1,No,4.78,3,4,1,10,5,3,1.8,1.8,1.3,1.3,0.458,0.639,0.431,0.464
+42,0,Non-Travel,235,Operations,3,1,Business,4,Male,38,4,2,Operations Specialist,2,Single,20581210,4819,1,Yes,3.33,3,3,0,9,3,1,9.7,3.2,0.2,5.1,0.018,0.299,0.279,0.479
+22,0,Non-Travel,254,Sales,5,2,Medical,1,Female,34,4,3,Account Manager,2,Married,15325169,4979,2,Yes,3.33,3,3,2,2,2,1,2.4,1.7,0.9,1.8,0.277,0.496,0.587,0.527
+45,0,Non-Travel,908,Operations,2,1,Other,2,Male,105,1,1,Operations Manager,2,Single,21536659,10000,3,No,2.12,3,4,1,12,1,4,3.3,0.5,0.8,3.3,0.182,0.124,0.075,0.766
+39,0,Travel Frequently,211,Operations,17,1,Other,3,Male,27,3,3,Director of Ops,1,Divorced,12916666,4318,1,No,1.77,3,1,2,0,2,1,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+51,0,Non-Travel,292,Operations,7,2,Other,3,Male,38,2,3,Operations Specialist,3,Married,17125737,5695,4,No,0.73,3,2,2,4,2,3,4.2,2.9,1.0,4.2,0.196,0.553,0.384,0.808
+45,0,Non-Travel,309,Sales,3,1,Other,4,Female,28,3,1,Account Manager,2,Married,23397917,6271,1,No,6.26,3,1,0,14,6,1,1.9,0.5,0.3,1.9,0.092,0.172,0.394,0.656
+30,0,Travel Frequently,297,Sales,15,2,Technical Degree,4,Male,34,1,4,Account Manager,4,Married,25000000,5937,1,Yes,2.99,4,1,3,7,2,1,0.6,0.6,0.1,0.6,0.074,0.383,0.223,0.383
+22,0,Travel Frequently,297,Finance,1,4,Technical Degree,1,Female,23,3,3,Senior Analyst,3,Divorced,25000000,6798,1,Yes,3.7,4,4,1,15,3,1,5.1,5.1,0.9,3.3,0.156,0.835,0.182,0.542
+60,0,Non-Travel,417,Operations,20,4,Other,2,Male,35,1,2,Operations Manager,3,Married,25000000,8726,1,No,4.02,3,3,2,22,3,1,9.8,6.1,0.9,6.5,0.086,0.567,0.127,0.607
+46,1,Travel Rarely,235,Sales,30,2,Business,4,Male,21,1,1,Regional Director,4,Divorced,25000000,5050,2,Yes,3.82,4,2,1,15,3,3,6.4,3.2,0.6,0.5,0.077,0.43,0.179,0.068
+22,0,Travel Rarely,471,Operations,1,4,Technical Degree,3,Male,57,3,3,Process Engineer,3,Married,17916666,9740,1,No,0.72,4,3,0,0,2,3,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+56,0,Non-Travel,213,HR,5,3,Medical,4,Female,23,1,2,HR Manager,1,Single,24967942,4929,3,Yes,1.68,3,2,3,14,4,2,4.7,2.7,0.1,0.5,0.018,0.472,0.264,0.087
+28,0,Travel Frequently,514,Operations,13,2,Medical,3,Female,63,3,3,Operations Manager,1,Single,17677568,10000,2,No,2.93,3,1,2,4,0,3,4.8,0.7,0.3,0.5,0.044,0.124,0.0,0.087
+47,1,Travel Frequently,537,Operations,11,4,Life Sciences,1,Male,72,2,1,Operations Specialist,4,Single,22602852,10000,2,No,3.7,3,2,3,13,3,2,0.5,0.5,0.0,0.5,0.0,0.333,0.208,0.333
+36,0,Travel Frequently,197,Finance,15,1,Life Sciences,2,Male,27,3,3,Analyst,3,Married,12066626,4058,1,No,3.1,1,1,1,9,2,3,9.1,2.9,0.3,0.5,0.033,0.282,0.197,0.051
+30,0,Travel Frequently,682,Sales,1,3,Business,3,Male,72,2,3,Account Manager,3,Single,25000000,10000,5,No,2.69,3,3,0,14,0,4,1.7,1.7,0.3,1.0,0.11,0.634,0.0,0.354
+38,0,Travel Rarely,635,R&D,10,1,Medical,4,Female,72,4,3,Software Engineer,2,Married,25000000,10000,2,No,2.79,2,3,1,28,1,4,0.5,0.5,0.0,0.5,0.0,0.333,0.034,0.333
+28,0,Travel Rarely,277,Sales,10,5,Other,1,Male,37,2,1,Regional Director,3,Divorced,25000000,6213,1,Yes,1.26,3,2,1,20,3,3,7.2,1.9,0.9,1.9,0.106,0.226,0.141,0.228
+45,0,Non-Travel,272,Finance,2,4,Other,3,Male,30,4,1,Controller,1,Divorced,25000000,5862,1,No,3.91,3,3,1,21,2,1,3.9,3.9,3.4,3.9,0.695,0.797,0.088,0.797
+36,0,Travel Rarely,591,Sales,9,5,Business,2,Female,72,3,4,Regional Director,3,Divorced,25000000,10000,2,No,3.9,4,3,3,9,4,2,5.8,4.0,0.8,4.1,0.121,0.586,0.382,0.608
+37,0,Non-Travel,274,R&D,1,4,Life Sciences,2,Male,27,2,1,Data Scientist,3,Single,14477394,5892,3,Yes,0.13,2,2,2,10,2,1,1.0,1.0,0.5,1.0,0.252,0.502,0.177,0.502
+38,0,Travel Rarely,370,Sales,2,2,Other,3,Male,55,3,4,Account Manager,4,Married,25000000,8000,2,No,1.51,3,3,1,16,1,3,1.9,1.9,1.4,1.9,0.482,0.654,0.056,0.654
+28,0,Travel Rarely,428,R&D,30,2,Life Sciences,3,Female,59,3,4,Data Scientist,4,Divorced,25000000,9249,1,No,5.42,3,4,2,21,6,2,3.6,2.8,1.3,0.5,0.289,0.608,0.261,0.108
+46,0,Non-Travel,433,Operations,19,1,Medical,2,Female,49,3,2,Operations Manager,4,Single,12701866,8719,3,No,2.18,1,3,1,11,3,2,2.1,2.1,0.7,2.1,0.219,0.674,0.233,0.674
+22,0,Travel Rarely,166,Finance,14,2,Medical,2,Female,22,2,2,Financial Manager,2,Divorced,25000000,3814,2,No,2.51,4,2,0,9,2,3,0.5,0.5,0.0,0.5,0.0,0.333,0.195,0.333
+48,0,Non-Travel,1064,Finance,11,2,Other,3,Male,132,4,4,Financial Manager,3,Divorced,25000000,10000,3,No,4.08,4,4,1,10,7,3,1.5,0.7,0.8,1.5,0.301,0.288,0.589,0.603
+22,0,Travel Rarely,364,HR,6,2,Life Sciences,3,Female,36,3,1,HR Specialist,4,Divorced,25000000,7805,1,No,2.99,4,1,2,17,2,4,15.2,1.2,0.1,0.5,0.005,0.071,0.109,0.031
+33,0,Non-Travel,189,Finance,25,4,Business,3,Male,22,2,4,Financial Manager,3,Married,20833333,3974,1,No,3.24,4,2,0,0,4,3,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+34,0,Travel Rarely,465,Sales,2,2,Business,3,Male,68,3,1,Sales Manager,1,Divorced,9040367,9846,3,No,2.4,1,3,0,9,2,1,6.0,3.2,0.1,2.7,0.02,0.451,0.184,0.387
+32,0,Non-Travel,254,Sales,30,3,Business,2,Male,28,3,3,Sales Executive,2,Divorced,12916666,5347,1,Yes,3.09,3,4,0,0,0,4,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+30,0,Non-Travel,426,Sales,5,3,Medical,3,Male,46,1,3,Sales Manager,3,Single,12208674,8721,2,Yes,2.72,2,3,1,4,1,1,4.3,4.1,2.9,4.3,0.541,0.782,0.189,0.811
+37,1,Non-Travel,1167,Operations,7,2,Other,2,Male,150,4,2,Operations Manager,1,Married,25000000,10000,1,No,1.98,4,3,1,15,1,3,2.5,0.7,1.0,0.6,0.286,0.205,0.061,0.178
+38,0,Non-Travel,602,Operations,9,1,Medical,3,Male,77,1,4,Process Engineer,4,Single,25000000,10000,2,No,0.53,4,1,1,19,2,2,4.5,4.5,0.7,3.6,0.135,0.819,0.098,0.647
+26,0,Non-Travel,428,Finance,15,2,Other,4,Female,57,1,1,CFO,3,Married,14818299,8679,4,Yes,2.97,2,3,0,10,3,2,4.3,4.3,0.4,3.8,0.068,0.812,0.257,0.721
+24,0,Travel Frequently,650,HR,1,3,Technical Degree,3,Female,77,3,2,HR Specialist,4,Single,18002326,10000,1,No,3.86,3,3,3,7,0,1,5.8,5.1,0.5,5.8,0.07,0.743,0.0,0.853
+41,0,Travel Rarely,649,R&D,10,5,Life Sciences,3,Male,71,4,2,Technical Architect,4,Married,23153258,10000,1,No,0.16,3,1,1,12,2,2,2.8,2.5,0.3,2.0,0.067,0.655,0.15,0.53
+42,0,Travel Frequently,326,Operations,1,3,Business,3,Female,46,3,3,Process Engineer,3,Married,25000000,7118,2,Yes,1.06,4,2,0,28,2,3,1.5,1.5,1.0,1.5,0.393,0.596,0.068,0.596
+41,0,Travel Frequently,240,Operations,7,4,Business,4,Female,28,4,2,Operations Specialist,3,Divorced,25000000,5022,2,No,2.86,3,2,0,28,4,1,7.8,0.5,0.1,0.9,0.009,0.057,0.137,0.107
+36,0,Non-Travel,751,Sales,2,3,Life Sciences,2,Female,86,3,4,Sales Manager,2,Divorced,23881350,10000,3,Yes,3.08,3,2,0,8,3,2,4.0,3.1,1.7,1.0,0.328,0.609,0.332,0.206
+51,0,Non-Travel,607,Finance,6,1,Medical,2,Male,78,1,2,Financial Manager,3,Single,22269183,10000,3,Yes,2.72,3,2,0,11,1,2,7.0,1.3,1.0,4.1,0.121,0.164,0.08,0.517
+25,0,Travel Rarely,345,R&D,3,3,Other,1,Male,50,3,2,Software Engineer,3,Married,17123785,7194,2,No,3.97,3,2,1,6,2,3,1.8,1.8,1.3,1.0,0.462,0.641,0.274,0.354
+41,0,Travel Rarely,1203,HR,13,4,Medical,2,Male,150,1,1,HR Specialist,1,Single,17306512,10000,3,Yes,3.44,2,2,0,13,1,1,1.2,1.2,0.7,1.2,0.329,0.553,0.071,0.553
+36,0,Non-Travel,213,HR,4,3,Life Sciences,2,Female,32,4,3,Chief People Officer,2,Divorced,25000000,5099,2,Yes,2.65,4,3,0,17,1,3,5.6,1.0,0.4,0.7,0.053,0.155,0.055,0.109
+33,0,Travel Frequently,1243,R&D,11,4,Technical Degree,3,Male,150,2,1,Data Scientist,3,Married,17945846,10000,1,No,4.13,3,1,1,8,2,4,5.4,1.5,1.3,3.2,0.204,0.233,0.205,0.509
+36,1,Travel Frequently,474,Sales,23,3,Life Sciences,2,Male,66,4,2,Sales Executive,2,Married,25000000,9665,2,Yes,3.68,3,2,1,15,4,1,7.4,2.2,0.0,1.1,0.002,0.264,0.249,0.134
+49,0,Non-Travel,917,HR,13,4,Technical Degree,4,Male,110,1,1,Recruiter,2,Single,24758964,10000,1,No,3.43,4,3,0,10,3,4,10.6,1.4,0.1,10.6,0.01,0.121,0.259,0.914
+56,0,Travel Rarely,376,Sales,2,3,Other,2,Male,47,1,2,Regional Director,1,Single,25000000,7930,3,No,1.22,3,1,2,14,4,3,2.3,0.5,0.6,1.1,0.18,0.151,0.251,0.339
+28,0,Non-Travel,200,R&D,1,2,Business,3,Male,23,4,1,Data Scientist,4,Married,15851582,4141,1,No,4.18,3,2,2,6,1,2,6.7,3.6,0.2,0.6,0.028,0.472,0.13,0.08
+28,0,Non-Travel,767,HR,11,2,Other,2,Female,87,3,3,HR Manager,2,Married,22973352,10000,1,No,2.2,3,4,0,10,3,3,4.4,3.2,1.0,0.5,0.194,0.591,0.271,0.094
+44,0,Travel Frequently,238,Finance,4,3,Life Sciences,3,Male,24,1,4,CFO,1,Married,23359965,4949,2,Yes,2.76,2,4,0,12,3,3,2.7,0.5,0.0,0.9,0.008,0.136,0.222,0.251
+24,0,Travel Frequently,120,Finance,4,1,Technical Degree,3,Male,26,2,3,Analyst,3,Single,23573338,3039,2,No,2.21,3,4,0,10,0,2,5.6,3.9,1.7,5.6,0.263,0.587,0.0,0.849
+34,0,Non-Travel,269,R&D,2,4,Life Sciences,2,Female,21,2,3,Research Lead,2,Single,20033097,5065,2,Yes,4.3,3,3,1,7,1,4,0.6,0.6,0.1,0.6,0.07,0.38,0.123,0.38
+65,1,Travel Rarely,1177,Operations,5,1,Business,3,Female,150,4,2,Process Engineer,3,Divorced,25000000,10000,1,No,3.45,4,4,1,17,2,2,5.8,5.8,2.1,0.9,0.306,0.853,0.107,0.134
+23,1,Travel Frequently,1152,Operations,15,2,Medical,1,Female,147,3,2,Director of Ops,4,Single,25000000,10000,1,Yes,2.5,3,3,0,16,0,3,4.2,2.1,3.7,2.2,0.712,0.401,0.0,0.422
+42,0,Travel Rarely,759,HR,14,2,Business,3,Female,104,3,1,HR Specialist,2,Married,25000000,10000,1,No,3.56,3,3,2,16,2,3,1.6,1.6,0.0,0.6,0.018,0.619,0.117,0.229
+37,0,Non-Travel,690,Sales,2,4,Medical,1,Female,82,4,5,Sales Manager,4,Single,25000000,10000,2,No,2.63,4,2,1,11,2,2,3.8,1.1,0.2,2.7,0.038,0.232,0.161,0.565
+55,0,Non-Travel,191,Operations,9,4,Life Sciences,4,Male,32,4,2,VP Operations,4,Divorced,16012417,4393,2,Yes,3.98,3,2,0,5,2,2,1.1,0.5,0.2,1.1,0.092,0.237,0.324,0.526
+30,0,Travel Rarely,449,Sales,14,1,Medical,3,Male,59,3,3,Sales Manager,1,Single,25000000,9061,2,Yes,1.56,4,2,1,24,2,4,1.0,1.0,0.0,1.0,0.012,0.49,0.079,0.49
+45,0,Travel Frequently,489,R&D,3,2,Business,4,Male,63,3,2,Data Scientist,2,Single,25000000,10000,1,Yes,2.11,4,4,2,14,1,1,0.5,0.5,0.0,0.5,0.02,0.347,0.063,0.347
+37,0,Non-Travel,363,Finance,29,5,Technical Degree,3,Female,39,1,3,Analyst,2,Married,25000000,7506,1,No,2.04,3,3,0,13,1,4,3.0,0.5,0.1,3.0,0.033,0.124,0.068,0.752
+37,0,Travel Rarely,664,Finance,17,2,Other,4,Female,85,1,1,CFO,3,Divorced,25000000,10000,1,No,1.36,2,2,1,24,4,3,19.8,2.3,1.4,2.4,0.069,0.112,0.158,0.114
+36,0,Travel Frequently,543,Operations,30,4,Technical Degree,4,Female,75,3,2,Director of Ops,3,Divorced,16438119,10000,2,No,2.82,1,2,2,15,1,1,0.5,0.5,0.0,0.5,0.0,0.333,0.06,0.333
+39,0,Travel Rarely,483,HR,10,5,Other,4,Male,63,3,3,HR Director,4,Single,25000000,10000,4,No,2.83,3,4,3,18,2,4,16.5,0.8,0.1,0.5,0.005,0.047,0.103,0.029
+22,1,Travel Rarely,444,Finance,6,4,Technical Degree,2,Female,50,3,2,Analyst,3,Single,25000000,9244,2,Yes,1.37,2,3,0,23,1,1,1.5,0.8,0.4,1.5,0.177,0.311,0.04,0.603
+53,0,Travel Frequently,472,Finance,3,1,Business,2,Female,72,1,1,Analyst,3,Single,19973434,10000,4,No,1.82,3,3,1,10,1,2,10.8,1.5,0.2,2.3,0.021,0.124,0.085,0.195
+22,0,Non-Travel,294,R&D,30,2,Other,3,Male,26,3,1,Data Scientist,4,Divorced,19816009,5678,1,No,3.25,3,2,0,10,2,3,0.5,0.5,0.0,0.5,0.0,0.333,0.172,0.333
+46,0,Travel Rarely,433,HR,12,4,Life Sciences,4,Male,63,3,4,HR Manager,3,Married,20833333,9107,1,No,3.07,4,2,3,0,1,3,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+38,0,Non-Travel,775,Operations,1,2,Business,1,Male,94,2,3,Process Engineer,2,Single,25000000,10000,1,No,1.47,3,3,2,17,3,2,5.4,3.9,3.4,0.8,0.531,0.613,0.161,0.128
+39,0,Travel Frequently,1057,HR,1,3,Medical,4,Male,135,4,1,HR Manager,3,Single,25000000,10000,3,Yes,1.56,4,4,1,18,6,4,7.4,0.5,0.1,7.4,0.008,0.059,0.309,0.881
+39,0,Travel Rarely,391,Finance,5,3,Technical Degree,3,Female,39,1,2,Senior Analyst,4,Married,14415197,8350,1,Yes,3.64,3,4,0,3,1,3,2.4,2.4,0.3,2.4,0.081,0.704,0.218,0.704
+31,0,Travel Rarely,1031,HR,8,2,Business,1,Female,121,1,2,Recruiter,3,Divorced,25000000,10000,1,No,0.04,4,3,2,12,2,3,2.3,0.5,0.2,2.3,0.047,0.15,0.15,0.7
+22,0,Travel Rarely,748,HR,1,1,Life Sciences,3,Female,80,2,4,HR Specialist,2,Divorced,22015283,10000,2,No,2.46,3,3,1,6,4,4,6.2,4.2,0.2,6.2,0.032,0.585,0.557,0.861
+51,0,Travel Rarely,914,HR,3,1,Business,4,Male,108,2,5,HR Director,3,Married,25000000,10000,5,No,1.27,3,2,2,10,3,1,1.9,1.9,0.3,0.8,0.097,0.659,0.261,0.289
+45,1,Travel Frequently,571,Sales,5,2,Life Sciences,2,Male,61,1,1,Account Manager,2,Single,21058600,10000,1,No,1.91,4,2,1,6,0,4,1.0,1.0,0.5,1.0,0.265,0.51,0.0,0.51
+22,0,Travel Rarely,824,Operations,15,2,Other,3,Female,94,3,4,Operations Specialist,3,Divorced,18307657,10000,1,No,1.64,3,2,0,2,2,1,2.5,0.5,0.3,0.5,0.084,0.144,0.576,0.144
+27,0,Non-Travel,130,Sales,1,3,Life Sciences,3,Female,21,3,3,Sales Manager,3,Divorced,25000000,2665,1,Yes,3.7,3,4,3,30,2,3,5.0,1.9,0.4,2.1,0.063,0.32,0.063,0.345
+26,0,Non-Travel,290,Operations,10,4,Technical Degree,2,Male,34,1,3,Operations Specialist,4,Married,17959778,6832,1,No,1.54,3,3,2,5,5,3,3.6,0.5,0.4,0.9,0.091,0.109,0.827,0.187
+45,0,Travel Frequently,260,R&D,4,3,Other,2,Male,36,2,2,Research Lead,2,Single,21447104,5607,1,No,2.49,3,2,0,10,1,2,10.6,10.2,0.3,4.2,0.022,0.875,0.086,0.363
+49,0,Non-Travel,581,Finance,2,1,Life Sciences,4,Female,71,2,1,Financial Manager,1,Married,14809686,10000,1,No,0.72,3,4,0,5,2,3,2.9,2.9,1.7,1.4,0.442,0.743,0.301,0.371
+33,0,Travel Rarely,321,HR,30,4,Life Sciences,1,Female,33,3,1,HR Specialist,2,Married,25000000,6492,1,Yes,4.49,3,3,3,20,1,3,0.5,0.5,0.0,0.5,0.0,0.333,0.046,0.333
+47,0,Travel Rarely,1218,HR,18,1,Medical,3,Female,150,2,1,HR Director,1,Single,25000000,10000,1,Yes,2.81,4,2,0,11,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.319,0.333
+28,0,Non-Travel,372,Finance,9,3,Medical,2,Male,37,3,3,Senior Analyst,4,Divorced,25000000,8061,2,No,2.67,4,4,0,11,2,4,8.0,0.7,0.1,1.6,0.012,0.083,0.165,0.181
+60,0,Travel Frequently,696,Finance,15,3,Business,1,Male,83,2,1,Senior Analyst,2,Single,25000000,10000,3,Yes,3.95,4,2,2,12,1,1,10.7,1.3,0.2,4.7,0.013,0.112,0.077,0.399
+38,0,Non-Travel,598,Finance,30,3,Other,2,Male,73,3,2,Controller,3,Married,17189255,10000,1,No,2.92,1,3,1,16,0,4,3.3,3.3,1.2,2.6,0.282,0.769,0.0,0.601
+39,0,Travel Rarely,410,Operations,19,2,Life Sciences,2,Male,47,1,3,Operations Manager,1,Married,16355531,8291,2,No,1.1,2,2,0,8,2,1,0.5,0.5,0.0,0.5,0.0,0.333,0.212,0.333
+24,0,Travel Frequently,174,Sales,7,2,Medical,3,Male,26,3,4,VP Sales,2,Divorced,7330338,4071,2,No,3.17,1,3,0,1,1,4,1.5,1.5,0.2,1.5,0.099,0.6,0.4,0.6
+35,0,Travel Frequently,534,R&D,16,3,Other,3,Female,73,3,1,Data Scientist,2,Single,10983495,10000,1,No,1.98,3,4,1,1,4,2,1.8,1.3,0.3,1.8,0.09,0.457,1.42,0.645
+23,0,Travel Frequently,235,HR,21,2,Life Sciences,2,Female,25,3,1,Chief People Officer,2,Divorced,25000000,5083,3,No,5.44,3,3,1,16,1,1,7.6,0.5,0.0,3.3,0.005,0.058,0.056,0.377
+37,0,Travel Frequently,501,Finance,10,3,Medical,3,Female,55,3,4,Controller,3,Single,17455641,10000,3,Yes,2.13,3,2,1,1,1,2,0.5,0.5,0.0,0.5,0.0,0.333,0.381,0.333
+46,0,Travel Rarely,785,R&D,2,1,Business,3,Female,106,3,3,Research Lead,2,Divorced,25000000,10000,1,Yes,1.2,1,4,1,22,3,1,2.6,1.3,1.1,2.6,0.307,0.365,0.126,0.724
+52,0,Travel Rarely,451,R&D,10,1,Other,3,Female,49,4,1,Data Scientist,3,Single,25000000,9148,1,No,4.2,4,2,1,25,4,3,5.8,0.5,0.3,5.8,0.05,0.079,0.152,0.853
+47,0,Non-Travel,934,Operations,18,4,Life Sciences,2,Male,116,3,2,Operations Specialist,2,Divorced,23338123,10000,2,No,3.97,3,2,2,12,1,1,9.2,5.0,1.4,5.1,0.136,0.486,0.074,0.503
+36,0,Travel Frequently,390,Finance,2,2,Business,1,Male,46,3,1,Financial Manager,1,Single,25000000,7879,1,Yes,2.58,3,3,0,22,4,1,9.6,2.9,0.0,0.5,0.004,0.277,0.168,0.047
+30,0,Non-Travel,1060,Sales,1,4,Business,3,Male,141,3,3,Sales Manager,4,Married,8157340,10000,2,No,3.35,1,4,1,5,0,3,4.4,1.5,1.5,2.2,0.277,0.268,0.0,0.398
+22,0,Non-Travel,222,HR,25,2,Business,3,Female,21,2,4,Recruiter,3,Single,25000000,4990,2,No,1.4,4,4,0,15,2,3,0.9,0.9,0.2,0.9,0.101,0.46,0.121,0.46
+41,0,Travel Rarely,258,Operations,6,2,Technical Degree,3,Female,46,2,5,Director of Ops,4,Single,25000000,5141,1,Yes,3.77,4,1,0,16,0,1,14.9,0.5,0.0,4.5,0.002,0.031,0.0,0.281
+25,0,Travel Rarely,242,Sales,7,3,Medical,1,Male,34,3,4,Sales Executive,3,Married,21997416,5236,2,No,3.42,4,3,0,1,2,4,0.5,0.5,0.0,0.5,0.0,0.333,0.924,0.333
+42,0,Travel Rarely,437,Sales,3,1,Life Sciences,1,Female,53,4,2,Account Manager,3,Divorced,25000000,9151,1,No,3.47,4,2,1,14,5,1,4.9,2.1,1.2,3.2,0.197,0.35,0.323,0.538
+51,0,Travel Frequently,749,Operations,2,2,Life Sciences,3,Male,100,4,1,Director of Ops,3,Single,25000000,10000,1,No,2.77,4,3,1,15,2,3,1.7,1.7,0.2,1.7,0.06,0.63,0.122,0.63
+39,0,Non-Travel,324,Finance,4,4,Technical Degree,3,Female,39,1,2,Controller,3,Single,13899697,6478,3,No,4.35,1,2,2,13,3,3,3.5,1.6,0.2,0.5,0.035,0.363,0.213,0.111
+22,0,Non-Travel,728,Operations,10,3,Technical Degree,4,Male,83,1,2,Process Engineer,2,Married,25000000,10000,3,Yes,2.41,3,3,3,15,3,3,1.3,1.3,0.4,0.8,0.158,0.573,0.181,0.34
+40,0,Non-Travel,812,Operations,8,4,Life Sciences,4,Female,94,1,2,Process Engineer,3,Divorced,19553152,10000,1,Yes,2.43,3,3,2,8,3,3,0.9,0.9,0.1,0.9,0.069,0.463,0.309,0.463
+26,0,Travel Frequently,341,HR,2,1,Life Sciences,4,Female,54,3,3,HR Manager,3,Divorced,12916666,6920,2,Yes,2.08,3,3,0,0,8,2,0.0,0.0,-0.5,0.0,-0.5,0.0,8.0,0.0
+26,0,Non-Travel,1169,Finance,7,3,Life Sciences,1,Male,150,1,3,Senior Analyst,4,Divorced,25000000,10000,2,No,3.22,3,4,2,13,6,2,2.2,2.2,1.7,2.2,0.538,0.692,0.403,0.692
+26,0,Travel Frequently,204,Operations,6,2,Business,2,Female,32,3,3,Operations Specialist,1,Divorced,23006530,4238,3,No,2.16,4,4,0,5,3,2,5.1,3.1,0.5,0.5,0.081,0.512,0.493,0.082
+29,0,Travel Rarely,326,Operations,26,1,Business,3,Male,33,4,2,Operations Specialist,4,Divorced,19822488,6730,2,Yes,4.97,4,3,0,3,3,3,1.6,1.0,0.2,1.6,0.059,0.379,0.601,0.623
+49,0,Travel Rarely,551,Finance,19,3,Technical Degree,3,Male,71,1,4,Analyst,3,Divorced,18539742,10000,2,Yes,3.61,3,4,2,2,2,2,2.7,2.2,1.0,0.5,0.263,0.607,0.54,0.135
+46,0,Travel Frequently,518,Operations,24,2,Life Sciences,4,Female,66,1,4,VP Operations,4,Married,25000000,10000,2,Yes,2.34,4,2,1,10,3,2,2.3,0.5,0.4,0.7,0.132,0.151,0.257,0.205
+38,0,Travel Rarely,343,Operations,3,1,Business,3,Male,48,3,3,Operations Specialist,3,Single,20761919,7404,1,No,2.0,3,2,0,7,1,3,5.2,0.5,0.0,2.2,0.004,0.082,0.113,0.36
+39,0,Non-Travel,1242,Operations,10,3,Technical Degree,2,Male,150,1,3,Process Engineer,4,Single,18125068,10000,1,Yes,1.54,3,3,1,5,3,4,5.0,0.5,0.1,1.6,0.015,0.083,0.483,0.261
+59,0,Travel Rarely,286,R&D,7,3,Technical Degree,3,Female,43,3,3,Product Manager,2,Single,25000000,6047,3,No,3.17,4,1,2,9,3,1,9.6,2.5,0.6,3.8,0.054,0.232,0.284,0.358
+22,0,Non-Travel,892,R&D,1,3,Business,3,Male,112,4,3,Software Engineer,4,Single,21871141,10000,1,No,2.53,3,4,0,8,3,4,9.0,8.1,0.6,3.5,0.062,0.816,0.301,0.355
+60,0,Travel Rarely,1178,Operations,12,3,Business,3,Female,150,1,4,Director of Ops,2,Divorced,25000000,10000,1,No,1.66,3,3,0,15,3,2,9.4,0.6,0.1,0.5,0.005,0.06,0.177,0.048
+22,0,Travel Rarely,329,R&D,3,2,Life Sciences,3,Male,43,1,4,Product Manager,1,Married,25000000,6764,1,No,0.0,3,3,2,21,3,1,0.5,0.5,0.0,0.5,0.0,0.333,0.13,0.333
+45,0,Non-Travel,228,HR,12,2,Other,2,Female,22,4,3,HR Manager,4,Single,6774935,4497,2,No,1.49,1,3,1,3,0,2,2.0,1.2,0.3,1.3,0.096,0.416,0.0,0.43
+28,0,Travel Frequently,157,Operations,14,2,Other,4,Female,23,1,3,Operations Specialist,1,Single,22485996,3052,3,No,2.84,3,1,2,9,2,1,9.6,0.5,0.0,2.6,0.004,0.047,0.189,0.25
+44,0,Non-Travel,429,HR,2,4,Business,1,Female,53,4,3,Recruiter,3,Single,12916666,8676,3,No,2.4,3,2,2,0,0,4,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+59,0,Non-Travel,410,R&D,30,2,Other,3,Female,51,3,2,Technical Architect,3,Married,25000000,8402,2,No,2.2,3,3,0,21,3,2,4.2,2.7,2.0,4.2,0.388,0.514,0.131,0.808
+46,0,Travel Rarely,610,HR,2,2,Medical,3,Female,67,4,2,Recruiter,1,Divorced,23987814,10000,3,Yes,3.86,3,4,2,13,2,3,2.9,1.2,0.1,1.0,0.028,0.296,0.141,0.266
+35,0,Travel Frequently,154,Operations,2,1,Business,2,Female,35,1,4,Operations Manager,4,Single,25000000,3139,1,No,1.16,3,3,1,22,3,4,0.8,0.8,0.3,0.5,0.178,0.453,0.129,0.273
+26,0,Non-Travel,639,R&D,7,4,Business,2,Male,81,4,1,Software Engineer,3,Divorced,22534353,10000,1,No,1.89,3,3,1,13,1,3,0.5,0.5,0.0,0.5,0.0,0.333,0.07,0.333
+26,0,Travel Rarely,541,HR,7,3,Medical,3,Male,63,2,3,Chief People Officer,3,Divorced,24594014,10000,1,Yes,2.46,3,2,0,11,0,3,2.2,2.2,0.1,0.5,0.035,0.69,0.0,0.155
+38,0,Travel Rarely,148,R&D,3,3,Other,3,Male,31,2,4,Software Engineer,2,Divorced,25000000,2897,1,No,2.85,4,3,1,19,3,1,9.6,0.5,0.1,0.9,0.013,0.047,0.143,0.084
+49,0,Non-Travel,582,HR,23,5,Life Sciences,3,Female,68,2,3,Chief People Officer,3,Divorced,25000000,10000,2,No,0.99,4,4,1,14,5,4,3.1,1.6,1.0,0.9,0.245,0.395,0.319,0.208
+47,0,Travel Rarely,823,HR,10,4,Technical Degree,3,Male,100,4,3,Recruiter,2,Married,25000000,10000,4,Yes,1.07,3,3,0,17,3,2,0.7,0.7,0.2,0.5,0.091,0.411,0.165,0.294
+37,0,Non-Travel,392,HR,1,3,Business,2,Male,49,4,4,HR Specialist,4,Married,12868354,8678,1,No,2.4,2,2,2,2,5,4,2.0,2.0,0.4,2.0,0.135,0.671,1.647,0.671
+23,1,Travel Frequently,298,HR,8,1,Medical,4,Male,31,3,3,HR Specialist,4,Divorced,19255102,6172,2,Yes,0.83,2,3,1,11,1,2,4.4,2.7,1.3,0.9,0.242,0.496,0.081,0.167
+40,0,Travel Frequently,1095,Sales,20,1,Medical,1,Female,125,3,2,Sales Manager,3,Single,20659131,10000,1,No,1.63,4,3,3,4,2,2,4.8,4.8,1.1,1.9,0.193,0.828,0.343,0.333
+22,1,Non-Travel,530,HR,3,3,Other,3,Female,64,1,1,Chief People Officer,2,Married,8634695,10000,2,Yes,2.0,1,2,3,9,2,1,2.7,1.9,2.2,1.6,0.594,0.527,0.191,0.427
+22,0,Travel Frequently,900,HR,26,3,Life Sciences,2,Male,115,2,4,HR Specialist,2,Divorced,25000000,10000,4,No,3.54,4,1,2,6,1,3,1.9,0.5,0.1,1.9,0.021,0.17,0.126,0.66
+54,0,Travel Frequently,571,R&D,30,1,Life Sciences,2,Male,82,4,5,Research Lead,1,Divorced,25000000,10000,3,Yes,2.11,3,2,2,21,3,2,3.9,3.9,0.7,0.6,0.137,0.796,0.135,0.125
+41,0,Travel Frequently,178,R&D,6,3,Business,2,Male,26,3,4,Software Engineer,2,Divorced,25000000,4137,1,No,1.99,3,2,3,17,1,2,2.4,2.4,1.3,2.4,0.369,0.706,0.055,0.706
+43,0,Travel Rarely,294,Operations,2,2,Medical,2,Female,33,1,1,Director of Ops,3,Divorced,11873487,5888,2,No,3.5,3,2,0,2,3,4,2.7,0.9,0.4,1.2,0.098,0.253,0.809,0.331
+45,0,Non-Travel,596,Sales,2,1,Medical,3,Male,77,3,3,VP Sales,2,Single,17725801,10000,3,Yes,2.48,3,3,0,4,1,1,4.8,4.8,0.6,2.7,0.111,0.828,0.172,0.469
+56,0,Non-Travel,584,Finance,14,3,Other,3,Female,79,1,4,Analyst,4,Divorced,25000000,10000,1,No,2.78,2,4,1,25,3,2,7.9,7.9,0.8,0.5,0.095,0.888,0.113,0.056
+22,0,Travel Rarely,407,Operations,6,2,Other,2,Male,55,4,1,Director of Ops,2,Married,25000000,8545,1,No,0.65,3,2,1,18,2,3,10.0,0.7,0.2,0.7,0.02,0.062,0.102,0.062
+23,0,Travel Rarely,313,Finance,16,1,Technical Degree,1,Female,33,2,4,Controller,3,Divorced,22016362,6516,3,No,3.96,4,1,1,1,6,1,1.2,1.2,0.7,1.2,0.313,0.542,2.748,0.542
+43,0,Non-Travel,264,Sales,4,2,Technical Degree,1,Female,28,2,2,VP Sales,1,Single,25000000,5245,1,Yes,2.86,3,3,1,21,4,3,2.7,2.7,0.3,0.5,0.086,0.731,0.175,0.135
+57,0,Travel Rarely,735,Finance,4,3,Business,3,Male,91,1,2,Financial Manager,3,Divorced,25000000,10000,2,No,4.61,3,1,1,25,3,4,6.7,0.5,0.1,1.2,0.016,0.065,0.113,0.157
+35,0,Non-Travel,588,Finance,30,2,Life Sciences,1,Female,76,3,4,CFO,3,Single,24823716,10000,1,No,1.51,3,2,1,8,1,1,2.3,1.8,1.8,1.0,0.543,0.551,0.1,0.306
+22,1,Non-Travel,455,R&D,5,2,Business,3,Male,54,1,1,Research Lead,1,Married,20382940,8884,1,Yes,5.92,3,2,1,11,4,2,3.5,3.5,1.9,0.7,0.431,0.775,0.327,0.155
+34,0,Non-Travel,674,Operations,9,4,Life Sciences,1,Male,86,3,1,Process Engineer,3,Divorced,25000000,10000,1,Yes,2.41,3,1,1,21,5,1,16.6,1.4,0.1,2.1,0.007,0.078,0.226,0.118
+22,0,Travel Frequently,606,R&D,3,4,Life Sciences,3,Female,73,4,2,Technical Architect,4,Married,25000000,10000,3,No,3.4,3,2,2,22,0,2,5.1,1.9,0.6,1.1,0.104,0.307,0.0,0.18
+33,0,Non-Travel,585,Finance,8,4,Technical Degree,1,Female,70,3,2,Senior Analyst,4,Married,25000000,10000,1,No,3.91,4,4,2,9,6,3,9.6,6.9,2.8,0.5,0.269,0.653,0.561,0.047
+48,0,Non-Travel,744,Operations,5,2,Business,2,Male,92,4,3,Director of Ops,4,Single,18592366,10000,1,Yes,1.54,4,3,0,0,3,1,0.5,0.5,0.0,0.5,0.0,0.333,1.79,0.333
+40,0,Non-Travel,193,R&D,6,3,Other,3,Female,22,3,3,Software Engineer,2,Married,25000000,3640,3,Yes,0.0,4,1,2,14,2,4,1.8,1.1,0.2,0.5,0.069,0.403,0.131,0.179
+31,0,Non-Travel,715,Sales,5,3,Medical,3,Male,82,4,5,VP Sales,1,Divorced,25000000,10000,1,No,2.62,4,3,3,16,2,2,7.3,7.3,4.8,0.5,0.578,0.88,0.112,0.06
+28,0,Non-Travel,323,Sales,4,2,Medical,3,Male,36,3,1,Account Manager,2,Single,22965461,6224,1,Yes,1.62,3,2,0,13,4,2,3.0,1.1,2.5,1.6,0.626,0.268,0.27,0.39
+34,0,Non-Travel,325,R&D,10,2,Other,2,Female,44,1,3,Technical Architect,3,Single,21009596,6494,1,No,2.11,3,3,1,8,3,3,8.1,1.6,0.1,3.0,0.01,0.174,0.33,0.33
+42,0,Non-Travel,332,Operations,30,1,Business,3,Female,32,2,2,Process Engineer,2,Married,20654374,7096,3,Yes,2.9,2,4,0,14,1,3,8.2,1.8,0.2,3.8,0.018,0.194,0.063,0.412
+44,0,Non-Travel,243,Finance,13,1,Life Sciences,3,Male,34,1,2,CFO,3,Divorced,25000000,5036,1,No,2.37,3,4,1,14,0,4,14.8,0.5,0.2,2.3,0.012,0.032,0.0,0.145
+51,0,Non-Travel,141,Finance,6,4,Business,2,Male,31,1,2,Analyst,4,Single,25000000,3289,2,No,3.52,4,4,1,25,4,2,2.1,2.1,1.6,0.5,0.515,0.676,0.15,0.162
+44,0,Travel Rarely,106,Operations,5,1,Other,3,Male,20,3,4,Process Engineer,3,Divorced,25000000,2377,2,No,2.19,4,3,1,18,3,3,13.2,1.0,0.0,2.9,0.001,0.068,0.155,0.201
+58,0,Travel Rarely,629,R&D,13,3,Technical Degree,3,Male,80,4,4,Product Manager,4,Married,25000000,10000,4,No,2.66,2,1,2,20,1,2,6.1,2.7,0.9,1.9,0.129,0.385,0.047,0.262
+45,0,Travel Frequently,469,Sales,1,1,Life Sciences,3,Female,60,2,3,Account Manager,2,Divorced,25000000,9745,4,No,2.5,3,4,2,22,1,2,5.4,2.6,0.3,2.4,0.05,0.406,0.043,0.38
+39,0,Non-Travel,1199,HR,11,1,Technical Degree,2,Female,150,4,2,HR Manager,4,Married,17063421,10000,2,No,4.88,2,4,2,11,2,1,6.5,2.5,0.8,6.2,0.101,0.33,0.164,0.824
+43,0,Travel Rarely,951,HR,17,2,Other,4,Female,124,2,4,HR Manager,3,Married,25000000,10000,1,No,1.83,3,2,1,12,1,2,6.9,2.3,0.9,3.2,0.11,0.287,0.073,0.401
+44,0,Travel Frequently,351,Sales,2,3,Other,2,Male,37,3,4,Regional Director,4,Married,25000000,7305,1,Yes,0.0,4,3,0,9,3,2,2.6,2.6,0.3,2.6,0.095,0.721,0.279,0.721
+33,0,Travel Frequently,281,Operations,7,4,Other,4,Female,39,3,2,Operations Specialist,1,Divorced,25000000,5666,3,No,3.8,4,2,2,16,2,2,4.8,4.8,0.1,1.5,0.015,0.826,0.116,0.265
+37,0,Travel Rarely,921,HR,2,1,Life Sciences,3,Female,125,3,2,HR Manager,4,Married,19547657,10000,2,No,2.4,4,4,1,3,2,3,3.7,0.7,0.1,3.1,0.031,0.149,0.424,0.652
+45,0,Non-Travel,858,HR,13,3,Life Sciences,4,Male,102,2,1,Recruiter,3,Divorced,20693068,10000,1,No,1.92,3,4,1,11,0,1,2.7,2.7,0.8,1.0,0.211,0.733,0.0,0.272
+25,0,Non-Travel,662,Operations,12,3,Life Sciences,2,Female,91,4,4,VP Operations,3,Divorced,18096313,10000,1,Yes,3.78,2,4,1,7,2,2,1.0,1.0,0.2,1.0,0.105,0.488,0.242,0.488
+22,0,Non-Travel,220,R&D,30,4,Other,1,Female,28,3,3,Product Manager,4,Single,12916666,4798,2,Yes,0.81,3,3,1,0,2,4,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+56,0,Non-Travel,754,Sales,11,2,Medical,3,Male,81,4,1,Account Manager,3,Married,25000000,10000,1,Yes,1.31,4,3,1,17,3,1,12.2,11.8,5.0,1.0,0.379,0.896,0.16,0.073
+36,1,Travel Frequently,617,Operations,28,1,Business,2,Female,74,4,4,Operations Manager,2,Single,21061263,10000,2,Yes,2.1,3,1,2,5,2,2,5.2,3.7,0.3,1.0,0.045,0.593,0.321,0.153
+29,0,Travel Frequently,887,Sales,5,3,Medical,3,Male,116,2,3,Sales Manager,3,Single,25000000,10000,1,No,0.79,4,2,1,17,1,2,17.4,0.9,0.1,6.4,0.004,0.047,0.053,0.349
+50,0,Travel Rarely,678,Operations,12,4,Medical,2,Female,88,1,3,VP Operations,3,Married,25000000,10000,1,No,2.39,2,3,0,25,0,4,5.8,0.8,0.0,3.2,0.002,0.116,0.0,0.465
+43,0,Travel Frequently,448,Operations,11,1,Technical Degree,2,Female,56,2,3,VP Operations,4,Married,22541169,9204,2,Yes,2.69,2,2,1,14,2,3,14.6,1.2,0.2,2.3,0.013,0.078,0.128,0.148
+33,0,Non-Travel,208,Sales,5,1,Life Sciences,4,Female,27,3,2,Regional Director,3,Divorced,15833333,4438,1,No,0.98,4,2,0,0,0,2,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+44,0,Non-Travel,374,HR,6,3,Other,2,Female,34,2,2,Chief People Officer,2,Divorced,25000000,7898,2,No,0.66,3,3,2,26,2,1,2.0,0.5,0.6,2.0,0.187,0.169,0.072,0.661
+52,0,Non-Travel,377,Operations,4,1,Business,2,Female,42,3,1,VP Operations,2,Divorced,23875637,7835,1,No,3.05,3,2,2,14,1,2,0.5,0.5,0.0,0.5,0.0,0.333,0.064,0.333
+59,0,Travel Rarely,443,R&D,4,2,Life Sciences,2,Female,52,1,2,Product Manager,3,Single,25000000,9106,4,No,2.64,3,4,1,21,2,2,1.2,1.2,0.7,1.2,0.307,0.538,0.09,0.538
+44,0,Travel Frequently,262,Operations,23,2,Life Sciences,2,Female,37,2,2,VP Operations,4,Married,25000000,5026,1,No,1.38,3,1,0,17,1,2,10.0,6.8,1.1,2.1,0.101,0.612,0.055,0.192
+42,0,Travel Frequently,1246,Sales,1,4,Technical Degree,4,Female,150,3,4,Regional Director,3,Divorced,25000000,10000,1,No,2.52,2,2,1,14,2,1,4.2,4.2,1.4,0.5,0.276,0.808,0.13,0.096
+31,0,Travel Rarely,565,HR,4,4,Life Sciences,3,Male,67,2,2,Chief People Officer,3,Married,25000000,10000,3,No,3.9,3,3,3,15,3,3,11.8,5.7,0.4,7.9,0.028,0.447,0.183,0.614
+46,0,Non-Travel,203,Sales,8,5,Technical Degree,2,Male,23,4,1,Account Manager,1,Divorced,25000000,4413,1,No,1.37,3,3,1,19,1,2,2.4,2.4,0.4,1.1,0.12,0.702,0.049,0.335
+43,0,Travel Rarely,242,Finance,4,3,Technical Degree,3,Male,38,1,4,Senior Analyst,3,Married,25000000,4697,1,No,3.58,3,2,2,15,0,3,9.1,3.2,0.3,9.1,0.031,0.319,0.0,0.901
+47,0,Non-Travel,463,R&D,2,3,Medical,3,Male,65,4,2,Product Manager,1,Divorced,25000000,9760,1,No,2.24,4,2,0,10,1,3,4.4,2.1,0.9,4.4,0.161,0.4,0.086,0.813
+44,0,Travel Rarely,272,HR,1,3,Business,3,Female,39,4,2,Recruiter,2,Married,25000000,6124,2,No,1.22,3,3,1,16,3,1,8.4,2.0,1.3,2.2,0.134,0.214,0.167,0.236
+52,0,Travel Rarely,368,HR,1,1,Life Sciences,3,Male,39,2,4,Recruiter,2,Married,20833333,7854,4,No,1.19,4,3,0,0,1,3,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+35,0,Non-Travel,305,R&D,16,4,Technical Degree,4,Male,30,1,4,Software Engineer,2,Divorced,25000000,5961,2,Yes,1.6,3,4,1,25,2,4,19.4,2.1,0.0,0.9,0.0,0.103,0.077,0.044
+22,0,Non-Travel,285,Finance,1,2,Business,2,Male,40,4,2,Analyst,2,Divorced,25000000,6002,1,No,1.22,3,2,0,19,2,3,3.2,0.9,0.2,1.4,0.053,0.219,0.097,0.345
+34,0,Travel Rarely,343,Sales,1,2,Life Sciences,4,Male,45,3,1,Sales Executive,2,Divorced,17949897,7343,2,Yes,1.76,3,2,1,8,1,3,3.5,1.5,0.0,1.7,0.003,0.338,0.102,0.38
+36,0,Travel Rarely,221,R&D,7,5,Other,3,Female,32,2,3,Product Manager,3,Single,25000000,4487,2,No,0.43,3,4,0,21,1,3,7.1,1.0,0.2,7.0,0.028,0.122,0.044,0.861
+32,0,Non-Travel,894,HR,4,3,Technical Degree,2,Male,113,4,3,HR Specialist,4,Married,17699726,10000,3,No,3.87,1,4,1,14,3,3,13.3,1.0,0.3,1.7,0.024,0.067,0.19,0.12
+37,0,Travel Rarely,593,Operations,1,4,Technical Degree,4,Male,77,3,1,VP Operations,4,Divorced,11552557,10000,2,Yes,2.7,2,3,2,7,3,2,0.5,0.5,0.0,0.5,0.007,0.338,0.358,0.338
+40,0,Travel Frequently,347,Operations,10,4,Other,3,Female,48,3,3,Operations Specialist,1,Single,25000000,7041,1,No,4.51,4,2,0,12,3,2,12.0,0.9,0.4,4.1,0.034,0.072,0.23,0.317
+55,0,Travel Frequently,584,R&D,30,3,Life Sciences,3,Male,73,1,1,Software Engineer,2,Single,25000000,10000,3,No,3.38,3,2,2,20,1,4,3.9,0.5,0.1,2.8,0.014,0.103,0.046,0.569
+24,0,Non-Travel,776,HR,8,3,Life Sciences,1,Male,95,2,1,Recruiter,1,Divorced,25000000,10000,1,No,1.27,3,2,1,21,3,3,4.2,3.9,3.2,3.0,0.622,0.749,0.132,0.576
+22,0,Travel Frequently,404,Finance,30,4,Business,3,Female,52,4,4,Senior Analyst,4,Single,25000000,9203,3,No,5.12,3,4,1,11,1,3,11.5,5.9,0.8,3.8,0.06,0.475,0.08,0.301
+57,0,Travel Frequently,1100,R&D,7,2,Business,1,Male,139,4,2,Technical Architect,3,Single,25000000,10000,1,No,3.13,3,4,0,21,2,3,1.9,0.6,0.2,1.2,0.058,0.196,0.09,0.413
+37,0,Travel Rarely,143,Finance,15,1,Life Sciences,2,Male,28,4,1,Analyst,3,Married,12984165,2803,2,No,1.45,3,4,1,3,2,1,3.8,0.5,0.3,0.9,0.06,0.104,0.415,0.183
+22,0,Non-Travel,591,Finance,9,4,Business,2,Female,68,3,1,CFO,1,Married,12854807,10000,3,No,2.33,3,4,3,3,7,2,0.5,0.5,0.0,0.5,0.0,0.333,1.493,0.333
+43,0,Travel Frequently,281,R&D,3,3,Life Sciences,3,Female,35,1,1,Software Engineer,4,Married,25000000,6020,4,Yes,0.83,3,4,1,25,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.113,0.333
+34,1,Travel Rarely,324,Operations,11,3,Life Sciences,1,Male,36,4,3,Operations Manager,4,Married,25000000,6544,2,No,1.09,3,4,3,16,0,1,6.8,3.1,3.9,0.8,0.494,0.402,0.0,0.104
+24,0,Travel Frequently,153,R&D,1,3,Life Sciences,3,Male,20,3,1,Research Lead,2,Divorced,22782380,3036,1,No,1.1,3,4,2,13,1,1,1.1,0.9,0.4,1.1,0.197,0.441,0.068,0.526
+22,0,Non-Travel,580,R&D,1,3,Medical,3,Female,69,3,2,Software Engineer,3,Married,25000000,10000,3,No,3.07,4,3,0,20,5,2,1.8,0.5,1.3,0.9,0.461,0.18,0.232,0.316
+55,0,Travel Frequently,771,Operations,7,3,Medical,2,Female,92,1,3,Process Engineer,4,Married,18495949,10000,3,No,3.02,3,3,0,5,1,1,4.6,4.6,0.9,0.5,0.153,0.82,0.152,0.09
+59,0,Travel Frequently,226,Operations,16,3,Life Sciences,4,Female,37,4,2,Operations Specialist,2,Single,25000000,4962,1,No,3.12,4,2,1,10,6,3,10.1,10.1,0.8,1.0,0.073,0.91,0.542,0.094
+29,0,Travel Rarely,219,HR,16,3,Business,4,Female,32,2,2,Chief People Officer,1,Single,19621601,4570,3,No,3.11,1,4,0,18,3,3,4.0,0.5,0.3,0.7,0.062,0.1,0.152,0.133
+37,1,Travel Rarely,725,R&D,27,3,Technical Degree,2,Female,90,3,2,Technical Architect,1,Single,25000000,10000,2,Yes,0.97,3,4,1,14,1,2,14.7,3.9,0.7,0.8,0.044,0.248,0.063,0.049
+53,1,Travel Rarely,100,HR,30,4,Other,4,Female,22,1,2,Chief People Officer,1,Married,17367199,2171,1,Yes,3.91,3,4,0,6,3,1,6.5,1.2,1.1,4.4,0.143,0.161,0.398,0.589
+37,0,Travel Rarely,1262,Sales,9,3,Medical,1,Male,150,3,3,Account Manager,3,Divorced,13480325,10000,2,No,0.89,2,1,0,5,5,2,2.8,2.8,0.4,2.8,0.112,0.739,0.762,0.739
+31,0,Travel Frequently,690,Sales,1,3,Medical,3,Female,82,1,2,Regional Director,4,Married,16762241,10000,4,Yes,2.18,4,3,2,0,1,2,0.9,0.5,0.4,0.9,0.222,0.259,0.518,0.482
+47,0,Travel Frequently,922,R&D,16,2,Business,4,Female,112,3,4,Data Scientist,3,Divorced,25000000,10000,2,No,0.0,1,3,0,21,7,1,1.9,1.9,1.4,0.6,0.474,0.65,0.313,0.216
+38,0,Non-Travel,104,Sales,7,3,Medical,2,Male,25,1,2,VP Sales,1,Single,25000000,2607,1,No,4.47,3,4,1,17,2,3,17.7,6.9,1.6,0.5,0.084,0.367,0.107,0.027
+45,0,Non-Travel,1225,R&D,30,1,Technical Degree,2,Female,150,1,2,Product Manager,2,Married,15105154,10000,1,Yes,2.39,3,3,0,4,4,2,4.3,0.5,0.0,0.9,0.007,0.095,0.759,0.165
+44,0,Travel Rarely,1264,Finance,8,3,Life Sciences,3,Female,150,3,5,Controller,2,Divorced,25000000,10000,1,No,1.82,4,2,2,13,3,2,11.4,0.5,0.2,11.4,0.018,0.04,0.207,0.919
+59,0,Travel Frequently,337,Finance,3,4,Medical,2,Female,55,3,2,Financial Manager,3,Single,25000000,7129,1,No,1.95,4,2,1,18,2,1,1.7,1.7,1.2,1.7,0.451,0.634,0.103,0.634
+40,0,Travel Frequently,282,Operations,12,1,Technical Degree,4,Female,26,3,3,Process Engineer,1,Divorced,25000000,5712,3,Yes,2.6,3,2,2,26,2,3,11.7,5.2,0.6,10.1,0.048,0.41,0.072,0.794
+38,0,Travel Frequently,273,Sales,23,2,Other,3,Female,34,2,3,VP Sales,2,Married,25000000,5156,1,No,1.42,4,2,3,17,0,4,3.5,0.5,0.2,1.5,0.035,0.116,0.0,0.331
+45,0,Travel Frequently,298,Operations,4,5,Medical,2,Male,25,2,5,Operations Specialist,2,Married,24880396,6668,2,No,1.62,2,3,2,9,2,2,1.7,1.7,0.4,1.7,0.133,0.626,0.184,0.626
+38,0,Travel Rarely,744,Operations,7,3,Medical,3,Female,92,2,2,Operations Manager,2,Married,10833333,10000,1,No,0.49,3,2,3,0,4,1,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+37,0,Travel Frequently,356,R&D,21,3,Other,4,Female,31,1,3,Technical Architect,3,Married,20984186,7758,1,No,4.25,3,3,0,8,1,2,3.9,0.5,0.3,3.8,0.063,0.102,0.11,0.776
+22,0,Travel Rarely,235,R&D,9,3,Technical Degree,2,Female,28,3,3,Data Scientist,3,Single,25000000,4695,1,Yes,2.12,4,3,0,16,1,4,8.4,5.4,0.8,2.2,0.084,0.577,0.058,0.235
+22,0,Non-Travel,739,Finance,3,4,Business,3,Male,94,1,3,Analyst,3,Married,25000000,10000,2,No,3.82,3,1,0,16,1,3,16.2,3.4,0.7,6.2,0.04,0.196,0.058,0.363
+29,0,Non-Travel,967,HR,11,3,Life Sciences,3,Male,112,1,1,HR Specialist,2,Divorced,25000000,10000,2,No,1.7,3,4,0,18,2,1,1.8,1.8,1.3,1.7,0.47,0.647,0.105,0.611
+22,0,Travel Frequently,279,HR,1,2,Life Sciences,4,Female,47,1,3,Recruiter,4,Divorced,23320872,6065,2,No,1.82,4,4,1,5,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.625,0.333
+38,0,Travel Rarely,218,Operations,14,2,Life Sciences,3,Male,30,2,3,Director of Ops,2,Divorced,25000000,4231,1,No,3.02,3,4,2,13,2,2,4.5,0.5,0.1,0.5,0.016,0.091,0.14,0.091
+57,0,Non-Travel,366,Operations,13,1,Business,3,Male,39,3,1,Process Engineer,3,Divorced,24584388,7420,2,No,4.05,3,3,1,15,2,1,2.6,2.5,2.1,1.4,0.587,0.679,0.122,0.386
+22,0,Non-Travel,1012,Sales,5,2,Medical,2,Female,119,4,3,Regional Director,1,Married,25000000,10000,2,Yes,3.14,4,3,1,17,3,1,0.9,0.9,0.4,0.9,0.2,0.467,0.166,0.467
+37,0,Non-Travel,218,HR,24,3,Business,1,Male,20,1,1,Chief People Officer,2,Divorced,23145019,5198,3,No,1.59,3,3,0,13,1,2,12.7,0.5,0.2,12.2,0.014,0.037,0.067,0.893
+43,0,Non-Travel,855,Finance,5,3,Business,3,Male,110,3,5,Senior Analyst,3,Divorced,25000000,10000,1,No,4.19,3,4,1,19,0,1,2.0,1.4,0.1,0.6,0.031,0.462,0.0,0.198
+41,0,Non-Travel,656,R&D,2,3,Business,2,Female,90,3,2,Research Lead,4,Divorced,5571764,10000,2,Yes,2.44,1,3,1,4,4,1,4.7,2.2,0.1,3.0,0.01,0.376,0.697,0.528
+39,0,Non-Travel,254,Finance,5,2,Life Sciences,2,Male,25,3,2,CFO,2,Divorced,21567772,5202,1,No,4.02,3,1,0,10,0,2,1.6,1.6,0.5,0.5,0.201,0.617,0.0,0.191
+30,0,Non-Travel,635,Sales,20,2,Medical,3,Male,76,2,4,Account Manager,3,Single,25000000,10000,2,No,3.57,3,2,1,19,2,2,0.7,0.7,0.2,0.7,0.12,0.413,0.099,0.413
+40,0,Non-Travel,830,Sales,6,2,Medical,2,Male,110,1,1,Sales Manager,1,Divorced,9166666,10000,2,Yes,4.96,3,2,1,0,3,4,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+49,0,Travel Rarely,1157,Sales,1,1,Technical Degree,3,Male,150,4,4,Regional Director,4,Married,25000000,10000,1,Yes,1.17,4,3,1,9,0,2,1.0,1.0,0.0,1.0,0.019,0.507,0.0,0.507
+48,0,Travel Rarely,795,R&D,30,2,Other,4,Female,107,1,3,Software Engineer,3,Single,25000000,10000,2,No,4.29,3,4,1,21,1,4,7.1,4.8,0.3,0.5,0.039,0.585,0.044,0.062
+47,0,Travel Frequently,1184,HR,4,4,Business,3,Male,150,3,2,HR Specialist,4,Single,25000000,10000,3,No,3.24,3,2,0,16,2,4,0.8,0.8,0.3,0.8,0.182,0.455,0.114,0.455
+40,0,Non-Travel,110,Finance,1,4,Other,1,Male,21,3,4,Financial Manager,1,Married,25000000,1879,2,No,2.47,4,1,0,5,3,2,4.8,2.1,0.4,4.8,0.075,0.365,0.472,0.827
+37,0,Travel Rarely,226,R&D,9,3,Other,3,Female,31,4,4,Software Engineer,4,Divorced,9699725,4733,3,No,2.14,1,1,0,3,4,2,3.9,3.9,3.4,3.9,0.692,0.795,0.822,0.795
+22,0,Travel Frequently,502,Sales,13,3,Life Sciences,2,Female,54,2,2,Sales Executive,2,Divorced,25000000,10000,4,Yes,3.12,3,3,2,19,0,2,1.7,0.5,0.6,1.7,0.205,0.185,0.0,0.63
+22,0,Travel Rarely,536,Sales,30,4,Technical Degree,2,Female,64,1,3,Regional Director,3,Single,25000000,10000,2,No,2.18,3,3,0,20,6,1,2.7,2.7,1.2,1.1,0.341,0.726,0.281,0.308
+44,0,Travel Frequently,100,Sales,5,1,Technical Degree,4,Female,22,4,5,VP Sales,4,Single,25000000,2327,3,No,2.09,2,2,0,16,4,1,0.5,0.5,0.0,0.5,0.0,0.333,0.224,0.333
+23,0,Travel Rarely,245,Finance,1,1,Business,2,Female,26,4,3,Analyst,2,Married,25000000,5314,1,No,3.7,4,4,1,17,2,2,2.7,1.5,0.2,2.2,0.062,0.396,0.109,0.592
+44,0,Non-Travel,100,R&D,2,3,Medical,2,Male,20,2,1,Research Lead,3,Divorced,25000000,2230,1,Yes,1.66,4,3,1,26,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.148,0.333
+28,0,Travel Frequently,993,Finance,1,2,Business,1,Male,122,1,4,CFO,3,Single,25000000,10000,5,No,4.11,2,1,2,19,1,2,6.6,2.2,0.7,3.0,0.098,0.29,0.048,0.397
+37,0,Travel Rarely,631,Sales,30,5,Business,3,Female,73,1,1,Sales Executive,2,Single,25000000,10000,2,No,2.02,3,2,2,21,2,1,18.5,8.0,0.7,3.4,0.034,0.411,0.091,0.175
+55,0,Travel Frequently,174,R&D,5,1,Technical Degree,2,Male,27,2,2,Data Scientist,4,Single,12191322,3959,1,No,3.18,2,2,2,6,1,2,2.7,1.2,1.5,0.5,0.399,0.327,0.136,0.135
+41,0,Travel Frequently,921,HR,5,5,Technical Degree,4,Female,104,3,1,Recruiter,3,Married,2500000,10000,1,No,2.01,1,4,1,1,1,1,1.9,0.7,0.1,1.9,0.036,0.227,0.343,0.657
+22,0,Travel Frequently,276,Sales,4,4,Other,4,Female,33,3,3,Sales Manager,3,Divorced,25000000,5703,1,No,1.21,4,3,1,14,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.254,0.333
+39,0,Non-Travel,525,Operations,10,4,Other,3,Male,69,3,2,Operations Specialist,2,Single,24649036,10000,3,No,3.13,3,3,0,13,3,4,0.6,0.6,0.1,0.6,0.088,0.392,0.202,0.392
+43,0,Travel Rarely,265,Finance,4,1,Other,3,Male,36,3,5,Analyst,4,Single,25000000,5636,4,Yes,2.45,3,4,0,11,3,2,2.4,2.4,1.5,2.0,0.442,0.706,0.241,0.599
+40,0,Travel Rarely,209,Finance,1,1,Medical,2,Female,29,4,1,Financial Manager,3,Single,17074815,4043,1,No,0.0,2,2,3,12,1,2,4.5,1.2,0.2,0.9,0.04,0.222,0.072,0.165
+44,0,Travel Frequently,561,HR,4,2,Technical Degree,3,Female,66,2,3,HR Specialist,3,Divorced,25000000,10000,1,No,2.39,3,4,1,17,2,3,16.5,5.3,0.8,0.5,0.045,0.305,0.111,0.029
+22,0,Travel Rarely,229,Finance,6,2,Life Sciences,4,Male,29,4,4,Controller,1,Single,21946177,5211,1,Yes,1.74,3,3,0,6,3,2,6.1,2.2,0.4,3.3,0.052,0.313,0.422,0.461
+44,0,Travel Rarely,838,HR,7,3,Technical Degree,4,Female,105,3,3,Chief People Officer,2,Married,25000000,10000,1,No,1.83,3,2,0,13,4,1,4.2,4.2,0.4,1.2,0.082,0.807,0.275,0.236
+45,0,Travel Frequently,142,Finance,2,2,Technical Degree,3,Male,20,2,2,Financial Manager,2,Divorced,25000000,2908,1,No,2.79,3,2,2,22,2,3,6.0,1.0,0.1,2.8,0.018,0.146,0.086,0.41
+39,0,Travel Rarely,717,HR,11,4,Technical Degree,3,Male,91,3,2,HR Manager,3,Divorced,25000000,10000,1,No,2.41,4,4,2,15,3,3,5.9,1.6,2.1,1.1,0.298,0.238,0.183,0.161
+42,0,Non-Travel,650,HR,14,4,Medical,2,Male,79,1,4,HR Specialist,1,Married,25000000,10000,2,No,3.89,3,3,3,22,3,1,0.7,0.5,0.2,0.7,0.134,0.289,0.13,0.423
+22,0,Travel Rarely,551,Finance,13,4,Life Sciences,1,Female,72,1,1,Controller,3,Single,25000000,10000,1,No,5.14,4,1,1,16,2,1,1.2,0.5,0.4,1.2,0.183,0.235,0.117,0.548
+35,0,Non-Travel,1317,HR,7,4,Medical,1,Female,150,3,3,Chief People Officer,4,Divorced,17522103,10000,2,No,3.31,3,3,1,4,1,3,0.7,0.7,0.0,0.7,0.019,0.395,0.178,0.395
+51,0,Non-Travel,211,Finance,3,2,Other,3,Male,24,3,2,Senior Analyst,4,Divorced,25000000,4257,2,Yes,2.37,4,2,0,19,0,2,4.0,2.5,0.5,2.2,0.106,0.498,0.0,0.442
+47,0,Non-Travel,342,Finance,11,2,Life Sciences,3,Female,46,2,2,CFO,1,Married,25000000,7153,4,Yes,3.59,4,3,3,23,0,2,7.3,1.3,0.3,1.4,0.037,0.161,0.0,0.163
+40,0,Travel Rarely,374,R&D,1,2,Medical,3,Male,45,3,3,Product Manager,4,Single,7916666,7714,1,Yes,1.68,2,1,1,0,2,2,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+47,0,Non-Travel,1157,R&D,6,2,Business,4,Female,150,3,4,Research Lead,4,Single,25000000,10000,1,Yes,2.78,3,2,2,10,3,4,6.6,1.9,0.2,3.9,0.023,0.252,0.258,0.517
+26,0,Non-Travel,419,R&D,10,2,Medical,3,Male,60,2,1,Software Engineer,4,Single,14166666,8755,1,No,1.96,4,1,1,0,6,1,0.0,0.0,-0.5,0.0,-0.5,0.0,6.0,0.0
+51,0,Travel Frequently,118,Sales,12,5,Technical Degree,2,Male,24,3,1,Regional Director,2,Single,25000000,2576,2,Yes,4.14,4,3,1,20,2,2,3.2,3.2,2.7,0.5,0.642,0.761,0.091,0.119
+51,0,Travel Frequently,682,Sales,30,4,Life Sciences,2,Female,87,2,1,Sales Manager,1,Single,17938068,10000,2,Yes,1.82,4,3,1,3,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.419,0.333
+27,1,Travel Frequently,513,R&D,7,3,Medical,2,Female,52,3,5,Research Lead,2,Divorced,25000000,10000,3,Yes,1.99,3,3,1,5,0,1,5.2,5.2,1.7,5.2,0.268,0.839,0.0,0.839
+60,0,Non-Travel,552,R&D,11,3,Medical,3,Female,58,3,2,Software Engineer,3,Married,25000000,10000,5,No,3.79,4,4,2,16,2,2,11.2,11.2,1.7,3.5,0.139,0.918,0.117,0.29
+40,0,Travel Rarely,103,Sales,19,2,Business,1,Male,23,4,1,Sales Manager,3,Single,23425496,2128,3,No,3.82,3,3,1,14,2,1,5.8,5.8,0.5,1.2,0.075,0.854,0.131,0.168
+42,0,Non-Travel,477,Sales,4,5,Other,2,Female,56,3,3,Regional Director,2,Married,17916666,10000,3,No,3.87,4,2,2,0,2,1,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+22,0,Non-Travel,127,HR,12,2,Medical,3,Male,20,1,1,HR Director,1,Divorced,24590246,2505,1,Yes,2.49,3,2,0,15,1,4,4.0,2.1,0.4,3.3,0.076,0.428,0.061,0.654
+30,0,Travel Rarely,1256,Finance,17,2,Business,1,Female,137,4,3,Controller,4,Married,25000000,10000,1,Yes,2.48,4,4,2,9,3,3,2.9,2.9,0.1,1.1,0.024,0.743,0.299,0.281
+37,0,Non-Travel,1112,Finance,13,2,Business,1,Male,137,2,3,Senior Analyst,3,Married,25000000,10000,2,No,1.92,3,3,2,18,5,1,13.9,0.5,0.1,5.7,0.006,0.034,0.261,0.386
+22,0,Non-Travel,795,Finance,7,4,Medical,4,Female,96,3,3,CFO,2,Divorced,25000000,10000,4,No,1.37,3,3,0,34,3,2,10.4,5.1,0.8,0.5,0.067,0.448,0.084,0.044
+31,0,Travel Rarely,322,Operations,1,4,Other,3,Male,33,1,3,Operations Specialist,2,Single,25000000,6992,4,No,3.15,4,3,1,18,2,3,4.6,0.5,0.0,4.6,0.002,0.09,0.101,0.82
+35,0,Travel Frequently,1266,HR,23,4,Medical,2,Male,150,2,1,HR Specialist,4,Married,24880999,10000,1,No,2.61,3,2,3,15,0,3,0.5,0.5,0.0,0.5,0.0,0.333,0.0,0.333
+58,0,Non-Travel,249,Sales,9,2,Technical Degree,1,Female,31,2,2,VP Sales,2,Divorced,25000000,5443,1,No,3.25,3,3,2,15,3,2,2.8,2.8,2.2,2.8,0.587,0.738,0.177,0.738
+35,0,Travel Frequently,199,Operations,1,3,Technical Degree,1,Male,33,2,3,Process Engineer,3,Divorced,25000000,4136,1,No,2.17,3,2,2,19,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.192,0.333
+55,0,Travel Rarely,830,Sales,1,3,Business,4,Male,115,2,4,Regional Director,3,Married,23527414,10000,1,Yes,1.71,4,3,1,2,0,4,0.6,0.6,0.1,0.6,0.088,0.392,0.0,0.392
+34,0,Non-Travel,267,Sales,8,2,Other,4,Female,37,4,2,Account Manager,1,Married,20499519,5564,3,No,1.35,3,3,1,9,2,3,9.7,7.2,0.0,0.5,0.001,0.672,0.188,0.047
+31,0,Travel Frequently,1043,Operations,10,4,Medical,4,Female,124,1,1,Process Engineer,1,Married,19657318,10000,2,No,1.51,3,1,2,10,4,1,0.5,0.5,0.0,0.5,0.0,0.333,0.348,0.333
+41,0,Travel Rarely,1206,Finance,8,3,Life Sciences,2,Male,150,3,1,Senior Analyst,3,Single,14764252,10000,1,No,2.42,2,2,1,10,1,1,1.6,0.9,0.5,1.6,0.186,0.363,0.086,0.611
+43,0,Travel Rarely,148,Operations,26,2,Business,2,Female,20,1,2,Director of Ops,2,Divorced,20192124,3057,1,No,3.78,4,3,1,4,2,4,3.8,3.8,0.7,3.8,0.139,0.792,0.373,0.792
+23,0,Non-Travel,374,HR,11,2,Other,2,Male,41,2,2,Recruiter,1,Married,25000000,7581,2,No,5.0,4,3,1,12,2,1,7.3,3.7,0.8,2.5,0.093,0.45,0.144,0.305
+39,0,Travel Frequently,743,R&D,16,4,Other,3,Female,84,3,3,Technical Architect,3,Single,25000000,10000,5,No,3.28,3,3,0,13,4,1,2.3,2.3,1.8,0.5,0.546,0.697,0.281,0.151
+48,0,Non-Travel,714,Sales,28,4,Life Sciences,2,Male,97,3,4,Sales Manager,4,Divorced,25000000,10000,1,No,3.01,3,3,1,33,1,3,1.7,1.7,0.7,0.5,0.268,0.627,0.029,0.186
+25,0,Non-Travel,344,R&D,4,4,Business,3,Female,51,3,2,Data Scientist,3,Single,25000000,7428,2,Yes,3.42,3,3,2,17,4,2,6.2,3.0,2.0,1.8,0.283,0.411,0.221,0.251
+34,0,Travel Frequently,100,Finance,14,2,Life Sciences,1,Female,28,3,1,Financial Manager,2,Divorced,25000000,2034,2,Yes,0.63,3,4,1,23,1,1,0.9,0.5,0.4,0.5,0.225,0.258,0.041,0.258
+48,0,Travel Frequently,1148,Operations,10,4,Technical Degree,2,Male,150,3,1,Operations Manager,4,Divorced,25000000,10000,4,No,2.4,4,2,1,14,4,4,2.9,2.5,2.4,2.9,0.619,0.641,0.255,0.746
+49,0,Non-Travel,481,Finance,12,3,Business,3,Female,58,4,5,Analyst,1,Single,21897198,10000,1,No,2.68,3,4,2,1,1,1,1.9,0.9,0.1,1.9,0.028,0.325,0.345,0.655
+58,0,Travel Rarely,417,R&D,15,3,Business,3,Female,53,1,2,Research Lead,2,Married,14388613,9212,1,No,3.35,3,2,1,3,3,1,3.6,0.5,0.1,3.6,0.014,0.11,0.659,0.78
+40,0,Travel Frequently,175,Finance,1,4,Medical,2,Female,26,3,1,Senior Analyst,2,Married,25000000,4038,5,No,0.73,4,2,1,19,2,2,4.5,0.5,0.3,0.5,0.053,0.092,0.099,0.092
+39,0,Non-Travel,767,R&D,8,4,Medical,3,Male,103,3,4,Data Scientist,3,Single,25000000,10000,1,Yes,4.2,3,3,0,15,0,4,1.1,1.1,0.6,0.5,0.284,0.523,0.0,0.239
+38,0,Travel Frequently,188,Finance,13,2,Other,1,Male,34,2,2,Controller,2,Married,25000000,4246,1,Yes,2.76,3,2,0,38,2,4,2.3,2.3,1.8,0.7,0.539,0.693,0.051,0.207
+24,1,Travel Rarely,399,Finance,26,4,Technical Degree,2,Male,55,3,1,Analyst,3,Divorced,20654088,8291,2,Yes,2.75,2,2,3,16,2,1,14.8,8.3,1.5,1.0,0.094,0.527,0.114,0.062
+25,0,Non-Travel,283,R&D,5,3,Medical,4,Female,24,4,2,Data Scientist,3,Married,25000000,6602,2,No,2.8,4,2,0,19,2,1,3.2,2.3,1.1,3.2,0.255,0.54,0.099,0.764
+33,1,Non-Travel,336,HR,9,3,Technical Degree,1,Female,31,3,1,HR Director,3,Married,25000000,7535,3,Yes,1.47,3,2,1,18,2,1,9.4,0.5,0.1,7.6,0.006,0.048,0.102,0.73
+50,0,Travel Frequently,161,Operations,10,1,Technical Degree,4,Male,29,2,1,Process Engineer,3,Married,25000000,3548,1,Yes,2.61,4,4,0,17,3,2,6.8,3.8,0.8,0.5,0.103,0.495,0.159,0.064
+49,0,Travel Rarely,1166,HR,2,2,Life Sciences,1,Male,150,4,4,Recruiter,3,Divorced,25000000,10000,4,No,2.15,4,4,1,19,2,4,0.5,0.5,0.0,0.5,0.0,0.333,0.096,0.333
+22,0,Travel Rarely,288,HR,28,3,Other,2,Male,26,3,4,Recruiter,2,Single,25000000,6368,2,No,3.09,2,4,0,24,1,4,1.0,0.5,0.0,1.0,0.009,0.249,0.04,0.502
+38,0,Non-Travel,1098,Operations,7,3,Life Sciences,2,Female,144,1,1,Director of Ops,3,Married,11943587,10000,1,No,1.87,3,2,1,2,3,2,2.8,2.6,2.3,1.6,0.603,0.675,0.794,0.43
+39,0,Travel Rarely,305,Sales,4,2,Life Sciences,1,Male,39,3,2,Regional Director,3,Married,22091978,6155,2,No,2.12,3,4,0,11,4,3,8.8,2.0,1.1,0.5,0.113,0.206,0.326,0.051
+24,0,Travel Rarely,741,Finance,12,1,Life Sciences,3,Female,97,4,3,Senior Analyst,1,Married,19562980,10000,1,No,1.55,3,1,2,6,1,2,6.6,0.5,0.1,0.9,0.013,0.065,0.131,0.116
+46,0,Non-Travel,194,R&D,8,2,Business,2,Female,26,3,2,Research Lead,4,Married,10730162,4203,1,Yes,3.66,2,2,2,4,3,1,4.1,1.3,1.1,2.5,0.211,0.265,0.509,0.491
+27,0,Travel Rarely,217,R&D,1,3,Other,2,Female,33,3,1,Data Scientist,2,Divorced,9631902,5217,1,No,5.02,2,1,2,5,6,3,4.8,0.6,0.0,2.3,0.004,0.105,0.928,0.407
+34,0,Non-Travel,618,HR,8,2,Technical Degree,3,Male,76,2,3,HR Specialist,2,Married,19697483,10000,2,Yes,1.46,3,2,2,6,3,2,0.5,0.5,0.0,0.5,0.0,0.333,0.386,0.333
+44,0,Travel Rarely,294,Operations,3,3,Life Sciences,3,Male,43,2,3,Process Engineer,3,Divorced,12916666,6040,2,No,2.37,3,2,2,0,3,3,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+38,0,Travel Rarely,807,HR,8,3,Technical Degree,3,Male,100,2,4,HR Specialist,4,Divorced,25000000,10000,3,Yes,3.25,3,3,2,18,2,3,18.9,0.5,0.1,0.5,0.003,0.025,0.101,0.025
+37,0,Non-Travel,697,Finance,3,3,Technical Degree,2,Male,86,1,3,CFO,1,Divorced,25000000,10000,1,Yes,2.93,2,3,1,23,4,1,1.0,1.0,0.1,1.0,0.033,0.508,0.161,0.508
+25,0,Travel Frequently,281,Finance,30,2,Business,3,Female,27,2,1,CFO,2,Single,19870977,5325,3,No,1.97,1,3,1,20,6,1,2.2,2.2,1.4,0.5,0.431,0.692,0.276,0.154
+45,0,Non-Travel,307,R&D,1,2,Business,3,Male,54,3,2,Research Lead,3,Divorced,25000000,6505,1,No,2.95,3,2,0,17,1,3,4.0,2.3,3.5,0.5,0.701,0.468,0.054,0.1
+37,0,Non-Travel,917,Operations,14,3,Technical Degree,1,Male,116,3,1,Operations Specialist,1,Married,25000000,10000,2,No,4.2,3,1,2,22,0,4,0.5,0.5,0.0,0.5,0.0,0.333,0.0,0.333
+48,0,Travel Frequently,976,Sales,4,1,Technical Degree,4,Female,117,2,3,Account Manager,2,Divorced,18709466,10000,4,Yes,2.27,2,3,1,10,2,1,2.4,2.4,0.5,2.4,0.156,0.709,0.17,0.709
+50,0,Non-Travel,669,R&D,3,4,Business,2,Male,75,3,3,Data Scientist,4,Married,25000000,10000,1,No,3.73,3,3,1,25,2,2,1.7,1.7,1.1,0.9,0.413,0.632,0.075,0.321
+44,0,Non-Travel,175,R&D,9,3,Medical,2,Male,24,1,2,Data Scientist,3,Married,10833333,3800,1,No,3.03,3,3,0,0,2,4,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+34,0,Non-Travel,217,Operations,30,2,Other,3,Female,26,1,1,Operations Manager,1,Divorced,18279319,4778,2,No,1.15,3,1,0,9,3,3,7.8,4.6,0.6,0.5,0.064,0.523,0.297,0.057
+43,0,Travel Rarely,480,R&D,8,5,Life Sciences,3,Female,58,2,2,Data Scientist,2,Single,14770694,10000,1,Yes,1.32,1,2,0,13,2,4,9.6,7.1,0.9,0.5,0.081,0.67,0.134,0.047
+53,0,Non-Travel,756,Finance,15,4,Other,3,Female,101,2,1,Controller,1,Divorced,25000000,10000,2,Yes,1.47,3,3,2,18,2,2,1.0,1.0,0.2,1.0,0.092,0.5,0.103,0.5
+41,0,Travel Rarely,568,Sales,15,2,Business,4,Male,62,2,3,Sales Manager,4,Married,20800084,10000,2,No,1.64,2,2,0,12,2,4,2.8,2.8,2.3,0.8,0.603,0.735,0.144,0.213
+39,0,Travel Rarely,467,HR,9,4,Medical,2,Female,56,3,2,HR Director,2,Married,21704625,9568,1,No,3.89,4,1,2,5,0,1,1.1,1.1,0.2,1.1,0.107,0.519,0.0,0.519
+29,0,Non-Travel,426,HR,10,3,Business,4,Female,49,2,4,HR Specialist,3,Single,18131658,8894,1,No,2.36,3,2,0,2,1,2,1.4,1.1,0.8,1.4,0.316,0.449,0.303,0.581
+36,0,Travel Rarely,364,Finance,10,1,Medical,1,Female,34,4,4,Controller,3,Divorced,25000000,7618,1,No,1.08,3,3,0,23,1,4,1.1,1.1,0.6,1.1,0.287,0.525,0.041,0.525
+29,0,Non-Travel,157,HR,12,2,Life Sciences,4,Male,26,3,4,HR Specialist,2,Single,25000000,3281,1,Yes,0.74,3,4,3,16,1,2,2.6,0.7,0.1,2.6,0.018,0.184,0.059,0.719
+49,0,Non-Travel,389,Finance,2,2,Life Sciences,1,Male,50,3,1,CFO,2,Single,25000000,8564,2,No,3.0,4,4,2,22,1,3,1.6,1.6,1.1,1.6,0.417,0.612,0.042,0.612
+35,0,Non-Travel,468,Sales,21,4,Business,4,Female,52,2,1,Sales Executive,1,Married,2500000,9768,2,Yes,1.91,1,2,0,0,4,2,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+22,0,Travel Frequently,412,Operations,27,2,Life Sciences,4,Female,42,1,3,Operations Manager,3,Single,18269497,8254,2,No,2.41,4,4,2,0,1,1,0.4,0.4,-0.1,0.4,-0.109,0.261,0.739,0.261
+65,0,Non-Travel,229,Sales,1,3,Medical,3,Female,36,3,3,VP Sales,2,Single,23260867,4513,3,Yes,2.87,2,2,0,15,0,3,1.2,1.2,0.7,1.2,0.328,0.552,0.0,0.552
+47,0,Travel Frequently,250,Sales,24,1,Technical Degree,3,Female,36,3,4,VP Sales,1,Divorced,24047674,5532,2,Yes,1.87,2,3,0,13,3,3,3.2,0.6,0.1,1.0,0.021,0.132,0.211,0.226
+52,0,Travel Rarely,418,Sales,30,3,Life Sciences,2,Male,43,2,4,Account Manager,3,Married,25000000,8933,1,No,3.69,2,3,1,15,0,1,11.4,0.5,0.0,0.8,0.001,0.04,0.0,0.062
+47,0,Travel Rarely,256,Finance,16,2,Business,4,Male,38,2,2,Financial Manager,2,Divorced,15233936,5787,3,No,1.2,3,2,3,4,2,2,3.1,0.5,0.2,2.5,0.061,0.127,0.37,0.625
+22,0,Travel Frequently,622,Finance,2,3,Technical Degree,4,Male,76,1,2,CFO,4,Single,25000000,10000,1,No,1.31,4,3,0,33,0,3,14.2,2.4,0.6,3.4,0.039,0.16,0.0,0.223
+57,0,Travel Rarely,1208,HR,4,3,Technical Degree,2,Male,139,4,4,HR Director,2,Married,22448508,10000,5,Yes,3.58,3,2,0,6,1,3,2.0,2.0,1.0,2.0,0.316,0.672,0.131,0.672
+30,0,Travel Frequently,703,Sales,2,1,Other,1,Female,77,3,2,Sales Executive,3,Married,23978930,10000,1,No,2.6,3,4,0,13,1,2,0.7,0.7,0.0,0.7,0.024,0.427,0.071,0.427
+46,0,Non-Travel,1254,Sales,2,4,Life Sciences,1,Male,150,2,4,Sales Manager,4,Married,18797428,10000,1,No,3.08,3,3,1,2,2,3,2.0,0.6,0.2,0.5,0.082,0.19,0.505,0.166
+28,0,Non-Travel,117,R&D,5,3,Life Sciences,3,Female,23,3,3,Software Engineer,2,Single,11318413,2882,1,No,2.84,1,4,3,8,5,4,8.2,4.0,0.6,1.2,0.061,0.435,0.532,0.133
+44,0,Travel Rarely,374,HR,3,1,Business,1,Male,48,1,2,Recruiter,2,Single,20662189,8180,3,No,1.83,3,3,1,9,4,2,1.1,1.1,0.6,1.1,0.29,0.526,0.369,0.526
+34,0,Non-Travel,279,Sales,23,3,Business,2,Male,32,2,3,Account Manager,2,Divorced,17916666,5906,2,No,3.08,4,4,3,0,2,4,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+58,0,Travel Rarely,262,Operations,7,3,Business,4,Female,31,4,4,Operations Specialist,4,Divorced,23563311,5868,1,No,3.21,3,4,1,7,0,3,1.3,1.3,0.3,1.3,0.123,0.557,0.0,0.557
+43,0,Non-Travel,156,Sales,5,4,Life Sciences,4,Male,23,1,2,Sales Manager,4,Divorced,25000000,2944,1,No,4.38,4,2,2,17,1,3,1.6,0.5,0.1,1.1,0.057,0.192,0.054,0.427
+49,0,Travel Rarely,445,Finance,3,1,Technical Degree,4,Female,54,1,2,Senior Analyst,3,Divorced,15833333,9547,1,No,4.02,4,3,0,0,1,2,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+22,0,Non-Travel,526,HR,5,3,Business,3,Male,69,3,1,HR Manager,1,Married,25000000,10000,1,No,2.16,4,3,0,11,3,3,11.2,1.8,0.2,3.2,0.018,0.148,0.246,0.263
+27,0,Travel Frequently,161,HR,30,2,Other,2,Female,20,1,1,Chief People Officer,1,Divorced,18427014,2861,1,No,2.41,3,4,1,9,1,2,3.1,0.5,0.2,2.2,0.044,0.123,0.097,0.547
+55,0,Travel Frequently,1216,HR,30,2,Technical Degree,2,Male,150,3,1,HR Manager,3,Divorced,9518946,10000,2,Yes,0.31,3,4,0,0,1,4,0.4,0.4,-0.1,0.4,-0.109,0.261,0.739,0.261
+47,0,Non-Travel,300,HR,5,3,Medical,4,Male,33,1,2,Chief People Officer,3,Single,24489677,6117,2,No,2.92,2,2,0,18,1,4,8.5,0.5,0.2,2.3,0.02,0.053,0.051,0.246
+43,0,Travel Rarely,583,Sales,10,3,Other,4,Male,67,3,2,Account Manager,4,Divorced,22551253,10000,4,No,0.37,4,4,3,6,3,3,0.5,0.5,0.0,0.5,0.003,0.332,0.389,0.336
+37,0,Travel Frequently,155,Finance,13,3,Life Sciences,3,Male,21,1,2,Senior Analyst,2,Single,15891587,3169,3,Yes,0.21,3,2,0,5,2,3,3.3,0.9,0.7,2.2,0.154,0.202,0.33,0.508
+40,0,Non-Travel,966,Sales,12,5,Life Sciences,3,Male,127,2,3,Sales Manager,3,Single,25000000,10000,2,Yes,4.19,3,4,0,26,1,1,12.0,2.2,0.0,1.6,0.0,0.167,0.037,0.123
+32,0,Travel Rarely,1208,HR,14,4,Medical,2,Female,150,3,2,Recruiter,4,Married,22247300,10000,2,No,3.23,3,4,1,11,0,3,3.2,3.1,0.5,0.9,0.113,0.741,0.0,0.223
+31,0,Travel Rarely,190,Finance,7,3,Life Sciences,4,Female,27,2,1,Financial Manager,2,Divorced,25000000,4558,1,No,3.1,3,4,0,20,2,2,4.1,2.8,0.1,3.7,0.021,0.561,0.094,0.733
+46,0,Travel Frequently,187,HR,13,2,Medical,3,Male,31,3,1,HR Specialist,3,Divorced,14166666,3729,3,Yes,4.01,4,3,1,0,1,4,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+25,0,Travel Rarely,268,Finance,1,1,Life Sciences,3,Male,36,3,3,Financial Manager,2,Married,25000000,5309,1,Yes,2.28,3,3,1,16,2,2,0.9,0.5,0.4,0.9,0.199,0.267,0.117,0.466
+44,0,Non-Travel,307,Sales,3,4,Other,2,Female,27,2,1,Account Manager,4,Married,20714070,6363,2,No,0.64,3,2,0,11,3,4,2.7,0.9,0.1,0.5,0.02,0.247,0.239,0.141
+30,0,Non-Travel,1149,Sales,8,3,Other,3,Male,134,1,3,Sales Executive,4,Divorced,25000000,10000,3,Yes,1.04,4,4,0,11,1,3,9.7,3.0,0.1,5.8,0.005,0.277,0.078,0.544
+52,0,Non-Travel,548,R&D,3,4,Life Sciences,2,Female,67,2,4,Research Lead,4,Divorced,25000000,10000,1,No,6.05,3,3,2,27,2,2,5.1,2.1,0.3,3.1,0.046,0.342,0.069,0.514
+22,0,Travel Rarely,333,HR,1,2,Medical,4,Female,46,3,4,HR Specialist,4,Divorced,18844124,7479,2,Yes,1.78,2,2,3,8,4,1,1.1,1.1,0.6,1.1,0.299,0.533,0.444,0.533
+38,0,Travel Frequently,172,Sales,6,2,Medical,2,Male,24,3,1,Sales Manager,4,Divorced,24554062,3358,1,No,5.09,3,4,3,15,3,3,2.7,0.5,0.8,2.7,0.225,0.134,0.183,0.732
+65,0,Non-Travel,609,Operations,14,2,Technical Degree,2,Female,71,3,1,Operations Specialist,3,Single,18665170,10000,1,No,2.77,4,3,0,4,3,4,3.4,2.9,0.6,3.4,0.134,0.648,0.546,0.773
+35,0,Travel Rarely,256,HR,11,1,Business,4,Male,35,1,2,Recruiter,3,Single,11242508,5760,1,No,3.49,3,3,0,0,0,3,0.4,0.4,-0.1,0.4,-0.064,0.29,0.0,0.29
+31,0,Non-Travel,261,Finance,30,2,Life Sciences,3,Female,34,1,1,Controller,3,Married,2500000,5379,1,No,2.34,1,3,2,1,1,3,1.8,0.5,0.7,0.7,0.243,0.177,0.354,0.25
+37,1,Non-Travel,1268,Sales,19,1,Medical,3,Female,150,1,2,Regional Director,2,Single,17887241,10000,1,No,1.26,2,3,1,12,3,2,12.1,5.6,1.0,3.1,0.079,0.43,0.23,0.237
+33,0,Travel Rarely,570,R&D,22,4,Technical Degree,2,Male,72,3,4,Software Engineer,4,Married,20833333,10000,2,No,2.03,4,3,0,0,2,2,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+40,0,Travel Rarely,1114,Finance,2,4,Medical,4,Female,150,2,5,Financial Manager,3,Single,15000000,10000,1,No,2.29,2,2,2,0,6,4,0.0,0.0,-0.5,0.0,-0.5,0.0,6.0,0.0
+59,0,Non-Travel,259,Finance,2,3,Technical Degree,3,Female,35,3,3,Senior Analyst,3,Single,25000000,5515,1,No,3.03,4,2,0,23,1,2,12.3,11.0,2.4,5.7,0.18,0.83,0.042,0.431
+44,0,Non-Travel,889,Operations,4,4,Medical,1,Male,110,4,2,Process Engineer,3,Married,25000000,10000,1,Yes,3.27,3,2,1,14,0,3,0.5,0.5,0.0,0.5,0.0,0.333,0.0,0.333
+44,0,Non-Travel,253,R&D,2,3,Other,3,Female,39,2,1,Product Manager,3,Divorced,25000000,5107,1,Yes,1.67,4,3,1,27,2,2,6.1,5.7,0.2,2.5,0.026,0.797,0.07,0.351
+31,0,Travel Frequently,293,R&D,6,4,Medical,1,Male,38,4,3,Data Scientist,2,Divorced,17916666,5754,1,No,0.65,4,3,0,0,1,2,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+34,0,Travel Frequently,292,Operations,8,2,Business,2,Female,24,2,4,VP Operations,3,Divorced,25000000,6469,1,No,2.63,3,2,3,24,2,1,16.9,4.7,0.8,1.8,0.043,0.262,0.078,0.103
+52,0,Travel Rarely,198,R&D,3,3,Business,2,Male,21,3,4,Research Lead,2,Married,25000000,4210,2,No,2.15,4,3,2,7,2,3,8.0,1.3,0.2,1.7,0.023,0.15,0.223,0.189
+35,0,Travel Rarely,256,Finance,14,2,Other,3,Female,34,3,4,Analyst,2,Married,25000000,5146,1,No,3.43,3,3,0,15,3,3,4.0,1.4,0.6,0.5,0.11,0.288,0.183,0.1
+39,0,Travel Rarely,534,HR,6,3,Life Sciences,2,Female,66,2,1,HR Manager,3,Married,16522629,10000,1,No,1.4,3,2,0,7,0,3,2.6,2.6,1.2,0.9,0.334,0.72,0.0,0.242
+47,0,Non-Travel,360,HR,26,5,Other,2,Female,39,3,2,HR Manager,1,Married,23095069,7379,3,No,2.0,3,4,0,12,4,1,1.0,0.9,0.5,0.8,0.231,0.471,0.302,0.419
+44,1,Non-Travel,359,Sales,17,2,Business,1,Male,51,2,1,Account Manager,1,Single,11327483,7991,3,No,4.13,3,1,0,2,1,3,2.2,0.8,1.3,2.2,0.406,0.258,0.316,0.684
+35,0,Travel Rarely,511,Sales,3,1,Technical Degree,2,Male,65,1,3,Sales Manager,4,Married,16008914,10000,1,No,2.04,2,3,2,8,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.33,0.333
+39,0,Non-Travel,307,Operations,17,1,Technical Degree,1,Male,35,4,3,Process Engineer,2,Divorced,25000000,5973,1,Yes,3.11,4,3,1,11,3,3,6.9,2.5,0.2,2.8,0.02,0.318,0.247,0.361
+47,0,Travel Rarely,100,Sales,1,4,Business,2,Male,20,2,1,Regional Director,3,Divorced,25000000,1846,5,No,1.28,2,1,0,25,2,2,14.7,0.9,0.1,0.5,0.005,0.057,0.076,0.032
+52,0,Non-Travel,357,R&D,3,4,Life Sciences,3,Female,48,1,4,Technical Architect,2,Divorced,25000000,7227,1,No,1.5,3,4,1,17,3,3,0.9,0.9,0.1,0.9,0.05,0.478,0.159,0.478
+35,0,Non-Travel,192,R&D,3,3,Medical,4,Female,31,2,2,Software Engineer,3,Single,13803628,3947,4,No,2.77,3,4,0,2,3,1,1.5,1.5,0.0,0.5,0.006,0.596,0.756,0.202
+22,0,Travel Frequently,308,Sales,19,2,Business,3,Male,38,1,1,Account Manager,2,Married,12167678,6115,1,No,2.02,1,3,1,13,0,1,4.8,2.7,0.7,1.9,0.116,0.467,0.0,0.332
+52,0,Travel Rarely,1196,HR,14,4,Life Sciences,4,Female,150,4,5,Recruiter,1,Married,25000000,10000,1,Yes,1.8,1,4,0,25,3,4,3.8,0.5,0.1,3.8,0.02,0.105,0.113,0.789
+54,0,Travel Frequently,265,R&D,11,5,Life Sciences,2,Female,40,3,5,Research Lead,3,Single,25000000,5209,2,No,2.29,3,4,1,18,3,1,14.0,0.5,0.1,5.0,0.004,0.033,0.151,0.337
+46,0,Non-Travel,232,Finance,4,2,Technical Degree,1,Female,28,2,4,Analyst,3,Divorced,23960922,4306,2,No,0.46,3,4,0,8,3,3,4.4,0.5,0.1,4.4,0.027,0.093,0.329,0.814
+40,0,Non-Travel,437,HR,13,2,Business,3,Female,66,2,2,HR Director,1,Single,25000000,8794,2,No,3.63,3,4,1,19,2,2,3.3,3.0,1.4,3.3,0.331,0.695,0.098,0.768
+46,0,Travel Rarely,434,Sales,2,1,Life Sciences,1,Female,35,2,2,VP Sales,1,Divorced,25000000,9288,2,Yes,2.68,3,4,2,19,4,2,10.7,3.5,1.2,0.5,0.101,0.301,0.194,0.043
+29,0,Travel Rarely,100,Finance,14,3,Technical Degree,2,Female,20,4,5,CFO,4,Single,25000000,2183,2,No,2.94,2,2,2,10,3,4,1.0,0.5,0.5,1.0,0.247,0.251,0.254,0.498
+42,0,Non-Travel,285,Finance,30,4,Business,4,Female,35,2,5,Senior Analyst,3,Married,22315999,5915,2,No,4.4,3,1,3,2,1,3,0.5,0.5,0.0,0.5,0.0,0.333,0.302,0.333
+26,0,Non-Travel,225,HR,30,4,Technical Degree,4,Female,38,2,5,HR Manager,4,Divorced,25000000,4468,1,Yes,0.46,4,2,1,0,3,1,0.0,0.0,-0.5,0.0,-0.5,0.0,3.0,0.0
+55,0,Travel Frequently,519,Finance,2,2,Life Sciences,1,Male,59,3,1,CFO,3,Single,13959089,10000,1,No,1.63,1,4,1,14,3,2,13.8,1.2,0.0,0.5,0.002,0.082,0.19,0.034
+25,0,Travel Frequently,768,Operations,15,4,Technical Degree,2,Male,83,3,5,VP Operations,4,Married,25000000,10000,1,Yes,1.95,3,3,0,6,4,3,4.8,2.6,2.2,4.8,0.369,0.444,0.518,0.829
+39,0,Non-Travel,587,R&D,30,2,Life Sciences,1,Male,73,4,1,Technical Architect,3,Married,25000000,10000,1,Yes,3.31,4,2,0,12,1,1,1.7,0.5,0.4,1.7,0.149,0.184,0.072,0.632
+41,0,Non-Travel,1076,R&D,2,2,Business,2,Female,150,3,1,Product Manager,2,Single,25000000,10000,1,Yes,2.11,4,2,0,29,3,3,0.9,0.9,0.1,0.9,0.078,0.465,0.098,0.465
+22,0,Travel Frequently,608,Sales,11,2,Business,3,Male,81,2,3,VP Sales,2,Married,25000000,10000,2,No,3.03,4,2,1,13,4,3,0.5,0.5,0.0,0.5,0.0,0.333,0.268,0.333
+24,0,Travel Rarely,1284,Operations,1,3,Business,2,Male,150,2,2,Director of Ops,4,Single,25000000,10000,1,No,2.92,3,2,0,19,2,3,5.4,3.2,0.2,1.6,0.033,0.495,0.097,0.253
+32,0,Travel Rarely,910,R&D,1,2,Technical Degree,3,Male,115,2,2,Data Scientist,3,Married,25000000,10000,3,Yes,0.99,3,2,2,27,0,2,17.3,5.3,0.5,0.5,0.027,0.291,0.0,0.027
+26,0,Non-Travel,506,Sales,20,2,Medical,1,Male,62,2,1,Regional Director,3,Divorced,25000000,10000,1,No,4.31,4,4,2,16,4,4,0.5,0.5,0.0,0.5,0.0,0.333,0.232,0.333
+49,0,Travel Frequently,236,Finance,2,2,Other,3,Male,25,3,4,Senior Analyst,2,Married,25000000,5211,2,No,4.09,3,2,1,17,3,4,8.0,1.1,0.5,2.9,0.05,0.122,0.162,0.327
+24,0,Non-Travel,419,R&D,17,3,Technical Degree,2,Male,47,1,1,Research Lead,2,Single,25000000,8154,1,No,0.93,4,4,1,14,2,2,0.5,0.5,0.0,0.5,0.0,0.333,0.128,0.333
+53,0,Non-Travel,543,Operations,5,3,Other,3,Male,65,4,1,Director of Ops,3,Divorced,21743421,10000,2,Yes,0.03,3,3,0,12,2,2,0.7,0.7,0.2,0.7,0.136,0.424,0.147,0.424
+33,0,Travel Frequently,418,HR,30,5,Medical,3,Male,52,1,4,Recruiter,3,Married,15833333,8660,2,Yes,2.23,3,4,1,0,2,3,0.0,0.0,-0.5,0.0,-0.5,0.0,2.0,0.0
+43,0,Non-Travel,447,Sales,9,3,Technical Degree,1,Male,49,2,3,Sales Manager,1,Married,14393228,9302,2,Yes,2.76,3,3,2,1,4,3,1.5,0.5,0.4,1.5,0.142,0.202,1.615,0.596
+29,0,Travel Rarely,551,Sales,12,3,Other,1,Female,71,4,3,Regional Director,1,Single,23395148,10000,1,No,3.64,3,2,1,10,1,2,10.5,5.0,0.4,5.2,0.031,0.437,0.087,0.45
+38,0,Travel Rarely,1115,Finance,9,2,Other,4,Female,150,3,3,Controller,1,Married,2916666,10000,3,No,2.85,1,3,0,0,0,2,0.0,0.0,-0.5,0.0,-0.5,0.0,0.0,0.0
+28,0,Travel Rarely,371,HR,2,2,Life Sciences,3,Male,55,3,3,Chief People Officer,2,Married,25000000,8191,2,No,0.67,3,1,0,26,4,1,7.3,0.8,0.1,4.7,0.014,0.098,0.147,0.561
+34,0,Travel Rarely,1087,R&D,10,2,Life Sciences,3,Male,128,1,2,Research Lead,3,Single,21467203,10000,1,No,3.8,3,1,0,10,5,3,4.1,2.7,1.7,0.6,0.328,0.525,0.43,0.109
+27,0,Travel Frequently,1195,Finance,1,1,Medical,4,Male,150,1,3,CFO,4,Married,8109836,10000,1,No,1.45,2,3,1,0,2,4,0.2,0.2,-0.3,0.2,-0.257,0.162,1.676,0.162
+35,0,Non-Travel,253,Operations,12,1,Other,1,Female,35,1,2,Process Engineer,3,Divorced,19376339,5109,2,No,1.8,3,4,1,8,1,2,5.4,2.3,0.3,0.5,0.046,0.362,0.105,0.078
+57,0,Non-Travel,400,Operations,7,1,Life Sciences,3,Male,45,4,3,Director of Ops,2,Single,25000000,7937,1,Yes,3.03,3,4,0,12,3,2,12.8,0.6,0.0,1.0,0.001,0.045,0.217,0.075
+55,0,Travel Rarely,404,R&D,4,1,Technical Degree,3,Female,51,2,4,Product Manager,3,Married,20833333,8511,1,Yes,0.74,4,4,0,0,5,2,0.0,0.0,-0.5,0.0,-0.5,0.0,5.0,0.0
+22,0,Non-Travel,304,Sales,3,4,Medical,3,Male,38,3,3,Sales Executive,3,Single,25000000,6193,1,No,2.08,4,2,1,14,3,2,14.7,4.6,1.1,4.1,0.072,0.294,0.191,0.259
+29,0,Non-Travel,1265,Operations,25,4,Business,2,Male,150,1,3,Process Engineer,2,Single,12129405,10000,2,Yes,5.15,1,4,2,9,2,1,1.6,1.6,0.6,1.6,0.229,0.611,0.196,0.611
+41,0,Travel Rarely,1206,Operations,14,3,Technical Degree,4,Male,150,3,2,Process Engineer,2,Single,24678297,10000,4,No,2.75,4,3,1,8,1,4,1.4,1.4,0.9,1.4,0.374,0.582,0.102,0.582
+31,0,Travel Rarely,203,Finance,4,4,Life Sciences,3,Male,32,3,3,Financial Manager,2,Single,14192232,4550,3,No,1.61,3,3,1,1,4,1,1.3,1.3,0.1,0.7,0.049,0.561,1.758,0.316
+41,0,Travel Frequently,571,R&D,10,3,Technical Degree,3,Male,66,2,3,Research Lead,1,Divorced,25000000,10000,2,No,2.43,3,4,0,20,1,3,2.6,1.4,0.4,2.4,0.104,0.382,0.046,0.65
+29,0,Non-Travel,152,R&D,2,1,Business,3,Male,24,4,2,Product Manager,1,Married,21232104,3436,1,No,3.6,3,1,1,10,1,4,10.4,0.5,0.1,7.2,0.008,0.044,0.088,0.632
+22,0,Travel Rarely,238,HR,16,1,Business,3,Female,32,4,2,HR Director,1,Single,25000000,5698,2,No,2.14,4,3,1,14,2,1,1.0,1.0,0.5,1.0,0.247,0.498,0.127,0.498
+37,0,Travel Rarely,670,Operations,1,2,Technical Degree,4,Male,81,3,2,Operations Specialist,4,Single,16952208,10000,1,Yes,3.35,3,3,0,6,2,2,5.2,0.9,0.1,3.5,0.023,0.151,0.281,0.565
+30,0,Non-Travel,897,Operations,17,4,Life Sciences,3,Female,121,4,4,Process Engineer,1,Married,21352285,10000,2,No,2.16,2,2,1,10,1,1,3.3,0.5,0.3,3.3,0.065,0.115,0.087,0.77
+23,0,Travel Rarely,675,HR,8,1,Medical,3,Male,86,3,2,HR Director,2,Single,25000000,10000,3,No,3.84,3,4,0,22,4,3,1.2,0.9,0.0,1.2,0.008,0.392,0.173,0.54
+38,0,Travel Rarely,277,R&D,27,1,Other,3,Female,35,2,2,Software Engineer,3,Divorced,25000000,5689,1,No,2.44,4,3,2,22,4,2,6.1,6.1,0.7,0.5,0.098,0.859,0.173,0.071
+43,0,Non-Travel,957,Sales,20,3,Business,2,Female,119,2,1,Sales Manager,4,Married,9166666,10000,1,Yes,1.78,3,3,0,0,1,2,0.0,0.0,-0.5,0.0,-0.5,0.0,1.0,0.0
+49,1,Non-Travel,638,Operations,16,5,Other,3,Male,79,1,3,Process Engineer,1,Married,25000000,10000,2,Yes,2.56,4,3,2,13,2,2,13.0,1.1,0.0,1.7,0.002,0.081,0.143,0.123
+36,0,Non-Travel,748,R&D,9,1,Life Sciences,3,Female,86,4,1,Data Scientist,4,Divorced,25000000,10000,1,No,3.71,4,2,0,11,2,3,4.6,0.5,0.0,4.3,0.006,0.089,0.154,0.76
+59,1,Travel Frequently,477,Finance,1,5,Life Sciences,3,Female,65,3,4,Controller,4,Married,25000000,9920,2,No,3.02,2,3,1,22,1,2,22.3,0.7,0.1,9.2,0.003,0.03,0.043,0.393
+36,0,Non-Travel,289,R&D,1,1,Life Sciences,2,Female,38,3,1,Software Engineer,4,Married,9807997,5604,1,Yes,1.95,1,2,2,10,4,1,3.5,3.4,1.2,0.5,0.264,0.743,0.344,0.11
+49,0,Non-Travel,201,HR,16,2,Business,4,Male,34,4,3,HR Director,2,Single,16120771,4491,2,No,2.16,3,1,1,3,0,2,3.2,1.4,0.4,3.2,0.092,0.324,0.0,0.762
+65,0,Non-Travel,209,Operations,3,1,Business,3,Male,28,4,2,Operations Specialist,3,Single,19200814,4280,1,Yes,3.63,4,4,0,3,4,3,3.4,1.2,0.5,0.5,0.104,0.271,0.916,0.114
+39,0,Travel Frequently,256,R&D,17,5,Other,3,Female,36,1,1,Data Scientist,3,Divorced,3199749,4726,2,No,3.11,1,3,1,4,5,3,4.0,3.2,1.8,3.3,0.353,0.639,0.993,0.658
+22,0,Travel Frequently,193,Operations,15,2,Medical,3,Male,23,3,4,VP Operations,1,Married,25000000,3665,1,No,1.84,3,3,1,14,2,1,3.9,3.9,0.9,1.1,0.182,0.796,0.133,0.218
+22,0,Non-Travel,251,Operations,24,1,Technical Degree,3,Male,23,4,5,Operations Specialist,1,Married,25000000,6110,1,Yes,2.6,4,2,0,2,3,3,0.5,0.5,0.0,0.5,0.0,0.333,0.826,0.333
+37,1,Travel Frequently,354,Finance,19,4,Business,3,Female,56,2,1,Senior Analyst,2,Married,25000000,7269,5,No,2.59,4,1,0,14,4,2,10.9,1.7,0.5,6.7,0.043,0.139,0.259,0.562
+41,0,Travel Rarely,329,Sales,16,1,Life Sciences,2,Female,42,3,1,Sales Executive,2,Single,9166666,6495,3,Yes,3.06,3,2,1,0,4,4,0.0,0.0,-0.5,0.0,-0.5,0.0,4.0,0.0
+28,0,Non-Travel,1259,HR,4,2,Other,2,Female,150,1,1,HR Manager,2,Single,23445682,10000,2,No,3.11,3,1,1,14,3,2,5.3,0.9,0.8,2.2,0.125,0.144,0.196,0.354
+40,0,Travel Frequently,296,HR,29,3,Business,3,Female,27,3,2,HR Manager,2,Married,25000000,6260,2,Yes,2.64,4,3,3,10,5,1,9.3,8.0,2.1,0.5,0.203,0.781,0.447,0.049
+37,0,Non-Travel,1010,Sales,19,2,Medical,3,Female,119,2,3,Regional Director,3,Married,25000000,10000,1,No,2.41,4,4,1,27,4,4,13.3,1.7,0.2,3.6,0.013,0.122,0.141,0.255
+50,0,Travel Rarely,937,R&D,6,1,Other,2,Female,114,3,1,Data Scientist,3,Married,20954722,10000,1,Yes,4.28,3,2,0,11,1,2,2.8,1.6,0.0,1.6,0.007,0.41,0.078,0.421
+35,0,Non-Travel,132,HR,6,2,Life Sciences,2,Male,27,2,3,HR Manager,1,Divorced,24888177,2503,1,Yes,2.52,3,1,1,11,7,2,12.0,0.5,0.1,2.0,0.007,0.039,0.54,0.152
+22,0,Non-Travel,243,Operations,16,3,Technical Degree,3,Female,34,2,3,Operations Manager,1,Single,25000000,4705,1,No,1.69,4,4,2,24,4,3,1.4,1.4,0.3,1.4,0.107,0.581,0.156,0.581
+42,0,Travel Frequently,204,HR,20,3,Other,2,Male,27,1,2,HR Manager,4,Single,20974898,4223,1,No,3.01,3,3,0,10,5,2,4.7,3.3,2.0,0.9,0.345,0.575,0.449,0.159
+35,0,Travel Frequently,452,R&D,1,1,Other,3,Male,56,3,1,Research Lead,2,Single,25000000,9338,3,Yes,1.68,4,4,1,12,3,3,6.3,5.4,1.9,2.2,0.259,0.74,0.217,0.298
+33,0,Travel Frequently,1164,Operations,12,1,Medical,3,Male,143,4,3,Operations Specialist,3,Married,16196631,10000,2,No,2.9,3,2,0,3,0,4,2.0,0.5,0.3,0.5,0.088,0.168,0.0,0.168
+48,0,Travel Rarely,543,HR,1,3,Technical Degree,2,Female,69,3,3,HR Manager,1,Married,23698905,10000,4,No,3.52,1,1,2,20,1,3,3.1,1.4,0.6,0.8,0.142,0.334,0.046,0.188
+52,0,Travel Rarely,186,Sales,14,4,Medical,4,Male,25,1,3,Sales Manager,1,Single,19789886,4237,1,No,2.84,3,1,2,6,1,2,5.2,2.9,0.5,0.5,0.08,0.471,0.127,0.081
+57,0,Non-Travel,554,Finance,3,3,Business,3,Female,55,1,3,Controller,3,Divorced,23143017,10000,3,No,2.75,3,2,0,10,2,1,3.9,1.4,0.5,0.5,0.112,0.289,0.178,0.102
+32,0,Travel Rarely,217,HR,20,4,Life Sciences,4,Male,21,3,4,Recruiter,4,Single,25000000,4541,2,Yes,1.33,3,4,0,14,1,2,0.7,0.7,0.2,0.7,0.123,0.415,0.064,0.415
+39,0,Travel Rarely,630,HR,1,1,Medical,3,Male,77,1,4,HR Specialist,3,Single,19468633,10000,3,Yes,3.44,3,3,1,3,3,1,0.9,0.5,0.2,0.7,0.092,0.257,0.647,0.336
+41,0,Travel Frequently,366,R&D,16,3,Business,2,Male,46,2,3,Technical Architect,2,Divorced,25000000,7644,2,Yes,2.52,3,4,1,16,3,3,2.3,1.2,0.3,1.8,0.076,0.367,0.172,0.537
+35,0,Non-Travel,438,R&D,10,4,Medical,4,Female,65,3,3,Software Engineer,4,Married,25000000,9188,4,Yes,2.85,4,4,0,22,0,3,1.6,1.6,0.1,1.6,0.056,0.617,0.0,0.617
+42,0,Non-Travel,239,Finance,16,2,Medical,4,Male,27,3,1,Analyst,3,Single,25000000,5138,1,No,3.11,3,3,1,23,3,3,0.7,0.7,0.2,0.7,0.1,0.4,0.123,0.4
+37,0,Non-Travel,313,HR,9,1,Medical,4,Male,37,3,4,HR Manager,2,Divorced,25000000,6903,2,No,0.9,3,3,2,13,0,3,3.6,3.6,1.0,2.9,0.223,0.782,0.0,0.644
+33,0,Travel Rarely,1235,R&D,6,4,Technical Degree,2,Male,150,3,4,Data Scientist,1,Married,25000000,10000,2,Yes,3.48,2,3,2,14,1,2,7.1,7.1,0.2,0.5,0.024,0.877,0.063,0.061
+50,0,Non-Travel,194,Finance,30,4,Technical Degree,3,Male,27,3,1,Financial Manager,2,Single,23954636,3997,1,Yes,2.22,3,3,0,14,1,1,12.9,9.6,1.7,0.5,0.121,0.69,0.063,0.036
+22,0,Travel Frequently,1088,HR,2,4,Life Sciences,2,Male,136,1,1,Recruiter,2,Single,25000000,10000,4,No,3.58,4,2,1,12,6,2,11.6,2.4,0.7,8.3,0.056,0.193,0.44,0.655
+46,0,Non-Travel,241,R&D,2,1,Life Sciences,3,Male,36,4,4,Data Scientist,4,Divorced,24380241,5137,1,Yes,3.64,3,2,1,8,4,3,2.6,0.5,0.1,2.6,0.04,0.137,0.419,0.726
+22,0,Non-Travel,677,Sales,17,2,Other,3,Female,87,3,1,Sales Executive,3,Married,15935588,10000,3,No,0.99,2,1,2,11,2,3,1.1,1.1,0.5,0.5,0.233,0.527,0.157,0.236
+42,0,Travel Rarely,391,Operations,3,1,Life Sciences,3,Female,48,1,3,VP Operations,4,Married,9457167,8155,2,No,1.66,2,4,1,1,5,3,1.5,0.5,0.0,1.5,0.006,0.197,1.968,0.606
+35,0,Travel Rarely,339,Operations,22,3,Business,3,Female,41,2,2,VP Operations,2,Single,13420150,7182,2,No,1.74,3,1,0,2,2,3,0.5,0.5,0.0,0.5,0.0,0.333,0.558,0.333
+45,0,Travel Rarely,336,Finance,9,2,Medical,3,Female,40,3,3,Controller,3,Married,25000000,7117,1,No,2.11,4,4,0,22,0,2,3.4,1.7,1.1,3.4,0.244,0.383,0.0,0.772
+40,0,Travel Rarely,639,Operations,13,3,Medical,2,Male,66,3,2,Director of Ops,4,Single,18189379,10000,1,No,2.16,4,2,3,2,6,4,2.4,1.1,1.3,2.4,0.385,0.329,1.788,0.702
+32,0,Travel Frequently,821,HR,2,2,Technical Degree,2,Male,107,4,1,HR Manager,1,Single,20685728,10000,2,Yes,2.48,3,4,0,11,2,1,4.4,1.2,0.8,1.2,0.143,0.227,0.16,0.212
+24,0,Travel Frequently,243,Finance,27,3,Business,4,Male,27,3,3,CFO,2,Divorced,24664856,4142,2,No,2.72,3,3,0,11,3,3,0.6,0.6,0.1,0.5,0.075,0.383,0.235,0.308
+35,0,Travel Frequently,592,Sales,30,2,Business,4,Male,74,3,1,Account Manager,4,Divorced,25000000,10000,2,No,2.35,4,3,1,14,0,2,4.0,1.7,0.8,2.5,0.153,0.339,0.0,0.496
+34,0,Travel Rarely,438,Operations,1,3,Other,1,Female,52,3,1,Process Engineer,2,Single,25000000,9173,1,No,2.99,4,4,0,23,1,2,2.1,2.1,0.0,2.0,0.006,0.681,0.041,0.641
+33,0,Non-Travel,489,Finance,12,4,Medical,3,Female,62,2,5,CFO,2,Divorced,25000000,10000,1,No,0.76,2,4,1,14,3,3,2.7,1.1,0.6,2.7,0.171,0.312,0.188,0.728
+32,0,Non-Travel,482,Sales,8,4,Business,2,Female,51,3,2,Regional Director,4,Single,25000000,10000,1,No,3.99,2,3,1,27,2,4,6.5,0.7,0.0,2.6,0.003,0.091,0.07,0.344
+40,0,Travel Rarely,512,Sales,25,2,Medical,3,Male,71,1,4,VP Sales,3,Divorced,25000000,10000,2,Yes,1.49,4,3,0,16,1,2,5.6,2.2,0.1,1.7,0.013,0.326,0.057,0.261
+32,0,Non-Travel,792,HR,8,3,Other,3,Male,86,3,1,HR Director,4,Divorced,25000000,10000,2,Yes,1.62,4,3,1,16,3,4,2.1,0.7,0.2,2.1,0.074,0.239,0.172,0.675
+31,0,Travel Frequently,315,HR,27,3,Business,2,Female,39,1,3,HR Specialist,4,Married,25000000,7295,1,Yes,1.49,4,3,0,14,2,2,4.6,2.0,0.4,0.8,0.072,0.362,0.132,0.138

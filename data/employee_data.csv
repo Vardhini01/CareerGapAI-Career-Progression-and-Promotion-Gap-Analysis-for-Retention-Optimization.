@@ -1,0 +1,501 @@
+EmployeeID,Name,Department,Position,Salary,Age,Tenure_Years,YearsSincePromotion,Performance_Rating,Training_Hours,Attrition_Risk,Remote_Work
+EMP0001,Harper Fox,Product,Marketing Specialist,103031,36,5.0,2.4,3.2,1,Low,No
+EMP0002,Riley Price,Finance,Operations Lead,101396,29,8.0,0.1,4.4,1,Medium,Yes
+EMP0003,Kendall Gray,Finance,Marketing Specialist,71996,27,0.5,0.5,3.1,2,Medium,Yes
+EMP0004,Cameron Sharp,Operations,Customer Success,124202,40,8.1,5.2,3.4,1,Low,No
+EMP0005,Jamie Brooks,Engineering,HR Partner,116227,29,7.9,2.0,3.2,3,Medium,No
+EMP0006,Emerson Reed,Sales,Operations Lead,123759,37,6.2,0.0,2.7,4,Low,Yes
+EMP0007,Morgan Gray,Finance,Operations Lead,77853,25,3.4,2.1,4.6,4,Low,No
+EMP0008,Drew Lane,Operations,Business Analyst,131157,42,8.1,0.0,3.7,2,High,No
+EMP0009,Casey Sharp,Product,Product Lead,97562,40,5.0,2.1,2.0,2,Low,Yes
+EMP0010,Emerson Cole,Customer Success,Business Analyst,130452,27,5.5,5.5,3.3,2,Low,Yes
+EMP0011,Quinn Reed,HR,Marketing Specialist,68414,28,3.6,2.2,2.1,4,Low,Yes
+EMP0012,Jordan Reed,Sales,Software Engineer,76042,29,1.7,1.7,3.4,0,Low,No
+EMP0013,Sydney Chase,Product,Data Scientist,127509,36,2.1,0.9,4.0,1,Low,Yes
+EMP0014,Avery Chase,HR,Software Engineer,117125,41,4.3,2.7,3.4,1,High,Yes
+EMP0015,Alex Hayes,Finance,Software Engineer,109327,41,7.4,1.4,1.8,1,Medium,No
+EMP0016,Reese Fisher,Engineering,Customer Success,121919,42,9.1,3.3,2.6,1,Low,No
+EMP0017,Harper Baker,Sales,Operations Lead,106307,39,5.2,0.0,4.6,3,Low,Yes
+EMP0018,Morgan Chase,Operations,Software Engineer,120477,44,6.5,2.1,3.6,2,Low,Yes
+EMP0019,Casey Chase,Customer Success,Business Analyst,77175,36,5.8,1.9,4.4,1,Low,No
+EMP0020,Parker Baker,Marketing,Product Lead,98227,36,4.5,2.4,3.0,1,Medium,No
+EMP0021,Casey Graham,Engineering,Product Lead,101186,36,7.1,5.4,4.3,4,High,Yes
+EMP0022,Alex Brooks,Product,Finance Manager,79745,43,3.4,1.6,4.8,1,Low,No
+EMP0023,Avery Baker,Customer Success,Software Engineer,98918,38,11.6,3.1,3.7,4,Low,Yes
+EMP0024,Jordan Stone,Customer Success,HR Partner,112579,30,4.7,4.4,4.0,2,Low,Yes
+EMP0025,Skyler Ross,Product,Data Scientist,77876,45,5.0,2.7,3.1,1,Low,No
+EMP0026,Rowan Miles,Engineering,Finance Manager,154174,52,4.7,2.2,4.8,2,Low,Yes
+EMP0027,Rowan Hayes,Finance,HR Partner,91879,23,9.9,5.9,3.3,0,Medium,Yes
+EMP0028,Casey Cross,Marketing,Business Analyst,119704,43,6.2,4.3,4.3,1,Low,No
+EMP0029,Morgan Hart,Product,Marketing Specialist,55108,32,3.5,1.6,3.2,1,Low,No
+EMP0030,Parker Ross,Product,Product Lead,92128,41,4.1,3.4,4.0,3,High,No
+EMP0031,Casey Ross,Finance,Sales Manager,106248,30,13.3,0.0,2.7,4,Low,No
+EMP0032,Jamie Gray,Customer Success,Finance Manager,77807,34,7.8,7.0,5.0,2,Low,Yes
+EMP0033,Alex Miles,Product,Sales Manager,105054,27,2.9,2.9,3.8,3,Low,No
+EMP0034,Morgan Chase,Product,Operations Lead,130953,32,2.6,0.0,3.6,1,High,No
+EMP0035,Quinn Fox,Operations,Customer Success,115557,33,4.0,1.6,3.2,2,Low,Yes
+EMP0036,Emerson Fox,Customer Success,Business Analyst,85026,30,7.0,0.0,4.3,1,Low,Yes
+EMP0037,Reese Hart,Product,HR Partner,52135,31,3.8,2.3,3.1,1,Low,No
+EMP0038,Logan Brooks,Customer Success,Finance Manager,113964,44,4.7,4.6,2.2,2,Low,Yes
+EMP0039,Harper Fisher,Finance,Operations Lead,60821,22,11.1,0.0,2.8,2,Low,No
+EMP0040,Reese Price,HR,Product Lead,106840,49,1.2,1.2,3.6,2,Low,Yes
+EMP0041,Kendall Cross,Finance,Product Lead,123651,49,8.7,0.0,2.5,1,Medium,Yes
+EMP0042,Kendall Cross,Product,Marketing Specialist,85018,29,7.4,0.0,3.5,3,Medium,Yes
+EMP0043,Emerson Sharp,Product,Operations Lead,112802,41,8.7,0.6,3.5,8,Low,Yes
+EMP0044,Morgan Hayes,Engineering,Software Engineer,129428,31,1.4,1.4,2.8,3,Medium,No
+EMP0045,Reese Graham,Operations,Data Scientist,68629,35,3.7,0.0,4.0,1,Low,Yes
+EMP0046,Logan Hayes,Operations,HR Partner,86141,33,5.0,0.7,5.0,2,Low,No
+EMP0047,Jordan Ross,Engineering,Business Analyst,114362,33,1.7,1.7,4.3,2,Low,Yes
+EMP0048,Alex Hayes,Marketing,Finance Manager,137568,50,1.1,0.9,3.5,0,Low,Yes
+EMP0049,Alex Ross,Marketing,Product Lead,84275,32,7.2,1.8,3.3,1,Low,No
+EMP0050,Jordan Miles,HR,Finance Manager,117343,40,6.1,2.5,2.4,3,Low,No
+EMP0051,Jordan Dean,Marketing,Product Lead,107534,52,3.1,0.0,4.6,0,Low,No
+EMP0052,Riley Miles,Product,Business Analyst,114899,41,4.8,0.0,3.4,2,Low,No
+EMP0053,Cameron Sharp,Customer Success,Business Analyst,105553,39,7.4,0.4,3.8,0,Low,No
+EMP0054,Emerson Cole,Engineering,Customer Success,105312,47,4.9,1.0,5.0,4,Low,No
+EMP0055,Drew Stone,HR,Customer Success,106325,24,2.0,2.0,3.9,0,High,No
+EMP0056,Logan Cole,Marketing,Product Lead,137876,47,10.9,1.4,4.9,3,Medium,No
+EMP0057,Morgan Reed,Finance,Software Engineer,97257,33,6.6,2.2,3.9,5,Low,No
+EMP0058,Rowan Dean,Finance,Sales Manager,89175,33,7.1,2.9,3.1,3,Medium,Yes
+EMP0059,Kendall Wells,Finance,Customer Success,96270,35,7.0,2.6,2.5,3,Medium,No
+EMP0060,Kendall Reed,Product,HR Partner,99089,33,7.8,2.5,4.1,2,High,Yes
+EMP0061,Casey Miles,Sales,Sales Manager,136201,40,2.1,1.1,5.0,3,Low,No
+EMP0062,Jordan Hart,Finance,Finance Manager,94925,35,6.6,0.1,4.1,2,Low,Yes
+EMP0063,Jordan Dean,Sales,Operations Lead,126866,46,10.6,0.0,4.4,3,Low,Yes
+EMP0064,Rowan Miles,Finance,Business Analyst,109051,27,9.9,3.6,4.0,1,Low,Yes
+EMP0065,Emerson Price,Sales,Business Analyst,119181,55,8.6,2.9,3.1,4,Medium,No
+EMP0066,Logan Graham,Sales,Operations Lead,70054,28,4.6,3.2,3.9,4,Low,No
+EMP0067,Quinn Sharp,Product,Software Engineer,115034,31,2.5,0.9,3.0,3,Low,Yes
+EMP0068,Alex Cole,Customer Success,Operations Lead,87640,43,3.6,0.3,3.0,0,Low,No
+EMP0069,Quinn Chase,Sales,Software Engineer,89710,35,5.9,4.2,2.1,0,Low,No
+EMP0070,Reese Hayes,Engineering,Marketing Specialist,109084,40,4.7,1.6,3.8,2,Low,Yes
+EMP0071,Rowan Fisher,Product,Business Analyst,133871,49,11.6,2.5,1.5,4,Low,No
+EMP0072,Parker Dean,Engineering,Customer Success,97173,31,3.8,3.8,2.9,2,Medium,Yes
+EMP0073,Sydney Fox,Marketing,Sales Manager,106554,37,4.4,1.1,3.3,1,High,No
+EMP0074,Reese Wells,Operations,Data Scientist,114427,45,3.7,0.0,3.1,2,High,Yes
+EMP0075,Reese Cross,HR,Data Scientist,109632,44,7.2,4.5,3.8,2,Low,Yes
+EMP0076,Cameron Graham,Product,Software Engineer,101430,32,3.6,2.2,4.4,1,Low,No
+EMP0077,Morgan Cole,Product,Operations Lead,98221,37,6.3,0.6,2.8,0,Low,No
+EMP0078,Taylor Sharp,Product,Sales Manager,84951,41,2.2,0.0,5.0,2,Medium,Yes
+EMP0079,Harper Hayes,Marketing,Operations Lead,78458,29,8.4,6.0,3.7,1,High,Yes
+EMP0080,Quinn Dean,Product,Sales Manager,110674,35,9.7,2.9,3.9,1,Low,No
+EMP0081,Alex Hart,Operations,Business Analyst,102887,42,9.1,3.7,3.9,2,Low,No
+EMP0082,Parker Cole,Product,Customer Success,131925,41,10.4,6.6,5.0,4,Low,Yes
+EMP0083,Quinn Stone,Customer Success,Product Lead,113106,40,7.7,0.5,4.3,2,Low,Yes
+EMP0084,Morgan Hart,Engineering,Data Scientist,83529,24,0.5,0.5,3.6,1,High,No
+EMP0085,Avery Sharp,Engineering,Business Analyst,101374,34,6.7,4.3,2.9,2,Low,No
+EMP0086,Quinn Sharp,Engineering,Customer Success,71851,26,8.0,0.0,3.7,4,Low,Yes
+EMP0087,Emerson Sharp,Operations,Sales Manager,77241,25,5.3,1.5,5.0,3,Medium,No
+EMP0088,Reese Ross,Marketing,Sales Manager,102773,35,6.7,5.7,2.8,2,Low,No
+EMP0089,Alex Chase,Customer Success,Customer Success,80852,26,5.9,4.5,4.0,3,Low,No
+EMP0090,Drew Fox,Engineering,Sales Manager,84746,31,1.7,1.7,3.5,3,Low,No
+EMP0091,Rowan Fisher,Marketing,Marketing Specialist,99654,40,2.8,1.2,3.2,3,Low,No
+EMP0092,Cameron Graham,Engineering,Operations Lead,101683,45,5.9,5.9,2.7,0,Low,Yes
+EMP0093,Sydney Hayes,Marketing,Operations Lead,96263,31,1.3,1.3,2.7,2,Low,No
+EMP0094,Drew Graham,HR,HR Partner,101007,43,5.8,1.2,4.2,0,Medium,Yes
+EMP0095,Rowan Cross,Engineering,Data Scientist,103199,30,5.6,3.1,4.4,1,Low,No
+EMP0096,Casey Hart,Sales,Business Analyst,111636,57,2.9,2.9,4.1,2,High,No
+EMP0097,Emerson Price,Engineering,Marketing Specialist,75101,25,0.5,0.5,5.0,1,Medium,No
+EMP0098,Alex Cross,Sales,Data Scientist,72709,22,5.3,1.2,4.7,4,High,No
+EMP0099,Jordan Gray,Marketing,Customer Success,111646,34,2.3,2.1,3.6,0,High,No
+EMP0100,Riley Ross,Finance,Operations Lead,96465,45,0.5,0.5,5.0,0,Low,Yes
+EMP0101,Reese Fisher,Product,Marketing Specialist,101014,35,4.4,4.4,5.0,2,High,No
+EMP0102,Quinn Wells,Product,Finance Manager,75890,22,1.9,1.9,3.4,3,Low,Yes
+EMP0103,Harper Ross,Customer Success,Product Lead,60528,23,1.9,0.0,3.6,4,Low,Yes
+EMP0104,Jordan Ross,Finance,HR Partner,92843,29,8.9,1.1,4.9,2,Low,No
+EMP0105,Logan Stone,Product,Business Analyst,107507,39,5.4,4.8,3.5,2,Medium,Yes
+EMP0106,Skyler Stone,Customer Success,Software Engineer,60854,22,1.1,1.1,2.9,1,Low,No
+EMP0107,Taylor Reed,Product,Software Engineer,100308,35,4.4,1.1,3.7,0,Medium,No
+EMP0108,Rowan Reed,Engineering,Marketing Specialist,98508,37,5.6,3.7,3.1,3,Low,Yes
+EMP0109,Rowan Graham,Sales,Data Scientist,77545,32,1.1,0.9,4.0,5,Low,No
+EMP0110,Avery Ross,Engineering,Product Lead,96236,27,7.8,4.4,4.2,3,High,Yes
+EMP0111,Drew Fox,Sales,Sales Manager,103715,36,3.7,0.6,3.8,2,Low,Yes
+EMP0112,Morgan Stone,Customer Success,Finance Manager,93375,37,6.2,0.0,4.8,6,High,No
+EMP0113,Emerson Cole,Customer Success,Marketing Specialist,45814,22,5.9,0.0,2.6,0,Low,Yes
+EMP0114,Avery Sharp,Finance,Product Lead,88725,34,6.2,4.7,3.3,1,Low,No
+EMP0115,Kendall Miles,Product,Product Lead,119596,28,3.4,3.1,3.6,2,Low,No
+EMP0116,Alex Fox,Finance,Data Scientist,92836,39,10.6,0.3,2.9,4,Low,Yes
+EMP0117,Drew Chase,Operations,Customer Success,134598,38,10.5,2.0,2.4,5,Low,No
+EMP0118,Sydney Stone,Operations,Sales Manager,99068,27,6.9,2.4,3.0,2,Low,No
+EMP0119,Jamie Baker,Customer Success,Data Scientist,166388,47,5.7,0.6,2.8,2,Low,No
+EMP0120,Jordan Hayes,Operations,Finance Manager,65890,24,1.6,1.6,3.5,1,Low,Yes
+EMP0121,Morgan Miles,Sales,Sales Manager,96906,34,8.4,2.1,4.7,2,Low,Yes
+EMP0122,Alex Price,Marketing,Software Engineer,95327,39,0.5,0.5,3.1,2,Low,No
+EMP0123,Emerson Chase,Sales,Sales Manager,124145,33,9.1,0.2,2.5,3,Medium,No
+EMP0124,Jamie Hart,Engineering,Software Engineer,98952,22,6.1,0.2,4.1,2,Low,Yes
+EMP0125,Cameron Brooks,Marketing,Product Lead,94762,38,4.1,0.9,5.0,2,Low,No
+EMP0126,Taylor Stone,HR,Customer Success,119966,38,6.8,1.8,4.0,3,Low,Yes
+EMP0127,Sydney Sharp,Customer Success,Software Engineer,111621,44,4.9,0.0,4.0,1,Low,Yes
+EMP0128,Jordan Fisher,Operations,Marketing Specialist,104639,35,6.7,2.5,2.4,2,Low,Yes
+EMP0129,Jordan Graham,Sales,Data Scientist,65683,28,5.2,5.2,4.1,3,Low,No
+EMP0130,Quinn Stone,HR,Operations Lead,105888,37,1.1,1.1,3.6,4,Low,Yes
+EMP0131,Skyler Reed,Customer Success,Finance Manager,110520,48,9.6,4.1,2.7,1,Medium,No
+EMP0132,Riley Ross,Engineering,Marketing Specialist,107609,29,7.0,0.0,4.2,1,High,No
+EMP0133,Rowan Brooks,Finance,Business Analyst,124252,62,5.3,3.2,3.1,4,Low,No
+EMP0134,Cameron Wells,Customer Success,HR Partner,109896,35,4.8,4.8,3.4,3,Medium,No
+EMP0135,Sydney Miles,Sales,Marketing Specialist,127821,38,6.2,1.3,1.8,1,Low,Yes
+EMP0136,Logan Miles,Finance,HR Partner,87581,30,4.6,3.3,2.9,2,Low,Yes
+EMP0137,Jamie Hayes,Customer Success,Sales Manager,115352,44,4.7,3.6,5.0,1,Low,Yes
+EMP0138,Jamie Dean,Product,Operations Lead,104155,29,7.8,0.4,3.8,4,Low,Yes
+EMP0139,Cameron Cross,Finance,Operations Lead,75537,25,5.2,3.8,3.9,5,Low,No
+EMP0140,Jamie Lane,Engineering,Data Scientist,66559,35,5.8,1.2,4.6,4,Medium,Yes
+EMP0141,Rowan Chase,Product,Operations Lead,116434,50,4.8,0.6,3.0,1,Low,Yes
+EMP0142,Riley Fox,Engineering,Software Engineer,110742,43,9.7,2.6,2.1,2,Medium,No
+EMP0143,Quinn Fisher,Customer Success,Marketing Specialist,111420,26,9.2,3.8,3.3,5,High,Yes
+EMP0144,Quinn Gray,HR,HR Partner,70465,29,2.2,2.2,3.5,0,Low,No
+EMP0145,Drew Lane,Finance,Marketing Specialist,124330,48,9.8,0.0,2.4,5,Low,No
+EMP0146,Riley Reed,Engineering,Sales Manager,116496,41,7.2,5.2,4.2,4,Low,Yes
+EMP0147,Cameron Fox,Marketing,HR Partner,90945,26,7.5,3.7,2.9,3,Low,No
+EMP0148,Jamie Baker,Product,Business Analyst,89607,39,0.5,0.5,2.1,2,Low,Yes
+EMP0149,Quinn Price,Product,Data Scientist,101100,46,6.4,2.9,2.6,1,Low,No
+EMP0150,Jamie Graham,Sales,Sales Manager,92428,35,1.7,1.4,4.9,3,Low,No
+EMP0151,Casey Hart,Product,Operations Lead,121926,36,6.0,1.0,3.2,3,High,No
+EMP0152,Morgan Brooks,Product,Marketing Specialist,137018,50,13.4,7.2,4.7,2,Low,No
+EMP0153,Sydney Miles,Finance,Customer Success,115918,48,4.8,2.3,2.5,4,Low,No
+EMP0154,Jamie Ross,Marketing,Sales Manager,77615,22,3.4,0.0,4.7,4,Low,Yes
+EMP0155,Jordan Hart,Operations,Sales Manager,70518,31,0.5,0.3,2.5,1,Low,No
+EMP0156,Harper Cross,HR,Marketing Specialist,89792,40,3.4,3.4,3.2,1,Low,No
+EMP0157,Jordan Stone,Marketing,Customer Success,76316,34,0.5,0.5,4.1,5,Low,Yes
+EMP0158,Alex Hart,Marketing,HR Partner,89340,49,6.2,6.0,3.4,2,Low,Yes
+EMP0159,Parker Cross,Marketing,Sales Manager,110722,42,3.2,0.9,3.3,4,Medium,No
+EMP0160,Taylor Hayes,Sales,Business Analyst,92605,33,0.7,0.7,3.5,2,Low,No
+EMP0161,Rowan Wells,Customer Success,Marketing Specialist,143300,47,6.9,0.9,4.2,1,Low,No
+EMP0162,Jamie Ross,Sales,Business Analyst,96485,24,5.7,2.0,2.5,2,Low,Yes
+EMP0163,Jamie Cole,HR,HR Partner,106510,32,3.8,3.8,3.6,1,Low,No
+EMP0164,Drew Wells,Marketing,Operations Lead,113869,32,6.0,5.0,3.3,2,Low,No
+EMP0165,Quinn Gray,Marketing,Marketing Specialist,89747,34,9.6,1.7,2.7,4,Low,No
+EMP0166,Quinn Stone,Marketing,Customer Success,91261,31,4.0,0.4,3.5,3,Low,Yes
+EMP0167,Kendall Baker,Engineering,Sales Manager,96645,35,5.6,2.5,2.9,2,Low,No
+EMP0168,Sydney Fox,Sales,Customer Success,60080,29,0.5,0.5,2.7,1,Medium,No
+EMP0169,Reese Stone,Customer Success,Marketing Specialist,83550,25,1.6,0.9,3.2,1,Medium,No
+EMP0170,Cameron Sharp,Engineering,Data Scientist,66160,26,8.9,2.9,3.3,3,Medium,No
+EMP0171,Quinn Price,Marketing,Software Engineer,99155,45,7.5,3.4,4.5,1,Low,Yes
+EMP0172,Skyler Fox,Sales,Sales Manager,95092,33,6.7,0.0,2.7,0,Medium,No
+EMP0173,Morgan Brooks,Finance,Business Analyst,142773,36,14.7,0.0,4.3,2,Low,No
+EMP0174,Rowan Cole,Customer Success,HR Partner,126418,37,2.6,2.6,4.0,1,Medium,Yes
+EMP0175,Kendall Sharp,Operations,Customer Success,93733,36,7.3,0.6,3.5,3,Low,Yes
+EMP0176,Jamie Graham,HR,Data Scientist,119478,33,6.4,4.6,2.7,2,Low,No
+EMP0177,Jordan Ross,Product,Data Scientist,129852,45,14.1,0.3,2.7,5,Low,Yes
+EMP0178,Drew Hayes,Sales,Operations Lead,105204,34,3.3,3.3,3.5,8,Low,Yes
+EMP0179,Jamie Chase,Engineering,HR Partner,94901,38,5.4,0.7,5.0,2,Low,No
+EMP0180,Skyler Fisher,Finance,Finance Manager,84187,32,3.0,1.9,3.2,3,Low,Yes
+EMP0181,Alex Price,Engineering,Operations Lead,43864,24,2.3,2.3,2.7,3,Medium,No
+EMP0182,Jordan Reed,Finance,Finance Manager,85884,28,4.8,1.8,4.8,3,Low,Yes
+EMP0183,Harper Miles,Customer Success,HR Partner,115074,39,7.3,4.1,3.1,3,Medium,Yes
+EMP0184,Emerson Stone,Marketing,Data Scientist,66749,24,6.0,4.5,3.6,1,Medium,No
+EMP0185,Skyler Sharp,Engineering,Finance Manager,103784,43,1.6,1.6,2.9,3,Low,No
+EMP0186,Harper Brooks,Product,Data Scientist,124714,39,10.2,5.1,3.1,6,Low,Yes
+EMP0187,Parker Ross,Customer Success,Customer Success,112745,37,3.7,0.0,5.0,1,Low,No
+EMP0188,Emerson Lane,Product,HR Partner,129229,44,0.5,0.5,4.0,4,Low,Yes
+EMP0189,Logan Gray,Sales,Sales Manager,101415,37,3.1,0.0,4.5,3,Low,No
+EMP0190,Rowan Graham,Operations,Finance Manager,98597,43,11.6,0.0,3.6,1,Medium,No
+EMP0191,Alex Price,Operations,Sales Manager,89457,29,7.7,3.1,2.8,1,Low,Yes
+EMP0192,Quinn Hart,Marketing,Finance Manager,97103,25,7.9,4.6,3.4,1,Low,No
+EMP0193,Sydney Gray,Product,Product Lead,96984,46,3.3,0.0,2.6,0,Low,No
+EMP0194,Logan Chase,Marketing,Sales Manager,68350,27,1.9,1.9,2.9,0,Low,Yes
+EMP0195,Morgan Wells,Sales,HR Partner,136100,46,10.3,0.0,4.3,3,Medium,Yes
+EMP0196,Casey Miles,Finance,Software Engineer,123366,47,3.0,1.5,2.3,1,Medium,No
+EMP0197,Jordan Baker,Sales,Customer Success,85434,25,5.8,2.1,2.5,0,Low,Yes
+EMP0198,Jordan Lane,Product,Operations Lead,68616,30,5.8,5.8,4.2,4,Low,Yes
+EMP0199,Parker Baker,Finance,Data Scientist,103342,22,6.1,5.4,2.3,1,High,Yes
+EMP0200,Rowan Cole,Product,Customer Success,92014,32,2.9,2.9,3.7,1,Low,No
+EMP0201,Cameron Miles,HR,Product Lead,69905,30,0.5,0.5,3.3,3,Low,No
+EMP0202,Emerson Sharp,Customer Success,Operations Lead,81365,27,11.0,2.0,3.4,2,Low,No
+EMP0203,Avery Miles,Sales,Sales Manager,98810,39,8.8,6.1,2.7,1,Low,No
+EMP0204,Riley Sharp,Operations,Business Analyst,93563,29,1.7,1.7,4.4,0,Low,Yes
+EMP0205,Avery Ross,Operations,HR Partner,109857,48,6.0,0.5,4.0,2,Low,No
+EMP0206,Emerson Stone,Engineering,Customer Success,70355,25,3.8,3.8,3.6,3,Low,Yes
+EMP0207,Avery Cole,Customer Success,Customer Success,86095,23,4.9,3.0,3.6,3,Low,No
+EMP0208,Avery Hayes,Customer Success,Operations Lead,78814,42,4.4,4.4,4.6,4,Low,Yes
+EMP0209,Morgan Dean,Product,Marketing Specialist,102212,27,5.0,4.0,2.6,2,Low,No
+EMP0210,Alex Lane,Finance,Finance Manager,109535,42,8.2,1.6,3.6,2,Medium,Yes
+EMP0211,Quinn Hayes,Operations,HR Partner,83275,28,7.4,2.5,2.8,1,Medium,No
+EMP0212,Harper Dean,Operations,Software Engineer,103393,35,4.7,4.7,1.9,2,Low,Yes
+EMP0213,Avery Stone,Marketing,Marketing Specialist,61647,22,4.5,4.5,3.8,1,Low,No
+EMP0214,Logan Stone,Engineering,Customer Success,124009,40,0.5,0.0,3.8,2,Low,No
+EMP0215,Skyler Wells,Product,Software Engineer,118415,48,8.1,4.2,2.4,3,High,Yes
+EMP0216,Alex Hayes,Engineering,Customer Success,105096,30,6.3,1.3,3.6,1,Low,No
+EMP0217,Skyler Graham,Operations,Operations Lead,100024,34,10.7,3.6,2.4,0,Low,Yes
+EMP0218,Logan Price,Customer Success,Marketing Specialist,102210,33,4.9,2.7,3.6,3,Medium,No
+EMP0219,Rowan Price,Engineering,Operations Lead,87036,33,9.8,2.0,3.7,2,Low,No
+EMP0220,Rowan Miles,Marketing,Finance Manager,117536,52,10.9,4.5,4.9,2,Low,No
+EMP0221,Sydney Miles,HR,Business Analyst,104685,42,9.0,0.4,3.4,0,Medium,No
+EMP0222,Riley Gray,Customer Success,Business Analyst,73806,32,0.6,0.6,3.1,4,Low,No
+EMP0223,Alex Stone,Finance,Business Analyst,57435,34,8.5,0.0,5.0,4,High,No
+EMP0224,Jamie Price,Sales,Data Scientist,93129,40,2.8,0.0,3.3,5,High,No
+EMP0225,Emerson Brooks,HR,Software Engineer,103168,35,5.0,1.7,3.0,0,Low,No
+EMP0226,Emerson Stone,Product,Software Engineer,93105,38,3.7,1.5,3.1,2,Low,No
+EMP0227,Morgan Miles,Marketing,Data Scientist,117021,42,14.8,4.2,3.9,2,Low,Yes
+EMP0228,Jordan Cole,Product,Marketing Specialist,104248,32,9.2,4.4,2.9,1,Medium,No
+EMP0229,Morgan Fisher,Operations,Operations Lead,70639,27,5.9,0.3,2.9,1,Low,No
+EMP0230,Harper Wells,Customer Success,Data Scientist,92778,23,3.7,1.0,2.9,2,Medium,Yes
+EMP0231,Skyler Cole,Operations,Business Analyst,87403,37,0.5,0.5,3.9,3,Low,No
+EMP0232,Quinn Miles,Engineering,Finance Manager,109247,37,3.0,3.0,3.0,1,Low,No
+EMP0233,Rowan Chase,Engineering,Customer Success,118732,39,3.6,0.0,4.4,2,Low,No
+EMP0234,Sydney Fisher,Engineering,Data Scientist,84176,32,4.0,0.0,3.7,3,Medium,No
+EMP0235,Skyler Brooks,Sales,Finance Manager,81978,30,5.6,2.3,3.7,3,Low,No
+EMP0236,Cameron Stone,Engineering,Sales Manager,98547,33,4.4,3.5,2.4,2,Low,No
+EMP0237,Alex Price,Product,HR Partner,137160,46,6.4,0.0,2.4,2,Low,No
+EMP0238,Parker Lane,Sales,Finance Manager,106055,40,0.5,0.5,4.4,4,Low,No
+EMP0239,Quinn Stone,Engineering,Data Scientist,76289,26,7.7,3.4,2.8,3,High,No
+EMP0240,Skyler Gray,Finance,Business Analyst,111887,27,2.3,2.3,1.4,0,Low,No
+EMP0241,Jamie Miles,Customer Success,Product Lead,113418,25,3.5,1.9,2.5,1,Low,No
+EMP0242,Reese Dean,Marketing,Business Analyst,110222,33,5.9,2.2,2.8,0,High,Yes
+EMP0243,Harper Wells,Product,Product Lead,91989,28,6.2,4.1,3.0,2,High,No
+EMP0244,Harper Cole,Engineering,Sales Manager,114030,42,7.0,0.0,3.9,1,Low,Yes
+EMP0245,Harper Stone,Customer Success,HR Partner,82425,22,7.7,2.6,3.2,4,Low,No
+EMP0246,Harper Cross,Product,Business Analyst,95031,36,1.8,1.8,3.3,4,Low,No
+EMP0247,Emerson Hart,Sales,Operations Lead,117313,38,7.2,0.0,3.8,1,High,No
+EMP0248,Skyler Baker,Customer Success,Data Scientist,110877,47,4.7,2.2,4.4,3,Medium,Yes
+EMP0249,Jordan Hart,Operations,Finance Manager,76278,34,3.7,3.7,2.9,2,Low,Yes
+EMP0250,Harper Reed,Marketing,Operations Lead,95323,26,4.2,4.2,3.4,4,Medium,No
+EMP0251,Sydney Hart,Sales,Customer Success,107797,36,6.6,0.0,3.5,1,Low,Yes
+EMP0252,Casey Stone,Operations,Sales Manager,88433,34,5.6,3.6,3.7,4,Medium,No
+EMP0253,Alex Chase,Operations,Data Scientist,80235,36,5.1,1.2,3.7,1,Medium,No
+EMP0254,Riley Fisher,Product,Customer Success,76631,22,9.0,1.7,1.0,4,Low,No
+EMP0255,Riley Fisher,Operations,Marketing Specialist,85464,39,0.5,0.0,4.1,3,Low,Yes
+EMP0256,Sydney Stone,Finance,Customer Success,82022,41,2.5,2.5,3.5,0,High,Yes
+EMP0257,Logan Ross,Engineering,Software Engineer,117933,36,10.3,0.7,3.1,2,Low,No
+EMP0258,Morgan Dean,Product,Data Scientist,101283,34,3.5,2.5,3.0,2,Low,Yes
+EMP0259,Alex Hart,Product,Business Analyst,103118,37,8.7,5.0,2.8,2,Low,No
+EMP0260,Jordan Cross,Customer Success,Sales Manager,86716,33,0.5,0.5,1.9,4,Low,No
+EMP0261,Jamie Sharp,Product,Marketing Specialist,79999,34,3.6,0.0,4.9,0,Low,No
+EMP0262,Drew Stone,Engineering,Product Lead,96770,22,5.3,1.9,5.0,3,Low,No
+EMP0263,Drew Fisher,Marketing,Sales Manager,108511,47,10.6,2.7,4.4,2,Low,No
+EMP0264,Rowan Dean,HR,HR Partner,76511,36,10.4,2.2,2.7,2,Low,No
+EMP0265,Cameron Sharp,Operations,Product Lead,86217,34,3.0,3.0,3.0,3,Low,No
+EMP0266,Skyler Cross,Engineering,Marketing Specialist,88934,23,10.6,3.9,3.5,0,High,No
+EMP0267,Kendall Gray,HR,HR Partner,97937,36,1.5,1.5,4.3,3,Medium,Yes
+EMP0268,Skyler Gray,Sales,Operations Lead,111000,43,4.9,0.1,4.4,4,High,No
+EMP0269,Sydney Ross,Finance,Sales Manager,100008,42,7.6,3.6,3.2,1,Low,No
+EMP0270,Jamie Baker,Sales,HR Partner,125875,47,8.6,7.3,3.5,0,Medium,No
+EMP0271,Logan Gray,Engineering,Business Analyst,85140,29,5.7,4.6,3.9,5,Low,No
+EMP0272,Harper Fisher,HR,Product Lead,112995,56,4.7,2.3,4.1,1,Low,No
+EMP0273,Riley Sharp,Customer Success,Sales Manager,88450,37,0.9,0.9,4.6,6,Medium,No
+EMP0274,Reese Lane,Marketing,Software Engineer,97587,33,5.9,0.6,2.6,2,Low,No
+EMP0275,Taylor Gray,Operations,Marketing Specialist,109551,35,5.7,0.0,4.5,3,High,No
+EMP0276,Emerson Fox,HR,Business Analyst,116885,34,8.8,1.7,2.8,1,Low,No
+EMP0277,Morgan Cole,Sales,Finance Manager,115011,29,7.6,2.5,1.6,1,Low,No
+EMP0278,Rowan Stone,Engineering,Finance Manager,111016,37,5.2,0.6,4.1,3,Medium,No
+EMP0279,Parker Chase,Product,Sales Manager,84323,22,12.0,5.0,2.9,4,Low,Yes
+EMP0280,Jamie Sharp,Operations,Product Lead,93256,41,7.5,0.0,4.0,4,Low,No
+EMP0281,Jordan Miles,Product,Operations Lead,94531,32,4.4,0.3,4.1,5,Medium,No
+EMP0282,Harper Lane,Product,Sales Manager,106064,33,7.8,3.8,4.3,6,Low,No
+EMP0283,Avery Miles,Engineering,Operations Lead,96477,33,8.0,0.2,3.8,3,Low,No
+EMP0284,Emerson Miles,Sales,Software Engineer,73480,22,2.0,2.0,3.2,1,Low,No
+EMP0285,Parker Miles,HR,Operations Lead,117199,34,11.4,3.3,3.5,3,Low,Yes
+EMP0286,Jamie Baker,Finance,Sales Manager,91374,34,5.8,5.8,4.3,2,Low,No
+EMP0287,Drew Chase,Operations,HR Partner,110182,36,2.9,0.6,2.2,3,Low,Yes
+EMP0288,Reese Gray,Sales,HR Partner,127715,32,12.3,1.9,1.0,3,Medium,Yes
+EMP0289,Morgan Ross,Marketing,Product Lead,108934,37,7.4,5.3,3.0,2,Medium,No
+EMP0290,Parker Miles,Engineering,Sales Manager,105207,33,0.5,0.5,2.9,2,Low,Yes
+EMP0291,Sydney Gray,Engineering,Product Lead,105647,49,3.2,0.4,3.3,0,Low,No
+EMP0292,Alex Sharp,Sales,Business Analyst,112285,42,3.7,3.7,2.8,5,Low,No
+EMP0293,Morgan Gray,Operations,Operations Lead,109621,44,5.5,2.0,3.4,6,Low,No
+EMP0294,Drew Fisher,Operations,Data Scientist,93474,36,6.0,6.0,3.7,2,Medium,No
+EMP0295,Morgan Brooks,Product,Operations Lead,111763,29,12.2,0.1,2.2,3,High,Yes
+EMP0296,Riley Cross,Finance,Marketing Specialist,101342,31,10.7,2.2,3.0,2,Low,No
+EMP0297,Avery Chase,Sales,Operations Lead,117379,34,8.0,2.6,2.4,2,Low,No
+EMP0298,Avery Reed,Engineering,Marketing Specialist,109522,36,2.9,2.9,2.9,4,Medium,No
+EMP0299,Morgan Price,Sales,HR Partner,112717,48,10.0,3.2,3.1,3,Low,No
+EMP0300,Logan Miles,Sales,Data Scientist,130064,52,6.5,1.5,4.1,2,Low,No
+EMP0301,Jamie Price,Engineering,Marketing Specialist,86165,26,5.6,4.9,5.0,5,Medium,Yes
+EMP0302,Kendall Stone,Finance,Product Lead,93314,35,8.4,3.5,3.5,1,Low,Yes
+EMP0303,Avery Brooks,Marketing,Marketing Specialist,80738,33,0.5,0.0,2.6,2,Medium,No
+EMP0304,Emerson Dean,Operations,Software Engineer,99377,33,6.4,2.2,2.9,4,Medium,No
+EMP0305,Harper Dean,Sales,Business Analyst,84928,31,4.9,0.9,5.0,3,Low,No
+EMP0306,Logan Wells,Finance,Finance Manager,122983,31,5.1,3.6,3.4,2,Medium,No
+EMP0307,Quinn Hayes,Operations,Customer Success,99234,51,0.5,0.5,4.5,3,Low,No
+EMP0308,Cameron Ross,Engineering,Business Analyst,104480,38,7.3,1.7,3.5,1,Low,Yes
+EMP0309,Casey Miles,Customer Success,Operations Lead,100797,38,1.7,0.0,1.8,3,Low,Yes
+EMP0310,Morgan Baker,Operations,Operations Lead,99592,32,4.6,0.0,3.8,2,High,Yes
+EMP0311,Riley Sharp,Engineering,Business Analyst,100914,24,10.9,0.9,2.8,3,Low,No
+EMP0312,Jamie Brooks,Sales,Business Analyst,120702,44,4.2,2.8,2.7,7,Low,Yes
+EMP0313,Drew Price,Marketing,Marketing Specialist,96425,37,8.7,1.2,3.0,4,Medium,No
+EMP0314,Cameron Fox,Finance,Operations Lead,126197,44,9.5,2.4,4.3,2,Low,Yes
+EMP0315,Sydney Dean,HR,Product Lead,100469,29,12.2,2.5,2.4,4,Low,No
+EMP0316,Skyler Stone,Operations,Sales Manager,122531,32,5.8,0.2,2.8,2,Medium,Yes
+EMP0317,Taylor Fisher,HR,Sales Manager,93232,37,6.2,3.3,3.7,5,Low,Yes
+EMP0318,Skyler Lane,Product,Marketing Specialist,78751,38,4.5,2.6,4.4,0,Low,Yes
+EMP0319,Alex Baker,Product,Business Analyst,124953,46,6.4,1.3,3.9,1,Medium,Yes
+EMP0320,Emerson Hart,Sales,Sales Manager,127636,39,14.0,3.7,3.5,2,Medium,No
+EMP0321,Parker Dean,Operations,Software Engineer,130919,41,9.6,1.5,3.4,0,Medium,No
+EMP0322,Skyler Hart,Product,Sales Manager,111973,37,5.0,0.6,3.6,1,Medium,Yes
+EMP0323,Reese Hart,Finance,Sales Manager,89106,40,3.2,3.2,2.5,2,Low,No
+EMP0324,Taylor Hayes,Finance,Operations Lead,121521,43,5.6,5.6,2.7,2,Medium,No
+EMP0325,Alex Lane,Finance,Software Engineer,73847,24,3.3,2.6,3.9,2,Low,No
+EMP0326,Taylor Cole,Operations,Data Scientist,86626,29,0.8,0.8,2.2,4,Medium,No
+EMP0327,Casey Gray,HR,HR Partner,60582,22,2.9,2.9,2.8,1,Low,No
+EMP0328,Reese Chase,Finance,Sales Manager,100274,41,1.8,1.4,3.7,4,Medium,No
+EMP0329,Taylor Price,Product,Data Scientist,80288,35,7.7,5.0,3.7,1,Low,No
+EMP0330,Sydney Gray,Sales,HR Partner,105275,22,4.0,4.0,4.3,4,High,No
+EMP0331,Logan Reed,Sales,Software Engineer,116596,36,2.1,0.0,4.4,4,Low,No
+EMP0332,Logan Wells,HR,Finance Manager,92389,42,3.0,1.6,5.0,0,Low,Yes
+EMP0333,Kendall Reed,HR,Marketing Specialist,125182,47,7.5,0.0,3.1,3,Low,No
+EMP0334,Quinn Cole,Finance,Software Engineer,102107,38,3.4,2.1,3.2,4,Medium,Yes
+EMP0335,Alex Miles,Marketing,Operations Lead,102921,37,3.6,3.6,3.1,5,Low,Yes
+EMP0336,Jamie Baker,Sales,Marketing Specialist,107383,32,5.1,0.0,5.0,2,Low,No
+EMP0337,Riley Ross,Customer Success,Customer Success,87974,34,0.5,0.5,3.2,1,Low,No
+EMP0338,Jamie Lane,Sales,Business Analyst,103355,44,1.4,1.4,4.9,4,Low,No
+EMP0339,Quinn Gray,Sales,Product Lead,144231,57,8.1,0.2,5.0,2,Low,No
+EMP0340,Jamie Gray,Engineering,Data Scientist,75724,34,7.3,0.6,2.4,3,Low,No
+EMP0341,Skyler Cross,Engineering,Software Engineer,94461,32,7.8,0.0,3.6,2,Low,Yes
+EMP0342,Sydney Chase,Operations,Sales Manager,89754,32,5.0,1.7,3.2,1,Low,No
+EMP0343,Reese Fisher,Operations,Product Lead,104941,37,2.3,0.0,3.6,3,Medium,No
+EMP0344,Harper Chase,Operations,Operations Lead,102828,45,7.5,4.3,3.0,2,Low,Yes
+EMP0345,Reese Gray,Engineering,Data Scientist,103020,36,10.9,0.0,2.4,0,High,Yes
+EMP0346,Logan Gray,Marketing,Finance Manager,96969,42,2.4,2.4,3.5,2,Medium,No
+EMP0347,Riley Wells,Customer Success,Sales Manager,129738,35,9.2,3.2,2.9,2,Low,No
+EMP0348,Skyler Fox,Customer Success,Operations Lead,119625,34,7.2,2.2,3.5,5,Medium,No
+EMP0349,Harper Hayes,Engineering,Sales Manager,89205,22,9.8,1.3,3.0,3,Medium,No
+EMP0350,Avery Graham,Finance,HR Partner,74498,22,3.9,3.9,4.2,4,Low,Yes
+EMP0351,Cameron Hayes,HR,HR Partner,107336,41,6.3,5.3,3.2,2,Low,No
+EMP0352,Parker Cross,Product,HR Partner,91659,22,2.9,0.4,3.7,4,Low,No
+EMP0353,Harper Wells,Sales,Data Scientist,88278,43,9.3,5.6,3.6,1,Low,No
+EMP0354,Emerson Gray,Engineering,Marketing Specialist,95432,29,6.0,4.6,4.1,3,High,No
+EMP0355,Alex Price,Operations,Customer Success,88852,40,9.0,2.3,2.7,3,Low,No
+EMP0356,Drew Fox,Sales,Operations Lead,83240,22,7.1,3.5,3.0,3,Low,Yes
+EMP0357,Jordan Lane,Marketing,Finance Manager,87862,32,3.9,0.5,2.5,2,Low,Yes
+EMP0358,Drew Price,Customer Success,Software Engineer,103611,38,12.3,3.0,4.8,2,Low,No
+EMP0359,Riley Hayes,Marketing,Operations Lead,107757,37,5.6,4.6,3.8,2,Low,No
+EMP0360,Sydney Chase,Sales,Software Engineer,100194,33,0.5,0.5,3.6,5,Low,No
+EMP0361,Reese Gray,HR,Sales Manager,99639,35,1.9,0.6,3.2,2,Medium,Yes
+EMP0362,Jordan Chase,Sales,Finance Manager,60979,26,1.9,0.0,4.5,6,Low,No
+EMP0363,Kendall Cross,Product,Software Engineer,78554,48,9.1,3.7,2.6,1,Low,No
+EMP0364,Skyler Sharp,Product,Product Lead,79269,27,6.2,0.6,3.0,3,Low,Yes
+EMP0365,Taylor Fisher,Engineering,Product Lead,82667,22,9.8,1.0,4.4,2,Low,No
+EMP0366,Skyler Hayes,Operations,Operations Lead,77234,22,5.4,5.4,2.8,3,Low,No
+EMP0367,Jamie Hayes,Operations,Marketing Specialist,113963,44,1.2,0.3,2.2,1,Medium,No
+EMP0368,Casey Dean,Finance,Product Lead,100435,36,5.6,0.9,2.6,5,Low,No
+EMP0369,Morgan Graham,Operations,Operations Lead,102708,36,8.1,3.2,3.1,6,Low,No
+EMP0370,Casey Baker,Product,Product Lead,114833,30,5.7,2.6,4.0,6,Low,No
+EMP0371,Harper Miles,Finance,Customer Success,95990,44,6.4,0.7,3.3,2,Low,Yes
+EMP0372,Quinn Miles,HR,HR Partner,120865,47,7.1,1.0,3.9,0,Low,No
+EMP0373,Harper Dean,Finance,Finance Manager,125626,23,10.5,0.8,3.1,4,Medium,No
+EMP0374,Cameron Baker,Customer Success,Software Engineer,79323,28,8.7,0.0,4.2,4,Medium,Yes
+EMP0375,Quinn Hayes,Engineering,HR Partner,108109,47,5.6,0.5,3.2,0,Low,Yes
+EMP0376,Emerson Stone,Product,Operations Lead,116273,36,9.8,0.0,3.5,2,Low,Yes
+EMP0377,Reese Fisher,HR,Operations Lead,88667,31,5.5,1.4,4.7,4,Low,No
+EMP0378,Avery Hart,Customer Success,HR Partner,53478,22,4.3,3.8,4.4,3,Low,Yes
+EMP0379,Avery Ross,Sales,Marketing Specialist,69305,23,6.5,0.0,2.0,7,Low,No
+EMP0380,Rowan Wells,Operations,Marketing Specialist,112449,42,3.2,2.4,3.9,3,Low,Yes
+EMP0381,Emerson Reed,Sales,Sales Manager,85794,32,3.5,1.4,3.5,5,Low,Yes
+EMP0382,Reese Fisher,Product,Customer Success,100083,32,6.3,1.5,3.6,4,Low,No
+EMP0383,Quinn Fisher,Operations,Product Lead,79866,42,3.3,3.3,5.0,3,Low,No
+EMP0384,Rowan Miles,Engineering,Product Lead,68217,33,1.9,1.9,3.3,1,Medium,No
+EMP0385,Drew Graham,Customer Success,Software Engineer,120785,35,5.2,0.9,3.1,1,Low,No
+EMP0386,Taylor Chase,Sales,Marketing Specialist,96610,29,3.3,3.3,4.5,4,Low,No
+EMP0387,Reese Chase,Engineering,Marketing Specialist,105567,29,1.4,0.5,4.6,1,Low,No
+EMP0388,Drew Fisher,Operations,Business Analyst,89850,42,1.9,1.9,4.6,2,Low,No
+EMP0389,Quinn Chase,Engineering,Sales Manager,134557,56,6.8,3.6,2.9,1,Medium,No
+EMP0390,Jamie Baker,Operations,Business Analyst,74771,40,7.6,0.0,4.0,4,High,No
+EMP0391,Parker Sharp,Engineering,Software Engineer,91616,26,5.6,4.8,4.1,1,Low,Yes
+EMP0392,Cameron Chase,Marketing,Sales Manager,58740,22,4.8,3.7,3.9,2,Low,No
+EMP0393,Emerson Lane,Product,Business Analyst,67082,31,4.8,4.4,3.9,2,Low,No
+EMP0394,Casey Graham,Operations,HR Partner,71538,22,3.7,1.7,3.2,4,Low,Yes
+EMP0395,Jordan Baker,Finance,Customer Success,112846,36,6.7,1.0,3.6,2,Low,No
+EMP0396,Jamie Cole,Sales,Sales Manager,103487,25,4.9,3.6,3.3,3,Low,No
+EMP0397,Avery Graham,Engineering,HR Partner,95716,51,5.6,4.9,3.7,0,Low,No
+EMP0398,Riley Hayes,Finance,Sales Manager,78998,26,0.5,0.3,2.9,4,Medium,Yes
+EMP0399,Logan Chase,Engineering,Data Scientist,75625,36,5.4,0.0,2.9,4,High,Yes
+EMP0400,Quinn Reed,Marketing,Product Lead,83342,31,1.5,1.5,3.5,0,Low,No
+EMP0401,Logan Gray,Engineering,Sales Manager,125402,34,7.7,2.1,3.7,3,Low,Yes
+EMP0402,Taylor Gray,Finance,Finance Manager,78598,22,6.2,5.1,2.1,4,Medium,No
+EMP0403,Kendall Cole,Sales,Operations Lead,84074,26,5.5,3.7,2.5,1,Low,No
+EMP0404,Harper Cole,Customer Success,Data Scientist,97764,37,7.8,1.4,4.2,4,Low,No
+EMP0405,Riley Fox,Finance,Sales Manager,92989,30,7.8,0.5,2.9,4,High,No
+EMP0406,Emerson Lane,Sales,Finance Manager,82548,38,0.6,0.6,4.8,3,Low,Yes
+EMP0407,Taylor Graham,Customer Success,Software Engineer,107454,33,4.6,3.7,5.0,5,Low,No
+EMP0408,Logan Stone,Sales,Software Engineer,97727,49,2.4,2.4,4.2,5,Medium,No
+EMP0409,Logan Hart,Engineering,Software Engineer,109964,42,5.6,3.7,4.3,0,Low,No
+EMP0410,Reese Chase,Sales,Customer Success,74668,22,7.8,0.4,2.4,2,High,Yes
+EMP0411,Rowan Stone,Customer Success,Operations Lead,117874,45,11.4,2.2,3.5,2,Low,Yes
+EMP0412,Sydney Miles,Sales,Data Scientist,96286,39,3.4,1.7,5.0,3,Low,Yes
+EMP0413,Cameron Wells,Product,Business Analyst,102663,42,8.1,0.0,4.1,3,Low,No
+EMP0414,Taylor Baker,Sales,Product Lead,104377,38,9.2,0.0,4.0,3,Medium,Yes
+EMP0415,Jordan Ross,Product,Finance Manager,99223,37,6.5,2.0,3.9,2,Medium,No
+EMP0416,Parker Cross,Operations,Marketing Specialist,114624,56,7.4,0.0,3.0,5,Medium,Yes
+EMP0417,Rowan Hayes,Finance,Software Engineer,82991,34,9.9,2.0,4.2,3,Low,No
+EMP0418,Cameron Dean,Operations,Operations Lead,122503,39,12.7,3.2,2.2,1,Medium,No
+EMP0419,Jordan Brooks,Engineering,Software Engineer,114798,27,2.6,2.6,4.1,2,Low,No
+EMP0420,Morgan Fox,Product,Operations Lead,105185,39,6.5,3.6,4.5,4,Low,No
+EMP0421,Jamie Stone,Operations,Business Analyst,103136,35,9.4,2.2,2.4,3,Low,No
+EMP0422,Emerson Sharp,Product,Sales Manager,99023,27,0.5,0.5,3.6,3,Low,No
+EMP0423,Kendall Chase,Marketing,HR Partner,106244,43,8.0,1.1,2.9,1,Low,Yes
+EMP0424,Casey Miles,Engineering,Sales Manager,78807,32,2.2,2.2,2.7,6,Low,No
+EMP0425,Cameron Ross,Product,Business Analyst,112414,36,11.2,3.2,3.1,1,Low,No
+EMP0426,Sydney Baker,Sales,Finance Manager,96994,40,0.5,0.5,3.8,0,Low,No
+EMP0427,Riley Reed,Customer Success,Finance Manager,88262,27,6.6,1.9,3.5,4,Low,No
+EMP0428,Jamie Brooks,Operations,Customer Success,79460,37,0.5,0.5,4.1,2,Low,No
+EMP0429,Sydney Dean,Sales,Operations Lead,76452,30,8.5,5.6,3.0,5,Low,Yes
+EMP0430,Cameron Reed,Customer Success,Software Engineer,122324,37,4.0,4.0,4.8,3,Low,No
+EMP0431,Emerson Reed,Finance,Finance Manager,76471,41,0.5,0.5,2.2,5,Low,No
+EMP0432,Drew Hart,Product,Finance Manager,105590,48,7.2,4.3,3.4,2,Low,No
+EMP0433,Reese Cole,Product,HR Partner,96142,36,0.5,0.0,3.0,5,Low,No
+EMP0434,Logan Chase,HR,Marketing Specialist,92745,35,11.6,2.8,5.0,3,Low,No
+EMP0435,Drew Lane,Product,Product Lead,99410,39,9.6,0.3,4.4,4,Low,Yes
+EMP0436,Riley Hart,Marketing,Software Engineer,136058,36,10.8,3.0,3.7,4,Low,No
+EMP0437,Jamie Graham,Marketing,Customer Success,73999,31,2.6,2.6,2.5,2,Low,No
+EMP0438,Morgan Dean,Finance,Sales Manager,98347,35,13.9,5.5,2.2,1,Low,No
+EMP0439,Morgan Cross,Product,Operations Lead,85329,32,6.5,3.6,4.5,2,Low,No
+EMP0440,Taylor Graham,Sales,Operations Lead,110568,37,4.5,3.4,3.6,2,High,No
+EMP0441,Reese Lane,Engineering,HR Partner,107443,44,1.8,1.8,4.2,3,Low,No
+EMP0442,Jamie Chase,Product,Sales Manager,100326,22,8.5,0.5,3.9,4,Low,Yes
+EMP0443,Jordan Dean,Sales,Software Engineer,99277,32,10.8,1.6,2.0,0,Low,No
+EMP0444,Riley Stone,Customer Success,Business Analyst,135694,37,6.1,0.6,4.0,1,Low,No
+EMP0445,Parker Ross,Customer Success,Operations Lead,110392,41,4.0,3.5,2.9,3,Low,No
+EMP0446,Emerson Dean,Engineering,Marketing Specialist,134100,38,5.4,1.8,4.4,2,Medium,Yes
+EMP0447,Kendall Price,Engineering,Customer Success,69652,33,7.3,4.6,4.0,1,Low,No
+EMP0448,Jordan Cole,Operations,Product Lead,93728,34,0.5,0.2,3.2,2,High,No
+EMP0449,Rowan Fisher,Engineering,Sales Manager,66945,33,1.1,1.0,3.5,2,Low,No
+EMP0450,Alex Ross,HR,Software Engineer,114627,37,3.3,1.6,3.7,2,Low,No
+EMP0451,Riley Chase,Customer Success,Sales Manager,137312,46,4.6,1.2,3.0,8,Low,No
+EMP0452,Alex Ross,Sales,Business Analyst,52127,22,4.2,1.7,3.6,4,Low,No
+EMP0453,Riley Chase,Sales,Sales Manager,68083,22,8.4,3.5,3.1,4,Medium,Yes
+EMP0454,Alex Price,Engineering,Operations Lead,93710,33,1.4,0.7,2.4,0,High,No
+EMP0455,Riley Lane,Product,Operations Lead,126939,27,7.3,3.6,3.4,3,Medium,No
+EMP0456,Quinn Ross,Finance,Sales Manager,97563,24,6.6,0.0,3.9,6,Low,Yes
+EMP0457,Avery Miles,Marketing,Customer Success,136534,34,7.7,2.5,3.6,0,Low,No
+EMP0458,Casey Brooks,Product,Operations Lead,100587,24,11.1,3.8,3.7,2,Low,No
+EMP0459,Harper Gray,Engineering,Sales Manager,73431,43,2.4,2.4,3.2,1,Low,Yes
+EMP0460,Harper Dean,HR,Software Engineer,98922,41,2.2,0.0,4.7,1,Medium,No
+EMP0461,Logan Ross,Sales,Software Engineer,133072,50,1.7,0.0,4.8,3,Low,No
+EMP0462,Emerson Reed,Customer Success,Data Scientist,101103,25,0.5,0.5,2.5,2,Low,Yes
+EMP0463,Quinn Dean,Engineering,Product Lead,121031,46,9.3,0.7,2.6,4,Low,Yes
+EMP0464,Rowan Graham,HR,Marketing Specialist,96103,36,1.9,0.8,4.2,4,Low,No
+EMP0465,Casey Fisher,Customer Success,HR Partner,116185,27,4.5,4.4,4.5,0,Low,No
+EMP0466,Drew Gray,Engineering,Software Engineer,97731,29,8.7,3.4,3.1,3,Low,Yes
+EMP0467,Morgan Cole,Operations,HR Partner,70298,22,8.7,1.7,4.4,0,Low,No
+EMP0468,Sydney Gray,Operations,Operations Lead,106427,29,6.9,0.7,3.7,1,Low,No
+EMP0469,Sydney Miles,Finance,Operations Lead,121652,42,9.8,0.3,2.7,5,Low,Yes
+EMP0470,Skyler Cole,Engineering,Customer Success,112405,41,3.1,3.1,2.0,2,Low,No
+EMP0471,Harper Fox,Customer Success,Business Analyst,109246,33,6.4,3.5,4.7,4,Low,No
+EMP0472,Casey Stone,Product,Operations Lead,116926,30,5.4,2.6,4.4,4,Low,No
+EMP0473,Avery Graham,Customer Success,Customer Success,87302,34,2.7,2.7,3.3,4,Low,No
+EMP0474,Jamie Lane,Operations,Operations Lead,114420,44,4.4,1.0,3.6,4,Low,No
+EMP0475,Emerson Sharp,Product,Software Engineer,95111,38,5.0,0.0,4.2,4,Low,No
+EMP0476,Avery Baker,Customer Success,Marketing Specialist,90134,24,5.2,5.2,3.4,4,Low,No
+EMP0477,Casey Ross,Marketing,Product Lead,87725,34,7.4,0.0,3.2,5,Medium,No
+EMP0478,Skyler Wells,Customer Success,Sales Manager,91569,47,10.8,3.1,3.0,1,Low,No
+EMP0479,Rowan Miles,HR,Finance Manager,98714,22,5.2,0.0,2.5,1,Low,Yes
+EMP0480,Casey Hayes,Customer Success,HR Partner,88949,22,10.2,0.0,3.5,3,Low,No
+EMP0481,Taylor Sharp,Sales,Software Engineer,98885,46,3.8,0.2,3.1,0,High,No
+EMP0482,Harper Hart,Sales,Data Scientist,72248,30,4.6,0.0,5.0,1,Low,Yes
+EMP0483,Riley Gray,Customer Success,Software Engineer,111889,44,0.5,0.5,4.2,4,Low,No
+EMP0484,Harper Lane,Operations,Data Scientist,102601,41,7.6,7.2,3.1,2,Low,No
+EMP0485,Taylor Baker,Sales,Business Analyst,91007,36,7.0,3.1,3.5,3,Low,No
+EMP0486,Sydney Stone,Finance,Operations Lead,129005,30,14.4,1.9,2.0,2,Medium,Yes
+EMP0487,Skyler Fisher,Product,Software Engineer,111031,38,7.5,2.2,3.1,5,Low,No
+EMP0488,Harper Lane,Sales,Sales Manager,117686,43,1.3,1.3,4.3,1,Low,No
+EMP0489,Sydney Cross,Customer Success,Sales Manager,79043,27,2.4,2.4,3.7,2,Medium,No
+EMP0490,Reese Hayes,Customer Success,Customer Success,101597,48,2.4,0.0,3.5,4,Medium,No
+EMP0491,Morgan Reed,Engineering,HR Partner,136296,40,0.5,0.5,4.6,3,Medium,No
+EMP0492,Avery Fox,Operations,Sales Manager,87019,31,5.4,4.8,3.0,0,Low,No
+EMP0493,Cameron Cole,Sales,Operations Lead,108967,46,6.3,4.7,4.5,1,High,No
+EMP0494,Skyler Wells,Marketing,HR Partner,90533,34,4.5,2.0,3.5,3,Low,Yes
+EMP0495,Skyler Baker,Customer Success,Operations Lead,110895,38,0.5,0.5,3.9,7,Low,Yes
+EMP0496,Alex Lane,Product,Operations Lead,92545,34,3.3,1.5,3.5,1,Low,No
+EMP0497,Logan Hayes,Customer Success,Software Engineer,110177,43,5.8,4.8,4.3,0,Low,Yes
+EMP0498,Reese Brooks,HR,Product Lead,85410,43,8.8,3.6,3.6,1,Low,No
+EMP0499,Cameron Dean,Sales,Data Scientist,116933,47,4.8,2.5,3.3,4,Low,No
+EMP0500,Casey Price,Customer Success,Business Analyst,99273,40,4.2,0.0,2.6,3,Low,No
